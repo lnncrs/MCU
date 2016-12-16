@@ -1,0 +1,627 @@
+order,movie,year,actor,character,rank
+0,Harry Potter e a Pedra Filosofal,2001,Richard Harris,Professor Albus Dumbledore,10
+0,Harry Potter e a Pedra Filosofal,2001,Maggie Smith,Professor Minerva McGonagall,10
+0,Harry Potter e a Pedra Filosofal,2001,Robbie Coltrane,Rubeus Hagrid,10
+0,Harry Potter e a Pedra Filosofal,2001,Saunders Triplets,Baby Harry Potter,10
+0,Harry Potter e a Pedra Filosofal,2001,Daniel Radcliffe,Harry Potter,10
+0,Harry Potter e a Pedra Filosofal,2001,Fiona Shaw,Aunt Petunia Dursley,10
+0,Harry Potter e a Pedra Filosofal,2001,Harry Melling,Dudley Dursley,10
+0,Harry Potter e a Pedra Filosofal,2001,Richard Griffiths,Uncle Vernon Dursley,10
+0,Harry Potter e a Pedra Filosofal,2001,Derek Deadman,Tom - Bartender in Leaky Cauldron,10
+0,Harry Potter e a Pedra Filosofal,2001,Ian Hart,Professor Quirinus Quirrell,10
+0,Harry Potter e a Pedra Filosofal,2001,Ben Borowiecki,Diagon Alley Boy,10
+0,Harry Potter e a Pedra Filosofal,2001,Warwick Davis,Goblin Bank Teller,10
+0,Harry Potter e a Pedra Filosofal,2001,Verne Troyer,Griphook the Goblin,10
+0,Harry Potter e a Pedra Filosofal,2001,John Hurt,Mr. Ollivander,10
+0,Harry Potter e a Pedra Filosofal,2001,Richard Bremmer,He Who Must Not Be Named,10
+0,Harry Potter e a Pedra Filosofal,2001,Geraldine Somerville,Lily Potter,10
+0,Harry Potter e a Pedra Filosofal,2001,Harry Taylor,Station Guard,10
+0,Harry Potter e a Pedra Filosofal,2001,Julie Walters,Molly Weasley,10
+0,Harry Potter e a Pedra Filosofal,2001,Bonnie Wright,Ginny Weasley,10
+0,Harry Potter e a Pedra Filosofal,2001,Chris Rankin,Percy Weasley,10
+0,Harry Potter e a Pedra Filosofal,2001,James Phelps,Fred Weasley,10
+0,Harry Potter e a Pedra Filosofal,2001,Oliver Phelps,George Weasley,10
+0,Harry Potter e a Pedra Filosofal,2001,Rupert Grint,Ron Weasley,10
+0,Harry Potter e a Pedra Filosofal,2001,Jean Southern,Dimpled Woman on Train,10
+0,Harry Potter e a Pedra Filosofal,2001,Emma Watson,Hermione Granger,10
+0,Harry Potter e a Pedra Filosofal,2001,Matthew Lewis,Neville Longbottom,10
+0,Harry Potter e a Pedra Filosofal,2001,Tom Felton,Draco Malfoy,10
+0,Harry Potter e a Pedra Filosofal,2001,Jamie Waylett,Vincent Crabbe,10
+0,Harry Potter e a Pedra Filosofal,2001,Josh Herdman,Gregory Goyle,10
+0,Harry Potter e a Pedra Filosofal,2001,Devon Murray,Seamus Finnigan,10
+0,Harry Potter e a Pedra Filosofal,2001,Alfred Enoch,Dean Thomas,10
+0,Harry Potter e a Pedra Filosofal,2001,Leslie Phillips,The Sorting Hat,10
+0,Harry Potter e a Pedra Filosofal,2001,Eleanor Columbus,Susan Bones,10
+0,Harry Potter e a Pedra Filosofal,2001,John Cleese,Nearly Headless Nick,10
+0,Harry Potter e a Pedra Filosofal,2001,Terence Bayler,The Bloody Baron,10
+0,Harry Potter e a Pedra Filosofal,2001,Simon Fisher-Becker,Fat Friar,10
+0,Harry Potter e a Pedra Filosofal,2001,Nina Young,The Grey Lady,10
+0,Harry Potter e a Pedra Filosofal,2001,David Bradley,Argus Filch,10
+0,Harry Potter e a Pedra Filosofal,2001,Alan Rickman,Severus Snape,10
+0,Harry Potter e a Pedra Filosofal,2001,Zoë Wanamaker,Madame Hooch,10
+0,Harry Potter e a Pedra Filosofal,2001,Luke Youngblood,Lee Jordan,10
+0,Harry Potter e a Pedra Filosofal,2001,Sean Biggerstaff,Oliver Wood,10
+0,Harry Potter e a Pedra Filosofal,2001,Elizabeth Spriggs,Fat Lady,10
+0,Harry Potter e a Pedra Filosofal,2001,Danielle Tabor,Angelina Johnson,10
+0,Harry Potter e a Pedra Filosofal,2001,Leilah Sutherland,Alicia Spinnet,10
+0,Harry Potter e a Pedra Filosofal,2001,Emily Dale,Katie Bell,10
+0,Harry Potter e a Pedra Filosofal,2001,David Holmes,Adrian Pucey,10
+0,Harry Potter e a Pedra Filosofal,2001,Will Theakston,Marcus Flint,10
+0,Harry Potter e a Pedra Filosofal,2001,Scot Fearn,Terrence Higgs,10
+0,Harry Potter e a Pedra Filosofal,2001,Adrian Rawlins,James Potter,10
+0,Harry Potter e a Pedra Filosofal,2001,Ray Fearon,Firenze,10
+0,Harry Potter e a Pedra Filosofal,2001,Mark Ballas,Hogwarts Schoolboy,10
+0,Harry Potter e a Pedra Filosofal,2001,Lukas Bennett,Hogwarts Schoolboy,10
+0,Harry Potter e a Pedra Filosofal,2001,David Brett,Dedalus Diggle,10
+0,Harry Potter e a Pedra Filosofal,2001,Maria Coyne,Hogwarts Student,10
+0,Harry Potter e a Pedra Filosofal,2001,Paul Marc Davis,Ghost of the Cavalier,10
+0,Harry Potter e a Pedra Filosofal,2001,David William James Elliott,Griffindor Senior,10
+0,Harry Potter e a Pedra Filosofal,2001,Holly-Ann Filtness,Schoolgirl,10
+0,Harry Potter e a Pedra Filosofal,2001,Rusty Goffe,Gringott's Goblin,10
+0,Harry Potter e a Pedra Filosofal,2001,Paul Grant,Goblin,10
+0,Harry Potter e a Pedra Filosofal,2001,Derek Hough,Hogwarts Schoolboy,10
+0,Harry Potter e a Pedra Filosofal,2001,Julianne Hough,Hogwarts Schoolgirl,10
+0,Harry Potter e a Pedra Filosofal,2001,Will Howes,Hogwarts Student,10
+0,Harry Potter e a Pedra Filosofal,2001,Kieri Kennedy,Child at Zoo,10
+0,Harry Potter e a Pedra Filosofal,2001,Oliver Lavery-Farag,Hogwarts' Student,10
+0,Harry Potter e a Pedra Filosofal,2001,Lisa Osmond,Gringotts Goblin,10
+0,Harry Potter e a Pedra Filosofal,2001,Cath Peakin,Hogwarts Student,10
+0,Harry Potter e a Pedra Filosofal,2001,Stefan Pejic,Student,10
+0,Harry Potter e a Pedra Filosofal,2001,Jason Porter,Hogwarts Student,10
+0,Harry Potter e a Pedra Filosofal,2001,Amy Puglia,Quidditch Player,10
+0,Harry Potter e a Pedra Filosofal,2001,Nicholas Read,Goblin,10
+0,Harry Potter e a Pedra Filosofal,2001,Richard Alan Reid,Gryffindor Prefect,10
+0,Harry Potter e a Pedra Filosofal,2001,Miles Richardson,Man in Armour Portrait,10
+0,Harry Potter e a Pedra Filosofal,2001,Mark Sealey,Gringotts Goblin,10
+0,Harry Potter e a Pedra Filosofal,2001,Kiran Shah,Goblin,10
+0,Harry Potter e a Pedra Filosofal,2001,Bianca Sowerby,Hogwarts' Student,10
+0,Harry Potter e a Pedra Filosofal,2001,Dolly Thompson,Hogwarts Student,10
+0,Harry Potter e a Pedra Filosofal,2001,Darren Tough,Hogwarts Schoolboy,10
+0,Harry Potter e a Pedra Filosofal,2001,Bernadette Jane Vanderkar,Hogwarts Student,10
+0,Harry Potter e a Pedra Filosofal,2001,Jimmy Vee,Goblin,10
+1,Harry Potter e a Câmara Secreta,2002,Daniel Radcliffe,Harry Potter,10
+1,Harry Potter e a Câmara Secreta,2002,Rupert Grint,Ron Weasley,10
+1,Harry Potter e a Câmara Secreta,2002,Emma Watson,Hermione Granger,10
+1,Harry Potter e a Câmara Secreta,2002,Richard Griffiths,Uncle Vernon Dursley,10
+1,Harry Potter e a Câmara Secreta,2002,Fiona Shaw,Aunt Petunia Dursley,10
+1,Harry Potter e a Câmara Secreta,2002,Harry Melling,Dudley Dursley,10
+1,Harry Potter e a Câmara Secreta,2002,Toby Jones,Dobby the House Elf,10
+1,Harry Potter e a Câmara Secreta,2002,Jim Norton,Mr. Mason,10
+1,Harry Potter e a Câmara Secreta,2002,Veronica Clifford,Mrs. Mason,10
+1,Harry Potter e a Câmara Secreta,2002,James Phelps,Fred Weasley,10
+1,Harry Potter e a Câmara Secreta,2002,Oliver Phelps,George Weasley,10
+1,Harry Potter e a Câmara Secreta,2002,Julie Walters,Mrs Weasley,10
+1,Harry Potter e a Câmara Secreta,2002,Bonnie Wright,Ginny Weasley,10
+1,Harry Potter e a Câmara Secreta,2002,Mark Williams,Arthur Weasley,10
+1,Harry Potter e a Câmara Secreta,2002,Chris Rankin,Percy Weasley,10
+1,Harry Potter e a Câmara Secreta,2002,Tom Felton,Draco Malfoy,10
+1,Harry Potter e a Câmara Secreta,2002,Jason Isaacs,Lucius Malfoy,10
+1,Harry Potter e a Câmara Secreta,2002,Edward Tudor-Pole,Mr. Borgin,10
+1,Harry Potter e a Câmara Secreta,2002,Robbie Coltrane,Rubeus Hagrid,10
+1,Harry Potter e a Câmara Secreta,2002,Tom Knight,Mr. Granger,10
+1,Harry Potter e a Câmara Secreta,2002,Heather Bleasdale,Mrs. Granger,10
+1,Harry Potter e a Câmara Secreta,2002,Kenneth Branagh,Professor Gilderoy Lockhart,10
+1,Harry Potter e a Câmara Secreta,2002,Harry Taylor,Station Guard,10
+1,Harry Potter e a Câmara Secreta,2002,Matthew Lewis,Neville Longbottom,10
+1,Harry Potter e a Câmara Secreta,2002,Devon Murray,Seamus Finnigan,10
+1,Harry Potter e a Câmara Secreta,2002,David Bradley,Argus Filch,10
+1,Harry Potter e a Câmara Secreta,2002,Alan Rickman,Severus Snape,10
+1,Harry Potter e a Câmara Secreta,2002,Richard Harris,Professor Albus Dumbledore,10
+1,Harry Potter e a Câmara Secreta,2002,Maggie Smith,Professor Minerva McGonagall,10
+1,Harry Potter e a Câmara Secreta,2002,Jamie Waylett,Vincent Crabbe,10
+1,Harry Potter e a Câmara Secreta,2002,Josh Herdman,Gregory Goyle,10
+1,Harry Potter e a Câmara Secreta,2002,Miriam Margolyes,Professor Pomona Sprout,10
+1,Harry Potter e a Câmara Secreta,2002,Gemma Padley,Penelope Clearwater,10
+1,Harry Potter e a Câmara Secreta,2002,John Cleese,Nearly Headless Nick,10
+1,Harry Potter e a Câmara Secreta,2002,Hugh Mitchell,Colin Creevey,10
+1,Harry Potter e a Câmara Secreta,2002,Alfred Enoch,Dean Thomas,10
+1,Harry Potter e a Câmara Secreta,2002,Eleanor Columbus,Susan Bones,10
+1,Harry Potter e a Câmara Secreta,2002,Sean Biggerstaff,Oliver Wood,10
+1,Harry Potter e a Câmara Secreta,2002,Rochelle Douglas,Alicia Spinnet,10
+1,Harry Potter e a Câmara Secreta,2002,Emily Dale,Katie Bell,10
+1,Harry Potter e a Câmara Secreta,2002,Danielle Tabor,Angelina Johnson,10
+1,Harry Potter e a Câmara Secreta,2002,Jamie Yeates,Slytherin Quidditch Captain Marcus Flint,10
+1,Harry Potter e a Câmara Secreta,2002,Warwick Davis,Professor Flitwick,10
+1,Harry Potter e a Câmara Secreta,2002,Violet Columbus,Girl with Flowers,10
+1,Harry Potter e a Câmara Secreta,2002,Luke Youngblood,Lee Jordan,10
+1,Harry Potter e a Câmara Secreta,2002,Scot Fearn,Adrian Pucey,10
+1,Harry Potter e a Câmara Secreta,2002,Gemma Jones,Madam Pomfrey,10
+1,Harry Potter e a Câmara Secreta,2002,Shirley Henderson,Moaning Myrtle,10
+1,Harry Potter e a Câmara Secreta,2002,Edward Randell,Justin Finch-Fletchley,10
+1,Harry Potter e a Câmara Secreta,2002,Sally Mortemore,Madam Irma Pince,10
+1,Harry Potter e a Câmara Secreta,2002,Louis Doyle,Ernie MacMillan,10
+1,Harry Potter e a Câmara Secreta,2002,Charlotte Skeoch,Hannah Abbott,10
+1,Harry Potter e a Câmara Secreta,2002,Leslie Phillips,The Sorting Hat,10
+1,Harry Potter e a Câmara Secreta,2002,Helen Stuart,Millicent Bulstrode,10
+1,Harry Potter e a Câmara Secreta,2002,David Tysall,Count - Moving Picture,10
+1,Harry Potter e a Câmara Secreta,2002,Christian Coulson,Tom Marvolo Riddle,10
+1,Harry Potter e a Câmara Secreta,2002,Martin Bayfield,Young Rubeus Hagrid,10
+1,Harry Potter e a Câmara Secreta,2002,Robert Hardy,Cornelius Fudge,10
+1,Harry Potter e a Câmara Secreta,2002,Julian Glover,Aragog,10
+1,Harry Potter e a Câmara Secreta,2002,Macéo Bhardwaj,Slytherin Student,10
+1,Harry Potter e a Câmara Secreta,2002,Maria Coyne,Hogwarts Student,10
+1,Harry Potter e a Câmara Secreta,2002,Sean Cronin,Wizard,10
+1,Harry Potter e a Câmara Secreta,2002,Oliver Lavery-Farag,Hogwarts' Student,10
+1,Harry Potter e a Câmara Secreta,2002,Terence McAuley,Wizard,10
+1,Harry Potter e a Câmara Secreta,2002,Adrian Rawlins,James Potter,10
+1,Harry Potter e a Câmara Secreta,2002,Geraldine Somerville,Lily Potter,10
+2,Harry Potter e o Prisioneiro de Azkaban,2004,Daniel Radcliffe,Harry Potter,10
+2,Harry Potter e o Prisioneiro de Azkaban,2004,Richard Griffiths,Uncle Vernon,10
+2,Harry Potter e o Prisioneiro de Azkaban,2004,Pam Ferris,Aunt Marge,10
+2,Harry Potter e o Prisioneiro de Azkaban,2004,Fiona Shaw,Aunt Petunia,10
+2,Harry Potter e o Prisioneiro de Azkaban,2004,Harry Melling,Dudley Dursley,10
+2,Harry Potter e o Prisioneiro de Azkaban,2004,Adrian Rawlins,James Potter,10
+2,Harry Potter e o Prisioneiro de Azkaban,2004,Geraldine Somerville,Lily Potter,10
+2,Harry Potter e o Prisioneiro de Azkaban,2004,Lee Ingleby,Stan Shunpike,10
+2,Harry Potter e o Prisioneiro de Azkaban,2004,Lenny Henry,Shrunken Head,10
+2,Harry Potter e o Prisioneiro de Azkaban,2004,Jimmy Gardner,Ernie the Bus Driver,10
+2,Harry Potter e o Prisioneiro de Azkaban,2004,Gary Oldman,Sirius Black,10
+2,Harry Potter e o Prisioneiro de Azkaban,2004,Jim Tavaré,Tom the Innkeeper,10
+2,Harry Potter e o Prisioneiro de Azkaban,2004,Robert Hardy,Cornelius Fudge,10
+2,Harry Potter e o Prisioneiro de Azkaban,2004,Abby Ford,Young Witch Maid,10
+2,Harry Potter e o Prisioneiro de Azkaban,2004,Rupert Grint,Ron Weasley,10
+2,Harry Potter e o Prisioneiro de Azkaban,2004,Emma Watson,Hermione Granger,10
+2,Harry Potter e o Prisioneiro de Azkaban,2004,Oliver Phelps,George Weasley,10
+2,Harry Potter e o Prisioneiro de Azkaban,2004,James Phelps,Fred Weasley,10
+2,Harry Potter e o Prisioneiro de Azkaban,2004,Chris Rankin,Percy Weasley,10
+2,Harry Potter e o Prisioneiro de Azkaban,2004,Julie Walters,Mrs. Molly Weasley,10
+2,Harry Potter e o Prisioneiro de Azkaban,2004,Bonnie Wright,Ginny Weasley,10
+2,Harry Potter e o Prisioneiro de Azkaban,2004,Mark Williams,Mr. Arthur Weasley,10
+2,Harry Potter e o Prisioneiro de Azkaban,2004,David Thewlis,Professor Lupin,10
+2,Harry Potter e o Prisioneiro de Azkaban,2004,Devon Murray,Seamus Finnegan,10
+2,Harry Potter e o Prisioneiro de Azkaban,2004,Warwick Davis,Wizard,10
+2,Harry Potter e o Prisioneiro de Azkaban,2004,David Bradley,Argus Filch,10
+2,Harry Potter e o Prisioneiro de Azkaban,2004,Michael Gambon,Albus Dumbledore,10
+2,Harry Potter e o Prisioneiro de Azkaban,2004,Alan Rickman,Professor Severus Snape,10
+2,Harry Potter e o Prisioneiro de Azkaban,2004,Maggie Smith,Professor Minerva McGonagall,10
+2,Harry Potter e o Prisioneiro de Azkaban,2004,Robbie Coltrane,Rubeus Hagrid,10
+2,Harry Potter e o Prisioneiro de Azkaban,2004,Matthew Lewis,Neville Longbottom,10
+2,Harry Potter e o Prisioneiro de Azkaban,2004,Sitara Shah,Parvati Patel,10
+2,Harry Potter e o Prisioneiro de Azkaban,2004,Jennifer Smith,Lavender Brown,10
+2,Harry Potter e o Prisioneiro de Azkaban,2004,Tom Felton,Draco Malfoy,10
+2,Harry Potter e o Prisioneiro de Azkaban,2004,Josh Herdman,Gregory Goyle,10
+2,Harry Potter e o Prisioneiro de Azkaban,2004,Genevieve Gaunt,Pansy Parkinson,10
+2,Harry Potter e o Prisioneiro de Azkaban,2004,Kandice Morris,Girl 1,10
+2,Harry Potter e o Prisioneiro de Azkaban,2004,Alfred Enoch,Dean Thomas,10
+2,Harry Potter e o Prisioneiro de Azkaban,2004,Dawn French,Fat Lady in Painting,10
+2,Harry Potter e o Prisioneiro de Azkaban,2004,Annalisa Bugliani,Mother in Portrait,10
+2,Harry Potter e o Prisioneiro de Azkaban,2004,Tess Bu Cuarón,Baby in Portrait,10
+2,Harry Potter e o Prisioneiro de Azkaban,2004,Violet Columbus,Girl With Flowers,10
+2,Harry Potter e o Prisioneiro de Azkaban,2004,Paul Whitehouse,Sir Cadogan,10
+2,Harry Potter e o Prisioneiro de Azkaban,2004,Emma Thompson,Professor Sybil Trelawney,10
+2,Harry Potter e o Prisioneiro de Azkaban,2004,Ekow Quartey,Boy 1,10
+2,Harry Potter e o Prisioneiro de Azkaban,2004,Rick Sahota,Boy 2,10
+2,Harry Potter e o Prisioneiro de Azkaban,2004,Jamie Waylett,Vincent Crabbe,10
+2,Harry Potter e o Prisioneiro de Azkaban,2004,Sharon Sandhu,Girl 2,10
+2,Harry Potter e o Prisioneiro de Azkaban,2004,Danielle Tabor,Angelina Johnson,10
+2,Harry Potter e o Prisioneiro de Azkaban,2004,Julie Christie,Madame Rosmerta,10
+2,Harry Potter e o Prisioneiro de Azkaban,2004,Freddie Davies,Old Man in Portrait,10
+2,Harry Potter e o Prisioneiro de Azkaban,2004,Peter Best,The Executioner,10
+2,Harry Potter e o Prisioneiro de Azkaban,2004,Timothy Spall,Peter Pettigrew,10
+2,Harry Potter e o Prisioneiro de Azkaban,2004,Ian Brown,Man in the Leaky Cauldron Reading Book,10
+3,Harry Potter e o Cálice de Fogo,2005,Eric Sykes,Frank Bryce,10
+3,Harry Potter e o Cálice de Fogo,2005,Timothy Spall,Wormtail (Peter Pettigrew),10
+3,Harry Potter e o Cálice de Fogo,2005,David Tennant,Bartemius 'Barty' Crouch Junior,10
+3,Harry Potter e o Cálice de Fogo,2005,Daniel Radcliffe,Harry Potter,10
+3,Harry Potter e o Cálice de Fogo,2005,Emma Watson,Hermione Granger,10
+3,Harry Potter e o Cálice de Fogo,2005,Rupert Grint,Ron Weasley,10
+3,Harry Potter e o Cálice de Fogo,2005,Mark Williams,Arthur Weasley,10
+3,Harry Potter e o Cálice de Fogo,2005,James Phelps,Fred Weasley,10
+3,Harry Potter e o Cálice de Fogo,2005,Oliver Phelps,George Weasley,10
+3,Harry Potter e o Cálice de Fogo,2005,Bonnie Wright,Ginny Weasley,10
+3,Harry Potter e o Cálice de Fogo,2005,Jeff Rawle,Amos Diggory,10
+3,Harry Potter e o Cálice de Fogo,2005,Robert Pattinson,Cedric Diggory,10
+3,Harry Potter e o Cálice de Fogo,2005,Jason Isaacs,Lucius Malfoy,10
+3,Harry Potter e o Cálice de Fogo,2005,Tom Felton,Draco Malfoy,10
+3,Harry Potter e o Cálice de Fogo,2005,Stanislav Ianevski,Viktor Krum,10
+3,Harry Potter e o Cálice de Fogo,2005,Robert Hardy,Cornelius Fudge,10
+3,Harry Potter e o Cálice de Fogo,2005,Philip Rham,Death Eater,10
+3,Harry Potter e o Cálice de Fogo,2005,Olivia Higginbottom,Death Eater,10
+3,Harry Potter e o Cálice de Fogo,2005,Ashley Artus,Death Eater,10
+3,Harry Potter e o Cálice de Fogo,2005,Alex Palmer,Death Eater,10
+3,Harry Potter e o Cálice de Fogo,2005,Paschal Friel,Death Eater,10
+3,Harry Potter e o Cálice de Fogo,2005,Richard Rosson,Death Eater,10
+3,Harry Potter e o Cálice de Fogo,2005,Roger Lloyd Pack,Bartemius 'Barty' Crouch,10
+3,Harry Potter e o Cálice de Fogo,2005,Margery Mason,Food Trolley Lady,10
+3,Harry Potter e o Cálice de Fogo,2005,Katie Leung,Cho Chang,10
+3,Harry Potter e o Cálice de Fogo,2005,Matthew Lewis,Neville Longbottom,10
+3,Harry Potter e o Cálice de Fogo,2005,Robbie Coltrane,Rubeus Hagrid,10
+3,Harry Potter e o Cálice de Fogo,2005,William Melling,Nigel,10
+3,Harry Potter e o Cálice de Fogo,2005,Michael Gambon,Albus Dumbledore,10
+3,Harry Potter e o Cálice de Fogo,2005,David Bradley,Argus Filch,10
+3,Harry Potter e o Cálice de Fogo,2005,Devon Murray,Seamus Finnigan,10
+3,Harry Potter e o Cálice de Fogo,2005,Afshan Azad,Padma Patil,10
+3,Harry Potter e o Cálice de Fogo,2005,Warwick Davis,Filius Flitwick,10
+3,Harry Potter e o Cálice de Fogo,2005,Frances de la Tour,Madame Olympe Maxime,10
+3,Harry Potter e o Cálice de Fogo,2005,Shefali Chowdhury,Parvati Patil,10
+3,Harry Potter e o Cálice de Fogo,2005,Angelica Mandy,Gabrielle Delacour,10
+3,Harry Potter e o Cálice de Fogo,2005,Clémence Poésy,Fleur Delacour,10
+3,Harry Potter e o Cálice de Fogo,2005,Maggie Smith,Minerva McGonagall,10
+3,Harry Potter e o Cálice de Fogo,2005,Alan Rickman,Severus Snape,10
+3,Harry Potter e o Cálice de Fogo,2005,Predrag Bjelac,Igor Karkaroff,10
+3,Harry Potter e o Cálice de Fogo,2005,Brendan Gleeson,Professor Alastor 'Mad­Eye' Moody,10
+3,Harry Potter e o Cálice de Fogo,2005,Alfred Enoch,Dean Thomas,10
+3,Harry Potter e o Cálice de Fogo,2005,Louis Doyle,Ernie MacMillan,10
+3,Harry Potter e o Cálice de Fogo,2005,Jamie Waylett,Vincent Crabbe,10
+3,Harry Potter e o Cálice de Fogo,2005,Josh Herdman,Gregory Goyle,10
+3,Harry Potter e o Cálice de Fogo,2005,Charlotte Skeoch,Hannah Abbott,10
+3,Harry Potter e o Cálice de Fogo,2005,Miranda Richardson,Rita Skeeter,10
+3,Harry Potter e o Cálice de Fogo,2005,Gary Oldman,Sirius Black,10
+3,Harry Potter e o Cálice de Fogo,2005,Tiana Benjamin,Angelina Johnson,10
+3,Harry Potter e o Cálice de Fogo,2005,Henry Lloyd-Hughes,Roger Davies,10
+3,Harry Potter e o Cálice de Fogo,2005,Jason Buckle,Band Rhythm Guitar,10
+3,Harry Potter e o Cálice de Fogo,2005,Shirley Henderson,Moaning Myrtle,10
+3,Harry Potter e o Cálice de Fogo,2005,Ralph Fiennes,Lord Voldemort,10
+3,Harry Potter e o Cálice de Fogo,2005,Adrian Rawlins,James Potter,10
+3,Harry Potter e o Cálice de Fogo,2005,Geraldine Somerville,Lily Potter,10
+3,Harry Potter e o Cálice de Fogo,2005,Alex Argenti,Wizard,10
+3,Harry Potter e o Cálice de Fogo,2005,Paul Davies,Deatheater,10
+3,Harry Potter e o Cálice de Fogo,2005,Sarah Harrison,Schoolgirl,10
+3,Harry Potter e o Cálice de Fogo,2005,Natasha Jenssen,Wizard,10
+3,Harry Potter e o Cálice de Fogo,2005,Reece Mack,Slytherin Student,10
+3,Harry Potter e o Cálice de Fogo,2005,Ian Whyte,Madame Olympe Maxime,10
+4,Harry Potter e a Ordem da Fênix,2007,Daniel Radcliffe,Harry Potter,10
+4,Harry Potter e a Ordem da Fênix,2007,Harry Melling,Dudley Dursley,10
+4,Harry Potter e a Ordem da Fênix,2007,Jason Boyd,Piers,10
+4,Harry Potter e a Ordem da Fênix,2007,Richard Macklin,Malcolm,10
+4,Harry Potter e a Ordem da Fênix,2007,Kathryn Hunter,Mrs. Arabella Figg,10
+4,Harry Potter e a Ordem da Fênix,2007,Fiona Shaw,Aunt Petunia Dursley,10
+4,Harry Potter e a Ordem da Fênix,2007,Richard Griffiths,Uncle Vernon Dursley,10
+4,Harry Potter e a Ordem da Fênix,2007,Jessica Hynes,Mafalda Hopkirk,10
+4,Harry Potter e a Ordem da Fênix,2007,Adrian Rawlins,James Potter,10
+4,Harry Potter e a Ordem da Fênix,2007,Geraldine Somerville,Lily Potter,10
+4,Harry Potter e a Ordem da Fênix,2007,Robert Pattinson,Cedric Diggory,10
+4,Harry Potter e a Ordem da Fênix,2007,Ralph Fiennes,Lord Voldemort,10
+4,Harry Potter e a Ordem da Fênix,2007,Natalia Tena,Nymphadora Tonks,10
+4,Harry Potter e a Ordem da Fênix,2007,Brendan Gleeson,Alastor 'Mad-­Eye' Moody,10
+4,Harry Potter e a Ordem da Fênix,2007,George Harris,Kingsley Shacklebolt,10
+4,Harry Potter e a Ordem da Fênix,2007,Peter Cartwright,Elphias Doge,10
+4,Harry Potter e a Ordem da Fênix,2007,Brigitte Millar,Emmeline Vance,10
+4,Harry Potter e a Ordem da Fênix,2007,Gary Oldman,Sirius Black,10
+4,Harry Potter e a Ordem da Fênix,2007,Mark Williams,Arthur Weasley,10
+4,Harry Potter e a Ordem da Fênix,2007,David Thewlis,Remus Lupin,10
+4,Harry Potter e a Ordem da Fênix,2007,Maggie Smith,Minerva McGonagall,10
+4,Harry Potter e a Ordem da Fênix,2007,Julie Walters,Molly Weasley,10
+4,Harry Potter e a Ordem da Fênix,2007,Timothy Bateson,Kreacher,10
+4,Harry Potter e a Ordem da Fênix,2007,Emma Watson,Hermione Granger,10
+4,Harry Potter e a Ordem da Fênix,2007,Rupert Grint,Ron Weasley,10
+4,Harry Potter e a Ordem da Fênix,2007,James Phelps,Fred Weasley,10
+4,Harry Potter e a Ordem da Fênix,2007,Oliver Phelps,George Weasley,10
+4,Harry Potter e a Ordem da Fênix,2007,Bonnie Wright,Ginny Weasley,10
+4,Harry Potter e a Ordem da Fênix,2007,Robert Hardy,Cornelius Fudge,10
+4,Harry Potter e a Ordem da Fênix,2007,Jason Isaacs,Lucius Malfoy,10
+4,Harry Potter e a Ordem da Fênix,2007,Chris Rankin,Percy Weasley,10
+4,Harry Potter e a Ordem da Fênix,2007,Michael Gambon,Albus Percival Wulfric Brian Dumbledore,10
+4,Harry Potter e a Ordem da Fênix,2007,Imelda Staunton,Dolores Umbridge,10
+4,Harry Potter e a Ordem da Fênix,2007,Sian Thomas,Amelia Bones,10
+4,Harry Potter e a Ordem da Fênix,2007,Tom Felton,Draco Malfoy,10
+4,Harry Potter e a Ordem da Fênix,2007,Jamie Waylett,Vincent Crabbe,10
+4,Harry Potter e a Ordem da Fênix,2007,Josh Herdman,Gregory Goyle,10
+4,Harry Potter e a Ordem da Fênix,2007,Katie Leung,Cho Chang,10
+4,Harry Potter e a Ordem da Fênix,2007,Matthew Lewis,Neville Longbottom,10
+4,Harry Potter e a Ordem da Fênix,2007,Evanna Lynch,Luna Lovegood,10
+4,Harry Potter e a Ordem da Fênix,2007,David Bradley,Argus Filch,10
+4,Harry Potter e a Ordem da Fênix,2007,Devon Murray,Seamus Finnigan,10
+4,Harry Potter e a Ordem da Fênix,2007,William Melling,Nigel 2nd Year,10
+4,Harry Potter e a Ordem da Fênix,2007,Alan Rickman,Severus Snape,10
+4,Harry Potter e a Ordem da Fênix,2007,Emma Thompson,Sybil Trelawney,10
+4,Harry Potter e a Ordem da Fênix,2007,Alfred Enoch,Dean Thomas,10
+4,Harry Potter e a Ordem da Fênix,2007,Afshan Azad,Padma Patil,10
+4,Harry Potter e a Ordem da Fênix,2007,Shefali Chowdhury,Parvati Patil,10
+4,Harry Potter e a Ordem da Fênix,2007,Warwick Davis,Filius Flitwick,10
+4,Harry Potter e a Ordem da Fênix,2007,Jim McManus,Aberforth Dumbledore,10
+4,Harry Potter e a Ordem da Fênix,2007,Nick Shirm,Zacharias Smith,10
+4,Harry Potter e a Ordem da Fênix,2007,Sam Beazley,Everard,10
+4,Harry Potter e a Ordem da Fênix,2007,Helena Bonham Carter,Bellatrix Lestrange,10
+4,Harry Potter e a Ordem da Fênix,2007,Robbie Coltrane,Rubeus Hagrid,10
+4,Harry Potter e a Ordem da Fênix,2007,Arben Bajraktaraj,Azkaban Death Eater,10
+4,Harry Potter e a Ordem da Fênix,2007,Richard Leaf,John Dawlish,10
+4,Harry Potter e a Ordem da Fênix,2007,Tony Maudsley,Grawp,10
+4,Harry Potter e a Ordem da Fênix,2007,Alec Hopkins,Young Severus Snape,10
+4,Harry Potter e a Ordem da Fênix,2007,Robbie Jarvis,Young James Potter,10
+4,Harry Potter e a Ordem da Fênix,2007,James Walters,Young Sirius Black,10
+4,Harry Potter e a Ordem da Fênix,2007,Charles Hughes,Young Peter Pettigrew,10
+4,Harry Potter e a Ordem da Fênix,2007,James Utechin,Young Remus Lupin,10
+4,Harry Potter e a Ordem da Fênix,2007,Richard Cubison,Death Eater,10
+4,Harry Potter e a Ordem da Fênix,2007,Peter Best,Death Eater,10
+4,Harry Potter e a Ordem da Fênix,2007,Tav MacDougall,Death Eater,10
+4,Harry Potter e a Ordem da Fênix,2007,Richard Trinder,Death Eater,10
+4,Harry Potter e a Ordem da Fênix,2007,James Payton,Frank Longbottom,10
+4,Harry Potter e a Ordem da Fênix,2007,Clive Elkington,Hogwarts' Student,10
+4,Harry Potter e a Ordem da Fênix,2007,Paije Richardson,Hogwarts' Student,10
+4,Harry Potter e a Ordem da Fênix,2007,Timothy Spall,Peter Pettigrew,10
+4,Harry Potter e a Ordem da Fênix,2007,Siobhan Ellen Williams,Dumbledore's Army Member,10
+5,Harry Potter e o Enigma do Príncipe,2009,Daniel Radcliffe,Harry Potter,10
+5,Harry Potter e o Enigma do Príncipe,2009,Michael Gambon,Professor Albus Dumbledore,10
+5,Harry Potter e o Enigma do Príncipe,2009,Dave Legeno,Fenrir Greyback,10
+5,Harry Potter e o Enigma do Príncipe,2009,Elarica Johnson,Waitress,10
+5,Harry Potter e o Enigma do Príncipe,2009,Jim Broadbent,Professor Horace Slughorn,10
+5,Harry Potter e o Enigma do Príncipe,2009,Geraldine Somerville,Lily Potter,10
+5,Harry Potter e o Enigma do Príncipe,2009,Bonnie Wright,Ginny Weasley,10
+5,Harry Potter e o Enigma do Príncipe,2009,Julie Walters,Molly Weasley,10
+5,Harry Potter e o Enigma do Príncipe,2009,Rupert Grint,Ron Weasley,10
+5,Harry Potter e o Enigma do Príncipe,2009,Emma Watson,Hermione Granger,10
+5,Harry Potter e o Enigma do Príncipe,2009,Helena Bonham Carter,Bellatrix Lestrange,10
+5,Harry Potter e o Enigma do Príncipe,2009,Helen McCrory,Narcissa Malfoy,10
+5,Harry Potter e o Enigma do Príncipe,2009,Timothy Spall,Wormtail,10
+5,Harry Potter e o Enigma do Príncipe,2009,Alan Rickman,Professor Severus Snape,10
+5,Harry Potter e o Enigma do Príncipe,2009,Oliver Phelps,George Weasley,10
+5,Harry Potter e o Enigma do Príncipe,2009,James Phelps,Fred Weasley,10
+5,Harry Potter e o Enigma do Príncipe,2009,Freddie Stroma,Cormac McLaggen,10
+5,Harry Potter e o Enigma do Príncipe,2009,Jessie Cave,Lavender Brown,10
+5,Harry Potter e o Enigma do Príncipe,2009,Tom Felton,Draco Malfoy,10
+5,Harry Potter e o Enigma do Príncipe,2009,Alfred Enoch,Dean Thomas,10
+5,Harry Potter e o Enigma do Príncipe,2009,Evanna Lynch,Luna Lovegood,10
+5,Harry Potter e o Enigma do Príncipe,2009,Robert Knox,Marcus Belby,10
+5,Harry Potter e o Enigma do Príncipe,2009,Amber Evans,Twin Girl 1,10
+5,Harry Potter e o Enigma do Príncipe,2009,Ruby Evans,Twin Girl 2,10
+5,Harry Potter e o Enigma do Príncipe,2009,Louis Cordice,Blaise Zabini,10
+5,Harry Potter e o Enigma do Príncipe,2009,Scarlett Byrne,Pansy Parkinson,10
+5,Harry Potter e o Enigma do Príncipe,2009,Jamie Waylett,Vincent Crabbe,10
+5,Harry Potter e o Enigma do Príncipe,2009,Josh Herdman,Gregory Goyle,10
+5,Harry Potter e o Enigma do Príncipe,2009,Robbie Coltrane,Rubeus Hagrid,10
+5,Harry Potter e o Enigma do Príncipe,2009,Warwick Davis,Professor Filius Flitwick,10
+5,Harry Potter e o Enigma do Príncipe,2009,David Bradley,Argus Filch,10
+5,Harry Potter e o Enigma do Príncipe,2009,Matthew Lewis,Neville Longbottom,10
+5,Harry Potter e o Enigma do Príncipe,2009,William Melling,Nigel,10
+5,Harry Potter e o Enigma do Príncipe,2009,Anna Shaffer,Romilda Vane,10
+5,Harry Potter e o Enigma do Príncipe,2009,Devon Murray,Seamus Finnigan,10
+5,Harry Potter e o Enigma do Príncipe,2009,Georgina Leonidas,Katie Bell,10
+5,Harry Potter e o Enigma do Príncipe,2009,Maggie Smith,Professor Minerva McGonagall,10
+5,Harry Potter e o Enigma do Príncipe,2009,Isabella Laughland,Leanne,10
+5,Harry Potter e o Enigma do Príncipe,2009,Afshan Azad,Padma Patil,10
+5,Harry Potter e o Enigma do Príncipe,2009,Shefali Chowdhury,Parvati Patil,10
+5,Harry Potter e o Enigma do Príncipe,2009,Amelda Brown,Mrs. Cole,10
+5,Harry Potter e o Enigma do Príncipe,2009,Hero Fiennes-Tiffin,Tom Riddle (11 Years),10
+5,Harry Potter e o Enigma do Príncipe,2009,Jack Pryor,Skinny Kid,10
+5,Harry Potter e o Enigma do Príncipe,2009,Mark Lockyer,Waiter,10
+5,Harry Potter e o Enigma do Príncipe,2009,Paul Ritter,Eldred Worple,10
+5,Harry Potter e o Enigma do Príncipe,2009,David Thewlis,Remus Lupin,10
+5,Harry Potter e o Enigma do Príncipe,2009,Natalia Tena,Nymphadora Tonks,10
+5,Harry Potter e o Enigma do Príncipe,2009,Mark Williams,Arthur Weasley,10
+5,Harry Potter e o Enigma do Príncipe,2009,Frank Dillane,Tom Riddle (16 Years),10
+5,Harry Potter e o Enigma do Príncipe,2009,Gemma Jones,Madam Pomfrey,10
+5,Harry Potter e o Enigma do Príncipe,2009,Joerg Stadler,Male Inferi,10
+5,Harry Potter e o Enigma do Príncipe,2009,Caroline Wildi,Female Inferi,10
+5,Harry Potter e o Enigma do Príncipe,2009,Ralph Ineson,Amycus,10
+5,Harry Potter e o Enigma do Príncipe,2009,Suzanne Toase,Alecto,10
+5,Harry Potter e o Enigma do Príncipe,2009,Rod Hunt,Rowle,10
+5,Harry Potter e o Enigma do Príncipe,2009,Katie Leung,Cho Chang,10
+5,Harry Potter e o Enigma do Príncipe,2009,Ashley Virgil,Ritchie Coote,10
+5,Harry Potter e o Enigma do Príncipe,2009,Paul Davies,Deatheater,10
+5,Harry Potter e o Enigma do Príncipe,2009,Neil Findlater,Wizard Teacher,10
+5,Harry Potter e o Enigma do Príncipe,2009,Nina Aimer Fox,Wendy Slinkhard,10
+5,Harry Potter e o Enigma do Príncipe,2009,Elliott Francis,SlugClub Member,10
+5,Harry Potter e o Enigma do Príncipe,2009,Rusty Goffe,Gringott's Goblin,10
+5,Harry Potter e o Enigma do Príncipe,2009,David Hankinson,London Office Worker,10
+5,Harry Potter e o Enigma do Príncipe,2009,Jason Isaacs,Lucius Malfoy,10
+5,Harry Potter e o Enigma do Príncipe,2009,Teresa Mahoney,Sophie,10
+5,Harry Potter e o Enigma do Príncipe,2009,Stephen Modell,Feather Wizard,10
+5,Harry Potter e o Enigma do Príncipe,2009,Ifeoma Oboko,Gryffindor School Girl,10
+5,Harry Potter e o Enigma do Príncipe,2009,Yvonne Quenet,Muggle,10
+5,Harry Potter e o Enigma do Príncipe,2009,Freddie Rose,Year 7 Schoolboy,10
+5,Harry Potter e o Enigma do Príncipe,2009,Ben Shephard,Diagon Alley Father,10
+5,Harry Potter e o Enigma do Príncipe,2009,Calum Sivyer,Tom Riddle (double),10
+5,Harry Potter e o Enigma do Príncipe,2009,Imelda Staunton,Dolores Umbridge,10
+5,Harry Potter e o Enigma do Príncipe,2009,Michael Thomson,Muggle,10
+5,Harry Potter e o Enigma do Príncipe,2009,Simon John Wilson,Muggle,10
+6,Harry Potter e as Relíquias da Morte: Parte 1,2010,Bill Nighy,Minister Rufus Scrimgeour,10
+6,Harry Potter e as Relíquias da Morte: Parte 1,2010,Emma Watson,Hermione Granger,10
+6,Harry Potter e as Relíquias da Morte: Parte 1,2010,Richard Griffiths,Vernon Dursley,10
+6,Harry Potter e as Relíquias da Morte: Parte 1,2010,Harry Melling,Dudley Dursley,10
+6,Harry Potter e as Relíquias da Morte: Parte 1,2010,Daniel Radcliffe,Harry Potter,10
+6,Harry Potter e as Relíquias da Morte: Parte 1,2010,Julie Walters,Molly Weasley,10
+6,Harry Potter e as Relíquias da Morte: Parte 1,2010,Bonnie Wright,Ginny Weasley,10
+6,Harry Potter e as Relíquias da Morte: Parte 1,2010,Rupert Grint,Ron Weasley,10
+6,Harry Potter e as Relíquias da Morte: Parte 1,2010,Ian Kelly,Mr. Granger,10
+6,Harry Potter e as Relíquias da Morte: Parte 1,2010,Michelle Fairley,Mrs. Granger,10
+6,Harry Potter e as Relíquias da Morte: Parte 1,2010,Fiona Shaw,Petunia Dursley,10
+6,Harry Potter e as Relíquias da Morte: Parte 1,2010,Alan Rickman,Professor Severus Snape,10
+6,Harry Potter e as Relíquias da Morte: Parte 1,2010,Carolyn Pickles,Charity Burbage,10
+6,Harry Potter e as Relíquias da Morte: Parte 1,2010,Ralph Fiennes,Lord Voldemort,10
+6,Harry Potter e as Relíquias da Morte: Parte 1,2010,Helena Bonham Carter,Bellatrix Lestrange,10
+6,Harry Potter e as Relíquias da Morte: Parte 1,2010,Helen McCrory,Narcissa Malfoy,10
+6,Harry Potter e as Relíquias da Morte: Parte 1,2010,Jason Isaacs,Lucius Malfoy,10
+6,Harry Potter e as Relíquias da Morte: Parte 1,2010,Tom Felton,Draco Malfoy,10
+6,Harry Potter e as Relíquias da Morte: Parte 1,2010,Timothy Spall,Wormtail,10
+6,Harry Potter e as Relíquias da Morte: Parte 1,2010,Graham Duff,Death Eater,10
+6,Harry Potter e as Relíquias da Morte: Parte 1,2010,Peter Mullan,Death Eater Yaxley,10
+6,Harry Potter e as Relíquias da Morte: Parte 1,2010,Guy Henry,Pius Thicknesse,10
+6,Harry Potter e as Relíquias da Morte: Parte 1,2010,Arben Bajraktaraj,Antonin Dolohov,10
+6,Harry Potter e as Relíquias da Morte: Parte 1,2010,Rod Hunt,Thorfinn Rowle,10
+6,Harry Potter e as Relíquias da Morte: Parte 1,2010,Suzanne Toase,Alecto Carrow,10
+6,Harry Potter e as Relíquias da Morte: Parte 1,2010,Ralph Ineson,Amycus Carrow,10
+6,Harry Potter e as Relíquias da Morte: Parte 1,2010,Adrian Annis,Death Eater,10
+6,Harry Potter e as Relíquias da Morte: Parte 1,2010,Emil Hostina,Death Eater,10
+6,Harry Potter e as Relíquias da Morte: Parte 1,2010,Paul Khanna,Death Eater,10
+6,Harry Potter e as Relíquias da Morte: Parte 1,2010,Richard Strange,Death Eater,10
+6,Harry Potter e as Relíquias da Morte: Parte 1,2010,Anthony John Crocker,Death Eater,10
+6,Harry Potter e as Relíquias da Morte: Parte 1,2010,Peter G. Reed,Death Eater,10
+6,Harry Potter e as Relíquias da Morte: Parte 1,2010,Granville Saxton,Death Eater,10
+6,Harry Potter e as Relíquias da Morte: Parte 1,2010,Judith Sharp,Death Eater,10
+6,Harry Potter e as Relíquias da Morte: Parte 1,2010,Ashley McGuire,Death Eater,10
+6,Harry Potter e as Relíquias da Morte: Parte 1,2010,Penelope McGhie,Death Eater,10
+6,Harry Potter e as Relíquias da Morte: Parte 1,2010,Bob Yves Van Hellenberg Hubar,Death Eater,10
+6,Harry Potter e as Relíquias da Morte: Parte 1,2010,Tony Kirwood,Death Eater,10
+6,Harry Potter e as Relíquias da Morte: Parte 1,2010,Michael Gambon,Professor Albus Dumbledore,10
+6,Harry Potter e as Relíquias da Morte: Parte 1,2010,David Ryall,Elphias Doge,10
+6,Harry Potter e as Relíquias da Morte: Parte 1,2010,Robbie Coltrane,Rubeus Hagrid,10
+6,Harry Potter e as Relíquias da Morte: Parte 1,2010,Brendan Gleeson,Alastor 'Mad-Eye' Moody,10
+6,Harry Potter e as Relíquias da Morte: Parte 1,2010,James Phelps,Fred Weasley,10
+6,Harry Potter e as Relíquias da Morte: Parte 1,2010,Oliver Phelps,George Weasley,10
+6,Harry Potter e as Relíquias da Morte: Parte 1,2010,Mark Williams,Arthur Weasley,10
+6,Harry Potter e as Relíquias da Morte: Parte 1,2010,George Harris,Kingsley Shacklebolt,10
+6,Harry Potter e as Relíquias da Morte: Parte 1,2010,Andy Linden,Mundungus Fletcher,10
+6,Harry Potter e as Relíquias da Morte: Parte 1,2010,Domhnall Gleeson,Bill Weasley,10
+6,Harry Potter e as Relíquias da Morte: Parte 1,2010,Clémence Poésy,Fleur Delacour,10
+6,Harry Potter e as Relíquias da Morte: Parte 1,2010,Natalia Tena,Nymphadora Tonks,10
+6,Harry Potter e as Relíquias da Morte: Parte 1,2010,David Thewlis,Remus Lupin,10
+6,Harry Potter e as Relíquias da Morte: Parte 1,2010,John Hurt,Ollivander,10
+6,Harry Potter e as Relíquias da Morte: Parte 1,2010,Frances de la Tour,Madame Maxime,10
+6,Harry Potter e as Relíquias da Morte: Parte 1,2010,Evanna Lynch,Luna Lovegood,10
+6,Harry Potter e as Relíquias da Morte: Parte 1,2010,Rhys Ifans,Xenophilius Lovegood,10
+6,Harry Potter e as Relíquias da Morte: Parte 1,2010,Matyelok Gibbs,Auntie Muriel Weasley,10
+6,Harry Potter e as Relíquias da Morte: Parte 1,2010,Eva Alexander,Waitress,10
+6,Harry Potter e as Relíquias da Morte: Parte 1,2010,Simon McBurney,Kreacher,10
+6,Harry Potter e as Relíquias da Morte: Parte 1,2010,Matthew Lewis,Neville Longbottom,10
+6,Harry Potter e as Relíquias da Morte: Parte 1,2010,Jon Campling,Death Eater,10
+6,Harry Potter e as Relíquias da Morte: Parte 1,2010,Devon Murray,Seamus Finnigan,10
+6,Harry Potter e as Relíquias da Morte: Parte 1,2010,William Melling,Nigel,10
+6,Harry Potter e as Relíquias da Morte: Parte 1,2010,Simon Grover,Death Eater,10
+6,Harry Potter e as Relíquias da Morte: Parte 1,2010,Freddie Stroma,Cormac McLaggen,10
+6,Harry Potter e as Relíquias da Morte: Parte 1,2010,Isabella Laughland,Leanne,10
+6,Harry Potter e as Relíquias da Morte: Parte 1,2010,Jessie Cave,Lavender Brown,10
+6,Harry Potter e as Relíquias da Morte: Parte 1,2010,Anna Shaffer,Romilda Vane,10
+6,Harry Potter e as Relíquias da Morte: Parte 1,2010,Josh Herdman,Gregory Goyle,10
+6,Harry Potter e as Relíquias da Morte: Parte 1,2010,Amber Evans,Twin Girl #1,10
+6,Harry Potter e as Relíquias da Morte: Parte 1,2010,Ruby Evans,Twin Girl #2,10
+6,Harry Potter e as Relíquias da Morte: Parte 1,2010,Katie Leung,Cho Chang,10
+6,Harry Potter e as Relíquias da Morte: Parte 1,2010,Georgina Leonidas,Katie Bell,10
+6,Harry Potter e as Relíquias da Morte: Parte 1,2010,Louis Cordice,Blaise Zabini,10
+6,Harry Potter e as Relíquias da Morte: Parte 1,2010,Scarlett Byrne,Pansy Parkinson,10
+6,Harry Potter e as Relíquias da Morte: Parte 1,2010,Afshan Azad,Padma Patil,10
+6,Harry Potter e as Relíquias da Morte: Parte 1,2010,Imelda Staunton,Dolores Umbridge,10
+6,Harry Potter e as Relíquias da Morte: Parte 1,2010,David O'Hara,Albert Runcorn,10
+6,Harry Potter e as Relíquias da Morte: Parte 1,2010,Steffan Rhodri,Reg Cattermole,10
+6,Harry Potter e as Relíquias da Morte: Parte 1,2010,Nick Moran,Scabior,10
+6,Harry Potter e as Relíquias da Morte: Parte 1,2010,Toby Jones,Dobby,10
+6,Harry Potter e as Relíquias da Morte: Parte 1,2010,Sophie Thompson,Mafalda Hopkirk,10
+6,Harry Potter e as Relíquias da Morte: Parte 1,2010,Daniel Tuite,Skinny Ministry Wizard,10
+6,Harry Potter e as Relíquias da Morte: Parte 1,2010,Daisy Haggard,Ministry Lift,10
+6,Harry Potter e as Relíquias da Morte: Parte 1,2010,George Potts,Balding Wizard,10
+6,Harry Potter e as Relíquias da Morte: Parte 1,2010,Rose Keegan,Red Haired Witch,10
+6,Harry Potter e as Relíquias da Morte: Parte 1,2010,Kate Fleetwood,Mary Cattermole,10
+6,Harry Potter e as Relíquias da Morte: Parte 1,2010,Daniel Hill,Bushy Haired Muttering Wizard,10
+6,Harry Potter e as Relíquias da Morte: Parte 1,2010,Rade Serbedzija,Gregorovitch,10
+6,Harry Potter e as Relíquias da Morte: Parte 1,2010,Jamie Campbell Bower,Young Gellert Grindelwald,10
+6,Harry Potter e as Relíquias da Morte: Parte 1,2010,Hazel Douglas,Bathilda Bagshot,10
+6,Harry Potter e as Relíquias da Morte: Parte 1,2010,Adrian Rawlins,James Potter,10
+6,Harry Potter e as Relíquias da Morte: Parte 1,2010,Geraldine Somerville,Lily Potter,10
+6,Harry Potter e as Relíquias da Morte: Parte 1,2010,Miranda Richardson,Rita Skeeter,10
+6,Harry Potter e as Relíquias da Morte: Parte 1,2010,Michael Byrne,Gellert Grindelwald - old,10
+6,Harry Potter e as Relíquias da Morte: Parte 1,2010,Dave Legeno,Fenrir Greyback,10
+6,Harry Potter e as Relíquias da Morte: Parte 1,2010,Samuel Roukin,Snatcher,10
+6,Harry Potter e as Relíquias da Morte: Parte 1,2010,Warwick Davis,Griphook,10
+6,Harry Potter e as Relíquias da Morte: Parte 1,2010,Charlotte Atkinson,Snatcher,10
+6,Harry Potter e as Relíquias da Morte: Parte 1,2010,Greg Bennett,Ministry Wizard,10
+6,Harry Potter e as Relíquias da Morte: Parte 1,2010,Alison Cain,Veela,10
+6,Harry Potter e as Relíquias da Morte: Parte 1,2010,Serena Catapano,Death Eater,10
+6,Harry Potter e as Relíquias da Morte: Parte 1,2010,Paul Davies,Deatheater,10
+6,Harry Potter e as Relíquias da Morte: Parte 1,2010,Elliott Francis,SlugClub Member,10
+6,Harry Potter e as Relíquias da Morte: Parte 1,2010,Stanislav Ianevski,Viktor Krum,10
+6,Harry Potter e as Relíquias da Morte: Parte 1,2010,Rakesh Jhalli,Death Eater,10
+6,Harry Potter e as Relíquias da Morte: Parte 1,2010,Angelica Mandy,Gabrielle Delacour,10
+6,Harry Potter e as Relíquias da Morte: Parte 1,2010,Sarah Jane O'Neill,Ministry Wizard,10
+6,Harry Potter e as Relíquias da Morte: Parte 1,2010,Paul Redfern,Ministry Wizard,10
+6,Harry Potter e as Relíquias da Morte: Parte 1,2010,Toby Regbo,Young Albus Dumbledore,10
+6,Harry Potter e as Relíquias da Morte: Parte 1,2010,Paul Warren,Ministry Wizard,10
+7,Harry Potter e as Relíquias da Morte: Parte 2,2011,Ralph Fiennes,Lord Voldemort,10
+7,Harry Potter e as Relíquias da Morte: Parte 2,2011,Michael Gambon,Professor Albus Dumbledore,10
+7,Harry Potter e as Relíquias da Morte: Parte 2,2011,Alan Rickman,Professor Severus Snape,10
+7,Harry Potter e as Relíquias da Morte: Parte 2,2011,Daniel Radcliffe,Harry Potter,10
+7,Harry Potter e as Relíquias da Morte: Parte 2,2011,Rupert Grint,Ron Weasley,10
+7,Harry Potter e as Relíquias da Morte: Parte 2,2011,Emma Watson,Hermione Granger,10
+7,Harry Potter e as Relíquias da Morte: Parte 2,2011,Evanna Lynch,Luna Lovegood,10
+7,Harry Potter e as Relíquias da Morte: Parte 2,2011,Domhnall Gleeson,Bill Weasley,10
+7,Harry Potter e as Relíquias da Morte: Parte 2,2011,Clémence Poésy,Fleur Delacour,10
+7,Harry Potter e as Relíquias da Morte: Parte 2,2011,Warwick Davis,Griphook,10
+7,Harry Potter e as Relíquias da Morte: Parte 2,2011,John Hurt,Ollivander,10
+7,Harry Potter e as Relíquias da Morte: Parte 2,2011,Helena Bonham Carter,Bellatrix Lestrange,10
+7,Harry Potter e as Relíquias da Morte: Parte 2,2011,Graham Duff,Death Eater,10
+7,Harry Potter e as Relíquias da Morte: Parte 2,2011,Rusty Goffe,Aged Gringotts' Goblin,10
+7,Harry Potter e as Relíquias da Morte: Parte 2,2011,Jon Key,Bogrod,10
+7,Harry Potter e as Relíquias da Morte: Parte 2,2011,Kelly Macdonald,Helena Ravenclaw,10
+7,Harry Potter e as Relíquias da Morte: Parte 2,2011,Jason Isaacs,Lucius Malfoy,10
+7,Harry Potter e as Relíquias da Morte: Parte 2,2011,Helen McCrory,Narcissa Malfoy,10
+7,Harry Potter e as Relíquias da Morte: Parte 2,2011,Tom Felton,Draco Malfoy,10
+7,Harry Potter e as Relíquias da Morte: Parte 2,2011,Ian Peck,Hogsmeade Death Eater,10
+7,Harry Potter e as Relíquias da Morte: Parte 2,2011,Benn Northover,Hogsmeade Death Eater,10
+7,Harry Potter e as Relíquias da Morte: Parte 2,2011,Ciarán Hinds,Aberforth Dumbledore,10
+7,Harry Potter e as Relíquias da Morte: Parte 2,2011,Hebe Beardsall,Ariana Dumbledore,10
+7,Harry Potter e as Relíquias da Morte: Parte 2,2011,Matthew Lewis,Neville Longbottom,10
+7,Harry Potter e as Relíquias da Morte: Parte 2,2011,Devon Murray,Seamus Finnigan,10
+7,Harry Potter e as Relíquias da Morte: Parte 2,2011,Jessie Cave,Lavender Brown,10
+7,Harry Potter e as Relíquias da Morte: Parte 2,2011,Afshan Azad,Padma Patil,10
+7,Harry Potter e as Relíquias da Morte: Parte 2,2011,Isabella Laughland,Leanne,10
+7,Harry Potter e as Relíquias da Morte: Parte 2,2011,Anna Shaffer,Romilda Vane,10
+7,Harry Potter e as Relíquias da Morte: Parte 2,2011,Georgina Leonidas,Katie Bell,10
+7,Harry Potter e as Relíquias da Morte: Parte 2,2011,Freddie Stroma,Cormac McLaggen,10
+7,Harry Potter e as Relíquias da Morte: Parte 2,2011,Alfred Enoch,Dean Thomas,10
+7,Harry Potter e as Relíquias da Morte: Parte 2,2011,Katie Leung,Cho Chang,10
+7,Harry Potter e as Relíquias da Morte: Parte 2,2011,William Melling,Nigel,10
+7,Harry Potter e as Relíquias da Morte: Parte 2,2011,Bonnie Wright,Ginny Weasley,10
+7,Harry Potter e as Relíquias da Morte: Parte 2,2011,Ralph Ineson,Amycus Carrow,10
+7,Harry Potter e as Relíquias da Morte: Parte 2,2011,Suzanne Toase,Alecto Carrow,10
+7,Harry Potter e as Relíquias da Morte: Parte 2,2011,Maggie Smith,Professor Minerva McGonagall,10
+7,Harry Potter e as Relíquias da Morte: Parte 2,2011,Jim Broadbent,Professor Horace Slughorn,10
+7,Harry Potter e as Relíquias da Morte: Parte 2,2011,Scarlett Byrne,Pansy Parkinson,10
+7,Harry Potter e as Relíquias da Morte: Parte 2,2011,Josh Herdman,Gregory Goyle,10
+7,Harry Potter e as Relíquias da Morte: Parte 2,2011,Louis Cordice,Blaise Zabini,10
+7,Harry Potter e as Relíquias da Morte: Parte 2,2011,Amber Evans,Twin Girl 1,10
+7,Harry Potter e as Relíquias da Morte: Parte 2,2011,Ruby Evans,Twin Girl 2,10
+7,Harry Potter e as Relíquias da Morte: Parte 2,2011,Miriam Margolyes,Professor Pomona Sprout,10
+7,Harry Potter e as Relíquias da Morte: Parte 2,2011,Gemma Jones,Madam Pomfrey,10
+7,Harry Potter e as Relíquias da Morte: Parte 2,2011,George Harris,Kingsley Shacklebolt,10
+7,Harry Potter e as Relíquias da Morte: Parte 2,2011,David Thewlis,Remus Lupin,10
+7,Harry Potter e as Relíquias da Morte: Parte 2,2011,Julie Walters,Molly Weasley,10
+7,Harry Potter e as Relíquias da Morte: Parte 2,2011,Mark Williams,Arthur Weasley,10
+7,Harry Potter e as Relíquias da Morte: Parte 2,2011,James Phelps,Fred Weasley,10
+7,Harry Potter e as Relíquias da Morte: Parte 2,2011,Oliver Phelps,George Weasley,10
+7,Harry Potter e as Relíquias da Morte: Parte 2,2011,Chris Rankin,Percy Weasley,10
+7,Harry Potter e as Relíquias da Morte: Parte 2,2011,David Bradley,Argus Filch,10
+7,Harry Potter e as Relíquias da Morte: Parte 2,2011,Guy Henry,Pius Thicknesse,10
+7,Harry Potter e as Relíquias da Morte: Parte 2,2011,Nick Moran,Scabior,10
+7,Harry Potter e as Relíquias da Morte: Parte 2,2011,Natalia Tena,Nymphadora Tonks,10
+7,Harry Potter e as Relíquias da Morte: Parte 2,2011,Phil Wright,Giant,10
+7,Harry Potter e as Relíquias da Morte: Parte 2,2011,Garry Sayer,Giant,10
+7,Harry Potter e as Relíquias da Morte: Parte 2,2011,Tony Adkins,Giant,10
+7,Harry Potter e as Relíquias da Morte: Parte 2,2011,Dave Legeno,Fenrir Greyback,10
+7,Harry Potter e as Relíquias da Morte: Parte 2,2011,Penelope McGhie,Death Eater,10
+7,Harry Potter e as Relíquias da Morte: Parte 2,2011,Emma Thompson,Professor Sybil Trelawney,10
+7,Harry Potter e as Relíquias da Morte: Parte 2,2011,Ellie Darcey-Alden,Young Lily Potter,10
+7,Harry Potter e as Relíquias da Morte: Parte 2,2011,Ariella Paradise,Young Petunia Dursley,10
+7,Harry Potter e as Relíquias da Morte: Parte 2,2011,Benedict Clarke,Young Severus Snape,10
+7,Harry Potter e as Relíquias da Morte: Parte 2,2011,Leslie Phillips,The Sorting Hat,10
+7,Harry Potter e as Relíquias da Morte: Parte 2,2011,Alfie McIlwain,Young James Potter,10
+7,Harry Potter e as Relíquias da Morte: Parte 2,2011,Rohan Gotobed,Young Sirius Black,10
+7,Harry Potter e as Relíquias da Morte: Parte 2,2011,Geraldine Somerville,Lily Potter,10
+7,Harry Potter e as Relíquias da Morte: Parte 2,2011,Adrian Rawlins,James Potter,10
+7,Harry Potter e as Relíquias da Morte: Parte 2,2011,Toby Papworth,Baby Harry Potter,10
+7,Harry Potter e as Relíquias da Morte: Parte 2,2011,Timothy Spall,Wormtail,10
+7,Harry Potter e as Relíquias da Morte: Parte 2,2011,Robbie Coltrane,Rubeus Hagrid,10
+7,Harry Potter e as Relíquias da Morte: Parte 2,2011,Gary Oldman,Sirius Black,10
+7,Harry Potter e as Relíquias da Morte: Parte 2,2011,Peter G. Reed,Death Eater,10
+7,Harry Potter e as Relíquias da Morte: Parte 2,2011,Judith Sharp,Death Eater,10
+7,Harry Potter e as Relíquias da Morte: Parte 2,2011,Emil Hostina,Death Eater,10
+7,Harry Potter e as Relíquias da Morte: Parte 2,2011,Bob Yves Van Hellenberg Hubar,Death Eater,10
+7,Harry Potter e as Relíquias da Morte: Parte 2,2011,Granville Saxton,Death Eater,10
+7,Harry Potter e as Relíquias da Morte: Parte 2,2011,Tony Kirwood,Death Eater,10
+7,Harry Potter e as Relíquias da Morte: Parte 2,2011,Ashley McGuire,Death Eater,10
+7,Harry Potter e as Relíquias da Morte: Parte 2,2011,Arthur Bowen,Albus Severus Potter - 19 Years Later,10
+7,Harry Potter e as Relíquias da Morte: Parte 2,2011,Daphne de Beistegui,Lily Potter - 19 Years Later,10
+7,Harry Potter e as Relíquias da Morte: Parte 2,2011,Will Dunn,James Potter - 19 Years Later,10
+7,Harry Potter e as Relíquias da Morte: Parte 2,2011,Bertie Gilbert,Scorpius Malfoy - 19 Years Later,10
+7,Harry Potter e as Relíquias da Morte: Parte 2,2011,Jon Campling,Death Eater in Gringotts,10
+7,Harry Potter e as Relíquias da Morte: Parte 2,2011,Karen Anderson,Gringotts Goblin,10
+7,Harry Potter e as Relíquias da Morte: Parte 2,2011,Michael Henbury Ballan,Gringotts Goblin,10
+7,Harry Potter e as Relíquias da Morte: Parte 2,2011,Lauren Barrand,Gringotts Goblin,10
+7,Harry Potter e as Relíquias da Morte: Parte 2,2011,Josh Bennett,Gringotts Goblin,10
+7,Harry Potter e as Relíquias da Morte: Parte 2,2011,Johann Benét,Deatheater,10
+7,Harry Potter e as Relíquias da Morte: Parte 2,2011,Collet Collins,Snatcher,10
+7,Harry Potter e as Relíquias da Morte: Parte 2,2011,Christoph Cordell,Snatcher,10
+7,Harry Potter e as Relíquias da Morte: Parte 2,2011,Christian Coulson,Tom Marvolo Riddle,10
+7,Harry Potter e as Relíquias da Morte: Parte 2,2011,Paul Davies,Deatheater,10
+7,Harry Potter e as Relíquias da Morte: Parte 2,2011,Ian Hart,Professor Quirinus Quirrell,10
+7,Harry Potter e as Relíquias da Morte: Parte 2,2011,Matthew Hodgkin,Hogwarts Student,10
+7,Harry Potter e as Relíquias da Morte: Parte 2,2011,Joe Kallis,Death Eater,10
+7,Harry Potter e as Relíquias da Morte: Parte 2,2011,Hrvoje Klecz,Death Eater,10
+7,Harry Potter e as Relíquias da Morte: Parte 2,2011,Maxwell Laird,Gringotts Goblin,10
+7,Harry Potter e as Relíquias da Morte: Parte 2,2011,Luke Newberry,Teddy Lupin,10
+7,Harry Potter e as Relíquias da Morte: Parte 2,2011,Lisa Osmond,Gringotts Goblin,10
+7,Harry Potter e as Relíquias da Morte: Parte 2,2011,Elisabeth Roberts,Death Eater,10
+7,Harry Potter e as Relíquias da Morte: Parte 2,2011,Keijo Salmela,Gringotts Goblin,10
+7,Harry Potter e as Relíquias da Morte: Parte 2,2011,Mark Sealey,Gringotts Goblin,10
+7,Harry Potter e as Relíquias da Morte: Parte 2,2011,Arti Shah,Gringotts Goblin,10
+7,Harry Potter e as Relíquias da Morte: Parte 2,2011,Glen Stanway,Death Eater,10
+7,Harry Potter e as Relíquias da Morte: Parte 2,2011,Nick Turner,Death Eater,10
+7,Harry Potter e as Relíquias da Morte: Parte 2,2011,Amy Wiles,Slytherin Student,10

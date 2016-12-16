@@ -1,0 +1,824 @@
+<?xml version="1.0"?>
+<DTS:Executable xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:refId="Package"
+  DTS:CreationDate="5/2/2016 4:50:54 AM"
+  DTS:CreationName="SSIS.Package.3"
+  DTS:CreatorComputerName="RIGEL"
+  DTS:CreatorName="RIGEL\lenin"
+  DTS:Description="SSIS Package Description"
+  DTS:DTSID="{EC36BC6A-47A5-42CC-9CC9-99D61F459B07}"
+  DTS:ExecutableType="SSIS.Package.3"
+  DTS:LastModifiedProductVersion="11.0.6020.0"
+  DTS:LocaleID="1046"
+  DTS:MaxErrorCount="0"
+  DTS:ObjectName="mcu-nodes3"
+  DTS:VersionGUID="{83873B7E-411D-4D87-9EE8-8F07681F2772}">
+  <DTS:Property
+    DTS:Name="PackageFormatVersion">6</DTS:Property>
+  <DTS:ConnectionManagers>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[DestinationConnectionFlatFile]"
+      DTS:CreationName="FLATFILE"
+      DTS:DTSID="{DC8EBF84-8A64-4BAC-B3E9-9494D291C7BF}"
+      DTS:ObjectName="DestinationConnectionFlatFile">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:Format="Delimited"
+          DTS:LocaleID="1046"
+          DTS:HeaderRowDelimiter="_x000D__x000A_"
+          DTS:ColumnNamesInFirstDataRow="True"
+          DTS:RowDelimiter=""
+          DTS:TextQualifier="_x003C_none_x003E_"
+          DTS:CodePage="65001"
+          DTS:ConnectionString="C:\Users\lenin\Documents\Projetos\ufabc-cr-mcu\_data\mcu-nodes3.csv">
+          <DTS:FlatFileColumns>
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="11"
+              DTS:DataType="3"
+              DTS:TextQualified="True"
+              DTS:ObjectName="id"
+              DTS:DTSID="{E1C05219-FF7E-4F0C-98F4-62305EFBA230}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="100"
+              DTS:DataType="130"
+              DTS:TextQualified="True"
+              DTS:ObjectName="label"
+              DTS:DTSID="{8BB23BDA-6FFF-4929-9368-54959C47E28C}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="100"
+              DTS:DataType="130"
+              DTS:TextQualified="True"
+              DTS:ObjectName="timeset"
+              DTS:DTSID="{FE35FECC-37EC-4BC1-BB25-7EABD1635FAA}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="11"
+              DTS:DataType="3"
+              DTS:TextQualified="True"
+              DTS:ObjectName="morder"
+              DTS:DTSID="{E472B870-B6A0-431E-8D91-73F342F26A0A}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="11"
+              DTS:DataType="3"
+              DTS:TextQualified="True"
+              DTS:ObjectName="myear"
+              DTS:DTSID="{FCAAB195-4B61-446E-8F98-7C4FBAB78DE4}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="11"
+              DTS:DataType="3"
+              DTS:TextQualified="True"
+              DTS:ObjectName="mcost"
+              DTS:DTSID="{2BAA7A6E-605F-4D7F-A10B-6DA4E79EBA35}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="11"
+              DTS:DataType="3"
+              DTS:TextQualified="True"
+              DTS:ObjectName="mgross"
+              DTS:DTSID="{14C3BA83-06C4-46B6-8B7A-C624BA400E9C}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="11"
+              DTS:DataType="3"
+              DTS:TextQualified="True"
+              DTS:ObjectName="mprofit"
+              DTS:DTSID="{E8457759-1A98-46F5-880D-EB34FE414473}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="11"
+              DTS:DataType="3"
+              DTS:TextQualified="True"
+              DTS:ObjectName="mtomatometer"
+              DTS:DTSID="{4D6A7A16-93F6-4B02-BA70-967BCD2AD857}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="11"
+              DTS:DataType="3"
+              DTS:TextQualified="True"
+              DTS:ObjectName="maudience"
+              DTS:DTSID="{27B3774F-6959-4115-BE35-80822D17DEDD}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="100"
+              DTS:DataType="130"
+              DTS:TextQualified="True"
+              DTS:ObjectName="aname"
+              DTS:DTSID="{5DC6A60E-C9FD-41C0-ACF1-3E6EAF3ADD69}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="11"
+              DTS:DataType="3"
+              DTS:TextQualified="True"
+              DTS:ObjectName="atwitter"
+              DTS:DTSID="{46F07361-CE28-4FD3-A533-7921D8494964}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="11"
+              DTS:DataType="3"
+              DTS:TextQualified="True"
+              DTS:ObjectName="afacebook"
+              DTS:DTSID="{9D294888-7743-4F89-9B47-015F7404AA77}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="100"
+              DTS:DataType="130"
+              DTS:TextQualified="True"
+              DTS:ObjectName="type"
+              DTS:DTSID="{0D8D3C70-3A92-483E-BBAB-3C8946B2798F}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="100"
+              DTS:DataType="130"
+              DTS:TextQualified="True"
+              DTS:ObjectName="role"
+              DTS:DTSID="{7D702F3A-BD48-447E-91E3-310F739270C5}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x000D__x000A_"
+              DTS:MaximumWidth="11"
+              DTS:DataType="3"
+              DTS:TextQualified="True"
+              DTS:ObjectName="rank"
+              DTS:DTSID="{1B599A49-8E55-4ABC-920B-942A097C4F47}"
+              DTS:CreationName="" />
+          </DTS:FlatFileColumns>
+        </DTS:ConnectionManager>
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[SourceConnectionOLEDB]"
+      DTS:CreationName="OLEDB"
+      DTS:DTSID="{4B331BAE-FF8E-4674-958B-3DF84FDE8550}"
+      DTS:ObjectName="SourceConnectionOLEDB">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:ConnectionString="Data Source=RIGEL\SQL2;Initial Catalog=mcu;Provider=SQLNCLI11;Integrated Security=SSPI;Auto Translate=false;" />
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+  </DTS:ConnectionManagers>
+  <DTS:Variables />
+  <DTS:Executables>
+    <DTS:Executable
+      DTS:refId="Package\Data Flow Task 1"
+      DTS:CreationName="SSIS.Pipeline.3"
+      DTS:DelayValidation="True"
+      DTS:DTSID="{3902940C-1C84-42F2-BD09-DA6409C9F57C}"
+      DTS:ExecutableType="SSIS.Pipeline.3"
+      DTS:FailPackageOnFailure="True"
+      DTS:LocaleID="-1"
+      DTS:ObjectName="Data Flow Task 1"
+      DTS:TaskContact="Performs high-performance data extraction, transformation and loading;Microsoft Corporation; Microsoft SQL Server; (C) 2007 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1">
+      <DTS:Variables />
+      <DTS:ObjectData>
+        <pipeline
+          defaultBufferSize="3145728"
+          version="1">
+          <components>
+            <component
+              refId="Package\Data Flow Task 1\Destination - mcu-nodes3_csv"
+              componentClassID="{8DA75FED-1B7C-407D-B2AD-2B24209CCCA4}"
+              contactInfo="Flat File Destination;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;0"
+              description="Flat File Destination"
+              localeId="1046"
+              name="Destination - mcu-nodes3_csv"
+              validateExternalMetadata="False">
+              <properties>
+                <property
+                  dataType="System.Boolean"
+                  description="Specifies whether the data will overwrite or append to the destination file."
+                  name="Overwrite">true</property>
+                <property
+                  dataType="System.String"
+                  description="Specifies the text to write to the destination file before any data is written."
+                  expressionType="Notify"
+                  name="Header"></property>
+              </properties>
+              <connections>
+                <connection
+                  refId="Package\Data Flow Task 1\Destination - mcu-nodes3_csv.Connections[FlatFileConnection]"
+                  connectionManagerID="Package.ConnectionManagers[DestinationConnectionFlatFile]"
+                  connectionManagerRefId="Package.ConnectionManagers[DestinationConnectionFlatFile]"
+                  name="FlatFileConnection" />
+              </connections>
+              <inputs>
+                <input
+                  refId="Package\Data Flow Task 1\Destination - mcu-nodes3_csv.Inputs[Flat File Destination Input]"
+                  hasSideEffects="true"
+                  name="Flat File Destination Input">
+                  <inputColumns>
+                    <inputColumn
+                      refId="Package\Data Flow Task 1\Destination - mcu-nodes3_csv.Inputs[Flat File Destination Input].Columns[id]"
+                      cachedDataType="i4"
+                      cachedName="id"
+                      externalMetadataColumnId="Package\Data Flow Task 1\Destination - mcu-nodes3_csv.Inputs[Flat File Destination Input].ExternalColumns[id]"
+                      lineageId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Output].Columns[id]" />
+                    <inputColumn
+                      refId="Package\Data Flow Task 1\Destination - mcu-nodes3_csv.Inputs[Flat File Destination Input].Columns[label]"
+                      cachedDataType="wstr"
+                      cachedLength="100"
+                      cachedName="label"
+                      externalMetadataColumnId="Package\Data Flow Task 1\Destination - mcu-nodes3_csv.Inputs[Flat File Destination Input].ExternalColumns[label]"
+                      lineageId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Output].Columns[label]" />
+                    <inputColumn
+                      refId="Package\Data Flow Task 1\Destination - mcu-nodes3_csv.Inputs[Flat File Destination Input].Columns[timeset]"
+                      cachedDataType="wstr"
+                      cachedLength="100"
+                      cachedName="timeset"
+                      externalMetadataColumnId="Package\Data Flow Task 1\Destination - mcu-nodes3_csv.Inputs[Flat File Destination Input].ExternalColumns[timeset]"
+                      lineageId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Output].Columns[timeset]" />
+                    <inputColumn
+                      refId="Package\Data Flow Task 1\Destination - mcu-nodes3_csv.Inputs[Flat File Destination Input].Columns[morder]"
+                      cachedDataType="i4"
+                      cachedName="morder"
+                      externalMetadataColumnId="Package\Data Flow Task 1\Destination - mcu-nodes3_csv.Inputs[Flat File Destination Input].ExternalColumns[morder]"
+                      lineageId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Output].Columns[morder]" />
+                    <inputColumn
+                      refId="Package\Data Flow Task 1\Destination - mcu-nodes3_csv.Inputs[Flat File Destination Input].Columns[myear]"
+                      cachedDataType="i4"
+                      cachedName="myear"
+                      externalMetadataColumnId="Package\Data Flow Task 1\Destination - mcu-nodes3_csv.Inputs[Flat File Destination Input].ExternalColumns[myear]"
+                      lineageId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Output].Columns[myear]" />
+                    <inputColumn
+                      refId="Package\Data Flow Task 1\Destination - mcu-nodes3_csv.Inputs[Flat File Destination Input].Columns[mcost]"
+                      cachedDataType="i4"
+                      cachedName="mcost"
+                      externalMetadataColumnId="Package\Data Flow Task 1\Destination - mcu-nodes3_csv.Inputs[Flat File Destination Input].ExternalColumns[mcost]"
+                      lineageId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Output].Columns[mcost]" />
+                    <inputColumn
+                      refId="Package\Data Flow Task 1\Destination - mcu-nodes3_csv.Inputs[Flat File Destination Input].Columns[mgross]"
+                      cachedDataType="i4"
+                      cachedName="mgross"
+                      externalMetadataColumnId="Package\Data Flow Task 1\Destination - mcu-nodes3_csv.Inputs[Flat File Destination Input].ExternalColumns[mgross]"
+                      lineageId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Output].Columns[mgross]" />
+                    <inputColumn
+                      refId="Package\Data Flow Task 1\Destination - mcu-nodes3_csv.Inputs[Flat File Destination Input].Columns[mprofit]"
+                      cachedDataType="i4"
+                      cachedName="mprofit"
+                      externalMetadataColumnId="Package\Data Flow Task 1\Destination - mcu-nodes3_csv.Inputs[Flat File Destination Input].ExternalColumns[mprofit]"
+                      lineageId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Output].Columns[mprofit]" />
+                    <inputColumn
+                      refId="Package\Data Flow Task 1\Destination - mcu-nodes3_csv.Inputs[Flat File Destination Input].Columns[mtomatometer]"
+                      cachedDataType="i4"
+                      cachedName="mtomatometer"
+                      externalMetadataColumnId="Package\Data Flow Task 1\Destination - mcu-nodes3_csv.Inputs[Flat File Destination Input].ExternalColumns[mtomatometer]"
+                      lineageId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Output].Columns[mtomatometer]" />
+                    <inputColumn
+                      refId="Package\Data Flow Task 1\Destination - mcu-nodes3_csv.Inputs[Flat File Destination Input].Columns[maudience]"
+                      cachedDataType="i4"
+                      cachedName="maudience"
+                      externalMetadataColumnId="Package\Data Flow Task 1\Destination - mcu-nodes3_csv.Inputs[Flat File Destination Input].ExternalColumns[maudience]"
+                      lineageId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Output].Columns[maudience]" />
+                    <inputColumn
+                      refId="Package\Data Flow Task 1\Destination - mcu-nodes3_csv.Inputs[Flat File Destination Input].Columns[aname]"
+                      cachedDataType="wstr"
+                      cachedLength="100"
+                      cachedName="aname"
+                      externalMetadataColumnId="Package\Data Flow Task 1\Destination - mcu-nodes3_csv.Inputs[Flat File Destination Input].ExternalColumns[aname]"
+                      lineageId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Output].Columns[aname]" />
+                    <inputColumn
+                      refId="Package\Data Flow Task 1\Destination - mcu-nodes3_csv.Inputs[Flat File Destination Input].Columns[atwitter]"
+                      cachedDataType="i4"
+                      cachedName="atwitter"
+                      externalMetadataColumnId="Package\Data Flow Task 1\Destination - mcu-nodes3_csv.Inputs[Flat File Destination Input].ExternalColumns[atwitter]"
+                      lineageId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Output].Columns[atwitter]" />
+                    <inputColumn
+                      refId="Package\Data Flow Task 1\Destination - mcu-nodes3_csv.Inputs[Flat File Destination Input].Columns[afacebook]"
+                      cachedDataType="i4"
+                      cachedName="afacebook"
+                      externalMetadataColumnId="Package\Data Flow Task 1\Destination - mcu-nodes3_csv.Inputs[Flat File Destination Input].ExternalColumns[afacebook]"
+                      lineageId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Output].Columns[afacebook]" />
+                    <inputColumn
+                      refId="Package\Data Flow Task 1\Destination - mcu-nodes3_csv.Inputs[Flat File Destination Input].Columns[type]"
+                      cachedDataType="wstr"
+                      cachedLength="100"
+                      cachedName="type"
+                      externalMetadataColumnId="Package\Data Flow Task 1\Destination - mcu-nodes3_csv.Inputs[Flat File Destination Input].ExternalColumns[type]"
+                      lineageId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Output].Columns[type]" />
+                    <inputColumn
+                      refId="Package\Data Flow Task 1\Destination - mcu-nodes3_csv.Inputs[Flat File Destination Input].Columns[role]"
+                      cachedDataType="wstr"
+                      cachedLength="100"
+                      cachedName="role"
+                      externalMetadataColumnId="Package\Data Flow Task 1\Destination - mcu-nodes3_csv.Inputs[Flat File Destination Input].ExternalColumns[role]"
+                      lineageId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Output].Columns[role]" />
+                    <inputColumn
+                      refId="Package\Data Flow Task 1\Destination - mcu-nodes3_csv.Inputs[Flat File Destination Input].Columns[rank]"
+                      cachedDataType="i4"
+                      cachedName="rank"
+                      externalMetadataColumnId="Package\Data Flow Task 1\Destination - mcu-nodes3_csv.Inputs[Flat File Destination Input].ExternalColumns[rank]"
+                      lineageId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Output].Columns[rank]" />
+                  </inputColumns>
+                  <externalMetadataColumns
+                    isUsed="True">
+                    <externalMetadataColumn
+                      refId="Package\Data Flow Task 1\Destination - mcu-nodes3_csv.Inputs[Flat File Destination Input].ExternalColumns[id]"
+                      dataType="i4"
+                      name="id" />
+                    <externalMetadataColumn
+                      refId="Package\Data Flow Task 1\Destination - mcu-nodes3_csv.Inputs[Flat File Destination Input].ExternalColumns[label]"
+                      dataType="wstr"
+                      length="100"
+                      name="label" />
+                    <externalMetadataColumn
+                      refId="Package\Data Flow Task 1\Destination - mcu-nodes3_csv.Inputs[Flat File Destination Input].ExternalColumns[timeset]"
+                      dataType="wstr"
+                      length="100"
+                      name="timeset" />
+                    <externalMetadataColumn
+                      refId="Package\Data Flow Task 1\Destination - mcu-nodes3_csv.Inputs[Flat File Destination Input].ExternalColumns[morder]"
+                      dataType="i4"
+                      name="morder" />
+                    <externalMetadataColumn
+                      refId="Package\Data Flow Task 1\Destination - mcu-nodes3_csv.Inputs[Flat File Destination Input].ExternalColumns[myear]"
+                      dataType="i4"
+                      name="myear" />
+                    <externalMetadataColumn
+                      refId="Package\Data Flow Task 1\Destination - mcu-nodes3_csv.Inputs[Flat File Destination Input].ExternalColumns[mcost]"
+                      dataType="i4"
+                      name="mcost" />
+                    <externalMetadataColumn
+                      refId="Package\Data Flow Task 1\Destination - mcu-nodes3_csv.Inputs[Flat File Destination Input].ExternalColumns[mgross]"
+                      dataType="i4"
+                      name="mgross" />
+                    <externalMetadataColumn
+                      refId="Package\Data Flow Task 1\Destination - mcu-nodes3_csv.Inputs[Flat File Destination Input].ExternalColumns[mprofit]"
+                      dataType="i4"
+                      name="mprofit" />
+                    <externalMetadataColumn
+                      refId="Package\Data Flow Task 1\Destination - mcu-nodes3_csv.Inputs[Flat File Destination Input].ExternalColumns[mtomatometer]"
+                      dataType="i4"
+                      name="mtomatometer" />
+                    <externalMetadataColumn
+                      refId="Package\Data Flow Task 1\Destination - mcu-nodes3_csv.Inputs[Flat File Destination Input].ExternalColumns[maudience]"
+                      dataType="i4"
+                      name="maudience" />
+                    <externalMetadataColumn
+                      refId="Package\Data Flow Task 1\Destination - mcu-nodes3_csv.Inputs[Flat File Destination Input].ExternalColumns[aname]"
+                      dataType="wstr"
+                      length="100"
+                      name="aname" />
+                    <externalMetadataColumn
+                      refId="Package\Data Flow Task 1\Destination - mcu-nodes3_csv.Inputs[Flat File Destination Input].ExternalColumns[atwitter]"
+                      dataType="i4"
+                      name="atwitter" />
+                    <externalMetadataColumn
+                      refId="Package\Data Flow Task 1\Destination - mcu-nodes3_csv.Inputs[Flat File Destination Input].ExternalColumns[afacebook]"
+                      dataType="i4"
+                      name="afacebook" />
+                    <externalMetadataColumn
+                      refId="Package\Data Flow Task 1\Destination - mcu-nodes3_csv.Inputs[Flat File Destination Input].ExternalColumns[type]"
+                      dataType="wstr"
+                      length="100"
+                      name="type" />
+                    <externalMetadataColumn
+                      refId="Package\Data Flow Task 1\Destination - mcu-nodes3_csv.Inputs[Flat File Destination Input].ExternalColumns[role]"
+                      dataType="wstr"
+                      length="100"
+                      name="role" />
+                    <externalMetadataColumn
+                      refId="Package\Data Flow Task 1\Destination - mcu-nodes3_csv.Inputs[Flat File Destination Input].ExternalColumns[rank]"
+                      dataType="i4"
+                      name="rank" />
+                  </externalMetadataColumns>
+                </input>
+              </inputs>
+            </component>
+            <component
+              refId="Package\Data Flow Task 1\Source - nodes"
+              componentClassID="{165A526D-D5DE-47FF-96A6-F8274C19826B}"
+              contactInfo="OLE DB Source;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;7"
+              description="OLE DB Source"
+              name="Source - nodes"
+              usesDispositions="true"
+              version="7">
+              <properties>
+                <property
+                  dataType="System.Int32"
+                  description="The number of seconds before a command times out.  A value of 0 indicates an infinite time-out."
+                  name="CommandTimeout">0</property>
+                <property
+                  dataType="System.String"
+                  description="Specifies the name of the database object used to open a rowset."
+                  name="OpenRowset">[dbo].[nodes]</property>
+                <property
+                  dataType="System.String"
+                  description="Specifies the variable that contains the name of the database object used to open a rowset."
+                  name="OpenRowsetVariable"></property>
+                <property
+                  dataType="System.String"
+                  description="The SQL command to be executed."
+                  name="SqlCommand"
+                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor, Microsoft.DataTransformationServices.Controls, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91"></property>
+                <property
+                  dataType="System.String"
+                  description="The variable that contains the SQL command to be executed."
+                  name="SqlCommandVariable"></property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifies the column code page to use when code page information is unavailable from the data source."
+                  name="DefaultCodePage">1252</property>
+                <property
+                  dataType="System.Boolean"
+                  description="Forces the use of the DefaultCodePage property value when describing character data."
+                  name="AlwaysUseDefaultCodePage">false</property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifies the mode used to access the database."
+                  name="AccessMode"
+                  typeConverter="AccessMode">0</property>
+                <property
+                  dataType="System.String"
+                  description="The mappings between the parameters in the SQL command and variables."
+                  name="ParameterMapping"></property>
+              </properties>
+              <connections>
+                <connection
+                  refId="Package\Data Flow Task 1\Source - nodes.Connections[OleDbConnection]"
+                  connectionManagerID="Package.ConnectionManagers[SourceConnectionOLEDB]"
+                  connectionManagerRefId="Package.ConnectionManagers[SourceConnectionOLEDB]"
+                  description="The OLE DB runtime connection used to access the database."
+                  name="OleDbConnection" />
+              </connections>
+              <outputs>
+                <output
+                  refId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Output]"
+                  name="OLE DB Source Output">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Output].Columns[id]"
+                      dataType="i4"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Output].ExternalColumns[id]"
+                      lineageId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Output].Columns[id]"
+                      name="id"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Output].Columns[label]"
+                      dataType="wstr"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Output].ExternalColumns[label]"
+                      length="100"
+                      lineageId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Output].Columns[label]"
+                      name="label"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Output].Columns[timeset]"
+                      dataType="wstr"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Output].ExternalColumns[timeset]"
+                      length="100"
+                      lineageId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Output].Columns[timeset]"
+                      name="timeset"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Output].Columns[morder]"
+                      dataType="i4"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Output].ExternalColumns[morder]"
+                      lineageId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Output].Columns[morder]"
+                      name="morder"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Output].Columns[myear]"
+                      dataType="i4"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Output].ExternalColumns[myear]"
+                      lineageId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Output].Columns[myear]"
+                      name="myear"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Output].Columns[mcost]"
+                      dataType="i4"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Output].ExternalColumns[mcost]"
+                      lineageId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Output].Columns[mcost]"
+                      name="mcost"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Output].Columns[mgross]"
+                      dataType="i4"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Output].ExternalColumns[mgross]"
+                      lineageId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Output].Columns[mgross]"
+                      name="mgross"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Output].Columns[mprofit]"
+                      dataType="i4"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Output].ExternalColumns[mprofit]"
+                      lineageId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Output].Columns[mprofit]"
+                      name="mprofit"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Output].Columns[mtomatometer]"
+                      dataType="i4"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Output].ExternalColumns[mtomatometer]"
+                      lineageId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Output].Columns[mtomatometer]"
+                      name="mtomatometer"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Output].Columns[maudience]"
+                      dataType="i4"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Output].ExternalColumns[maudience]"
+                      lineageId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Output].Columns[maudience]"
+                      name="maudience"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Output].Columns[aname]"
+                      dataType="wstr"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Output].ExternalColumns[aname]"
+                      length="100"
+                      lineageId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Output].Columns[aname]"
+                      name="aname"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Output].Columns[atwitter]"
+                      dataType="i4"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Output].ExternalColumns[atwitter]"
+                      lineageId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Output].Columns[atwitter]"
+                      name="atwitter"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Output].Columns[afacebook]"
+                      dataType="i4"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Output].ExternalColumns[afacebook]"
+                      lineageId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Output].Columns[afacebook]"
+                      name="afacebook"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Output].Columns[type]"
+                      dataType="wstr"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Output].ExternalColumns[type]"
+                      length="100"
+                      lineageId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Output].Columns[type]"
+                      name="type"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Output].Columns[role]"
+                      dataType="wstr"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Output].ExternalColumns[role]"
+                      length="100"
+                      lineageId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Output].Columns[role]"
+                      name="role"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Output].Columns[rank]"
+                      dataType="i4"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Output].ExternalColumns[rank]"
+                      lineageId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Output].Columns[rank]"
+                      name="rank"
+                      truncationRowDisposition="FailComponent" />
+                  </outputColumns>
+                  <externalMetadataColumns
+                    isUsed="True">
+                    <externalMetadataColumn
+                      refId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Output].ExternalColumns[id]"
+                      dataType="i4"
+                      name="id" />
+                    <externalMetadataColumn
+                      refId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Output].ExternalColumns[label]"
+                      dataType="wstr"
+                      length="100"
+                      name="label" />
+                    <externalMetadataColumn
+                      refId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Output].ExternalColumns[timeset]"
+                      dataType="wstr"
+                      length="100"
+                      name="timeset" />
+                    <externalMetadataColumn
+                      refId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Output].ExternalColumns[morder]"
+                      dataType="i4"
+                      name="morder" />
+                    <externalMetadataColumn
+                      refId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Output].ExternalColumns[myear]"
+                      dataType="i4"
+                      name="myear" />
+                    <externalMetadataColumn
+                      refId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Output].ExternalColumns[mcost]"
+                      dataType="i4"
+                      name="mcost" />
+                    <externalMetadataColumn
+                      refId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Output].ExternalColumns[mgross]"
+                      dataType="i4"
+                      name="mgross" />
+                    <externalMetadataColumn
+                      refId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Output].ExternalColumns[mprofit]"
+                      dataType="i4"
+                      name="mprofit" />
+                    <externalMetadataColumn
+                      refId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Output].ExternalColumns[mtomatometer]"
+                      dataType="i4"
+                      name="mtomatometer" />
+                    <externalMetadataColumn
+                      refId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Output].ExternalColumns[maudience]"
+                      dataType="i4"
+                      name="maudience" />
+                    <externalMetadataColumn
+                      refId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Output].ExternalColumns[aname]"
+                      dataType="wstr"
+                      length="100"
+                      name="aname" />
+                    <externalMetadataColumn
+                      refId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Output].ExternalColumns[atwitter]"
+                      dataType="i4"
+                      name="atwitter" />
+                    <externalMetadataColumn
+                      refId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Output].ExternalColumns[afacebook]"
+                      dataType="i4"
+                      name="afacebook" />
+                    <externalMetadataColumn
+                      refId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Output].ExternalColumns[type]"
+                      dataType="wstr"
+                      length="100"
+                      name="type" />
+                    <externalMetadataColumn
+                      refId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Output].ExternalColumns[role]"
+                      dataType="wstr"
+                      length="100"
+                      name="role" />
+                    <externalMetadataColumn
+                      refId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Output].ExternalColumns[rank]"
+                      dataType="i4"
+                      name="rank" />
+                  </externalMetadataColumns>
+                </output>
+                <output
+                  refId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Error Output]"
+                  isErrorOut="true"
+                  name="OLE DB Source Error Output">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Error Output].Columns[id]"
+                      dataType="i4"
+                      lineageId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Error Output].Columns[id]"
+                      name="id" />
+                    <outputColumn
+                      refId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Error Output].Columns[label]"
+                      dataType="wstr"
+                      length="100"
+                      lineageId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Error Output].Columns[label]"
+                      name="label" />
+                    <outputColumn
+                      refId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Error Output].Columns[timeset]"
+                      dataType="wstr"
+                      length="100"
+                      lineageId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Error Output].Columns[timeset]"
+                      name="timeset" />
+                    <outputColumn
+                      refId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Error Output].Columns[morder]"
+                      dataType="i4"
+                      lineageId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Error Output].Columns[morder]"
+                      name="morder" />
+                    <outputColumn
+                      refId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Error Output].Columns[myear]"
+                      dataType="i4"
+                      lineageId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Error Output].Columns[myear]"
+                      name="myear" />
+                    <outputColumn
+                      refId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Error Output].Columns[mcost]"
+                      dataType="i4"
+                      lineageId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Error Output].Columns[mcost]"
+                      name="mcost" />
+                    <outputColumn
+                      refId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Error Output].Columns[mgross]"
+                      dataType="i4"
+                      lineageId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Error Output].Columns[mgross]"
+                      name="mgross" />
+                    <outputColumn
+                      refId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Error Output].Columns[mprofit]"
+                      dataType="i4"
+                      lineageId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Error Output].Columns[mprofit]"
+                      name="mprofit" />
+                    <outputColumn
+                      refId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Error Output].Columns[mtomatometer]"
+                      dataType="i4"
+                      lineageId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Error Output].Columns[mtomatometer]"
+                      name="mtomatometer" />
+                    <outputColumn
+                      refId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Error Output].Columns[maudience]"
+                      dataType="i4"
+                      lineageId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Error Output].Columns[maudience]"
+                      name="maudience" />
+                    <outputColumn
+                      refId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Error Output].Columns[aname]"
+                      dataType="wstr"
+                      length="100"
+                      lineageId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Error Output].Columns[aname]"
+                      name="aname" />
+                    <outputColumn
+                      refId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Error Output].Columns[atwitter]"
+                      dataType="i4"
+                      lineageId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Error Output].Columns[atwitter]"
+                      name="atwitter" />
+                    <outputColumn
+                      refId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Error Output].Columns[afacebook]"
+                      dataType="i4"
+                      lineageId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Error Output].Columns[afacebook]"
+                      name="afacebook" />
+                    <outputColumn
+                      refId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Error Output].Columns[type]"
+                      dataType="wstr"
+                      length="100"
+                      lineageId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Error Output].Columns[type]"
+                      name="type" />
+                    <outputColumn
+                      refId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Error Output].Columns[role]"
+                      dataType="wstr"
+                      length="100"
+                      lineageId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Error Output].Columns[role]"
+                      name="role" />
+                    <outputColumn
+                      refId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Error Output].Columns[rank]"
+                      dataType="i4"
+                      lineageId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Error Output].Columns[rank]"
+                      name="rank" />
+                    <outputColumn
+                      refId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Error Output].Columns[ErrorCode]"
+                      dataType="i4"
+                      lineageId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Error Output].Columns[ErrorCode]"
+                      name="ErrorCode"
+                      specialFlags="1" />
+                    <outputColumn
+                      refId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Error Output].Columns[ErrorColumn]"
+                      dataType="i4"
+                      lineageId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Error Output].Columns[ErrorColumn]"
+                      name="ErrorColumn"
+                      specialFlags="2" />
+                  </outputColumns>
+                  <externalMetadataColumns />
+                </output>
+              </outputs>
+            </component>
+          </components>
+          <paths>
+            <path
+              refId="Package\Data Flow Task 1.Paths[OLE DB Source Output]"
+              endId="Package\Data Flow Task 1\Destination - mcu-nodes3_csv.Inputs[Flat File Destination Input]"
+              name="OLE DB Source Output"
+              startId="Package\Data Flow Task 1\Source - nodes.Outputs[OLE DB Source Output]" />
+          </paths>
+        </pipeline>
+      </DTS:ObjectData>
+    </DTS:Executable>
+  </DTS:Executables>
+</DTS:Executable>

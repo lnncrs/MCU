@@ -1,0 +1,121 @@
+order,movie,year,actor,character
+0,Harry Potter and the Sorcerer's Stone,2001,Richard Harris,Professor Albus Dumbledore
+0,Harry Potter and the Sorcerer's Stone,2001,Maggie Smith,Professor Minerva McGonagall
+0,Harry Potter and the Sorcerer's Stone,2001,Robbie Coltrane,Rubeus Hagrid
+0,Harry Potter and the Sorcerer's Stone,2001,Saunders Triplets,Baby Harry Potter
+0,Harry Potter and the Sorcerer's Stone,2001,Daniel Radcliffe,Harry Potter
+0,Harry Potter and the Sorcerer's Stone,2001,Fiona Shaw,Aunt Petunia Dursley
+0,Harry Potter and the Sorcerer's Stone,2001,Harry Melling,Dudley Dursley
+0,Harry Potter and the Sorcerer's Stone,2001,Richard Griffiths,Uncle Vernon Dursley
+0,Harry Potter and the Sorcerer's Stone,2001,Derek Deadman,Tom - Bartender in Leaky Cauldron
+0,Harry Potter and the Sorcerer's Stone,2001,Ian Hart,Professor Quirinus Quirrell
+0,Harry Potter and the Sorcerer's Stone,2001,Ben Borowiecki,Diagon Alley Boy
+0,Harry Potter and the Sorcerer's Stone,2001,Warwick Davis,Goblin Bank Teller / Professor Flitwick
+0,Harry Potter and the Sorcerer's Stone,2001,Verne Troyer,Griphook the Goblin
+0,Harry Potter and the Sorcerer's Stone,2001,John Hurt,Mr. Ollivander
+0,Harry Potter and the Sorcerer's Stone,2001,Richard Bremmer,He Who Must Not Be Named
+1,Harry Potter and the Chamber of Secrets,2002,Daniel Radcliffe,Harry Potter
+1,Harry Potter and the Chamber of Secrets,2002,Rupert Grint,Ron Weasley
+1,Harry Potter and the Chamber of Secrets,2002,Emma Watson,Hermione Granger
+1,Harry Potter and the Chamber of Secrets,2002,Richard Griffiths,Uncle Vernon Dursley
+1,Harry Potter and the Chamber of Secrets,2002,Fiona Shaw,Aunt Petunia Dursley
+1,Harry Potter and the Chamber of Secrets,2002,Harry Melling,Dudley Dursley
+1,Harry Potter and the Chamber of Secrets,2002,Toby Jones,Dobby the House Elf
+1,Harry Potter and the Chamber of Secrets,2002,Jim Norton,Mr. Mason
+1,Harry Potter and the Chamber of Secrets,2002,Veronica Clifford,Mrs. Mason
+1,Harry Potter and the Chamber of Secrets,2002,James Phelps,Fred Weasley
+1,Harry Potter and the Chamber of Secrets,2002,Oliver Phelps,George Weasley
+1,Harry Potter and the Chamber of Secrets,2002,Julie Walters,Mrs Weasley
+1,Harry Potter and the Chamber of Secrets,2002,Bonnie Wright,Ginny Weasley
+1,Harry Potter and the Chamber of Secrets,2002,Mark Williams,Arthur Weasley
+1,Harry Potter and the Chamber of Secrets,2002,Chris Rankin,Percy Weasley
+2,Harry Potter and the Prisoner of Azkaban,2004,Daniel Radcliffe,Harry Potter
+2,Harry Potter and the Prisoner of Azkaban,2004,Richard Griffiths,Uncle Vernon
+2,Harry Potter and the Prisoner of Azkaban,2004,Pam Ferris,Aunt Marge
+2,Harry Potter and the Prisoner of Azkaban,2004,Fiona Shaw,Aunt Petunia
+2,Harry Potter and the Prisoner of Azkaban,2004,Harry Melling,Dudley Dursley
+2,Harry Potter and the Prisoner of Azkaban,2004,Adrian Rawlins,James Potter
+2,Harry Potter and the Prisoner of Azkaban,2004,Geraldine Somerville,Lily Potter
+2,Harry Potter and the Prisoner of Azkaban,2004,Lee Ingleby,Stan Shunpike
+2,Harry Potter and the Prisoner of Azkaban,2004,Lenny Henry,Shrunken Head
+2,Harry Potter and the Prisoner of Azkaban,2004,Jimmy Gardner,Ernie the Bus Driver
+2,Harry Potter and the Prisoner of Azkaban,2004,Gary Oldman,Sirius Black
+2,Harry Potter and the Prisoner of Azkaban,2004,Jim Tavaré,Tom the Innkeeper
+2,Harry Potter and the Prisoner of Azkaban,2004,Robert Hardy,Cornelius Fudge
+2,Harry Potter and the Prisoner of Azkaban,2004,Abby Ford,Young Witch Maid
+2,Harry Potter and the Prisoner of Azkaban,2004,Rupert Grint,Ron Weasley
+3,Harry Potter and the Goblet of Fire,2005,Eric Sykes,Frank Bryce
+3,Harry Potter and the Goblet of Fire,2005,Timothy Spall,Wormtail (Peter Pettigrew)
+3,Harry Potter and the Goblet of Fire,2005,David Tennant,Bartemius 'Barty' Crouch Junior
+3,Harry Potter and the Goblet of Fire,2005,Daniel Radcliffe,Harry Potter
+3,Harry Potter and the Goblet of Fire,2005,Emma Watson,Hermione Granger
+3,Harry Potter and the Goblet of Fire,2005,Rupert Grint,Ron Weasley
+3,Harry Potter and the Goblet of Fire,2005,Mark Williams,Arthur Weasley
+3,Harry Potter and the Goblet of Fire,2005,James Phelps,Fred Weasley
+3,Harry Potter and the Goblet of Fire,2005,Oliver Phelps,George Weasley
+3,Harry Potter and the Goblet of Fire,2005,Bonnie Wright,Ginny Weasley
+3,Harry Potter and the Goblet of Fire,2005,Jeff Rawle,Amos Diggory
+3,Harry Potter and the Goblet of Fire,2005,Robert Pattinson,Cedric Diggory
+3,Harry Potter and the Goblet of Fire,2005,Jason Isaacs,Lucius Malfoy
+3,Harry Potter and the Goblet of Fire,2005,Tom Felton,Draco Malfoy
+3,Harry Potter and the Goblet of Fire,2005,Stanislav Ianevski,Viktor Krum
+4,Harry Potter and the Order of the Phoenix,2007,Daniel Radcliffe,Harry Potter
+4,Harry Potter and the Order of the Phoenix,2007,Harry Melling,Dudley Dursley
+4,Harry Potter and the Order of the Phoenix,2007,Jason Boyd,Piers
+4,Harry Potter and the Order of the Phoenix,2007,Richard Macklin,Malcolm
+4,Harry Potter and the Order of the Phoenix,2007,Kathryn Hunter,Mrs. Arabella Figg
+4,Harry Potter and the Order of the Phoenix,2007,Miles Jupp,TV Weatherman
+4,Harry Potter and the Order of the Phoenix,2007,Fiona Shaw,Aunt Petunia Dursley
+4,Harry Potter and the Order of the Phoenix,2007,Richard Griffiths,Uncle Vernon Dursley
+4,Harry Potter and the Order of the Phoenix,2007,Jessica Hynes,Mafalda Hopkirk
+4,Harry Potter and the Order of the Phoenix,2007,Adrian Rawlins,James Potter
+4,Harry Potter and the Order of the Phoenix,2007,Geraldine Somerville,Lily Potter
+4,Harry Potter and the Order of the Phoenix,2007,Robert Pattinson,Cedric Diggory
+4,Harry Potter and the Order of the Phoenix,2007,Ralph Fiennes,Lord Voldemort
+4,Harry Potter and the Order of the Phoenix,2007,Natalia Tena,Nymphadora Tonks
+4,Harry Potter and the Order of the Phoenix,2007,Brendan Gleeson,Alastor 'Mad-­Eye' Moody
+5,Harry Potter and the Half-Blood Prince,2009,Daniel Radcliffe,Harry Potter
+5,Harry Potter and the Half-Blood Prince,2009,Michael Gambon,Professor Albus Dumbledore
+5,Harry Potter and the Half-Blood Prince,2009,Dave Legeno,Fenrir Greyback
+5,Harry Potter and the Half-Blood Prince,2009,Elarica Johnson,Waitress
+5,Harry Potter and the Half-Blood Prince,2009,Jim Broadbent,Professor Horace Slughorn
+5,Harry Potter and the Half-Blood Prince,2009,Geraldine Somerville,Lily Potter
+5,Harry Potter and the Half-Blood Prince,2009,Bonnie Wright,Ginny Weasley
+5,Harry Potter and the Half-Blood Prince,2009,Julie Walters,Molly Weasley
+5,Harry Potter and the Half-Blood Prince,2009,Rupert Grint,Ron Weasley
+5,Harry Potter and the Half-Blood Prince,2009,Emma Watson,Hermione Granger
+5,Harry Potter and the Half-Blood Prince,2009,Helena Bonham Carter,Bellatrix Lestrange
+5,Harry Potter and the Half-Blood Prince,2009,Helen McCrory,Narcissa Malfoy
+5,Harry Potter and the Half-Blood Prince,2009,Timothy Spall,Wormtail
+5,Harry Potter and the Half-Blood Prince,2009,Alan Rickman,Professor Severus Snape
+5,Harry Potter and the Half-Blood Prince,2009,Oliver Phelps,George Weasley
+6,Harry Potter and the Deathly Hallows: Part 1,2010,Bill Nighy,Minister Rufus Scrimgeour
+6,Harry Potter and the Deathly Hallows: Part 1,2010,Emma Watson,Hermione Granger
+6,Harry Potter and the Deathly Hallows: Part 1,2010,Richard Griffiths,Vernon Dursley
+6,Harry Potter and the Deathly Hallows: Part 1,2010,Harry Melling,Dudley Dursley
+6,Harry Potter and the Deathly Hallows: Part 1,2010,Daniel Radcliffe,Harry Potter
+6,Harry Potter and the Deathly Hallows: Part 1,2010,Julie Walters,Molly Weasley
+6,Harry Potter and the Deathly Hallows: Part 1,2010,Bonnie Wright,Ginny Weasley
+6,Harry Potter and the Deathly Hallows: Part 1,2010,Rupert Grint,Ron Weasley
+6,Harry Potter and the Deathly Hallows: Part 1,2010,Ian Kelly,Mr. Granger
+6,Harry Potter and the Deathly Hallows: Part 1,2010,Michelle Fairley,Mrs. Granger
+6,Harry Potter and the Deathly Hallows: Part 1,2010,Fiona Shaw,Petunia Dursley
+6,Harry Potter and the Deathly Hallows: Part 1,2010,Alan Rickman,Professor Severus Snape
+6,Harry Potter and the Deathly Hallows: Part 1,2010,Carolyn Pickles,Charity Burbage
+6,Harry Potter and the Deathly Hallows: Part 1,2010,Ralph Fiennes,Lord Voldemort
+6,Harry Potter and the Deathly Hallows: Part 1,2010,Helena Bonham Carter,Bellatrix Lestrange
+7,Harry Potter and the Deathly Hallows: Part 2,2011,Ralph Fiennes,Lord Voldemort
+7,Harry Potter and the Deathly Hallows: Part 2,2011,Michael Gambon,Professor Albus Dumbledore
+7,Harry Potter and the Deathly Hallows: Part 2,2011,Alan Rickman,Professor Severus Snape
+7,Harry Potter and the Deathly Hallows: Part 2,2011,Daniel Radcliffe,Harry Potter
+7,Harry Potter and the Deathly Hallows: Part 2,2011,Rupert Grint,Ron Weasley
+7,Harry Potter and the Deathly Hallows: Part 2,2011,Emma Watson,Hermione Granger
+7,Harry Potter and the Deathly Hallows: Part 2,2011,Evanna Lynch,Luna Lovegood
+7,Harry Potter and the Deathly Hallows: Part 2,2011,Domhnall Gleeson,Bill Weasley
+7,Harry Potter and the Deathly Hallows: Part 2,2011,Clémence Poésy,Fleur Delacour
+7,Harry Potter and the Deathly Hallows: Part 2,2011,Warwick Davis,Griphook / Professor Filius Flitwick
+7,Harry Potter and the Deathly Hallows: Part 2,2011,John Hurt,Ollivander
+7,Harry Potter and the Deathly Hallows: Part 2,2011,Helena Bonham Carter,Bellatrix Lestrange
+7,Harry Potter and the Deathly Hallows: Part 2,2011,Graham Duff,Death Eater
+7,Harry Potter and the Deathly Hallows: Part 2,2011,Anthony Allgood,Gringotts' Guard
+7,Harry Potter and the Deathly Hallows: Part 2,2011,Rusty Goffe,Aged Gringotts' Goblin

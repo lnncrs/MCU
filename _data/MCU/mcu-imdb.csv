@@ -1,0 +1,239 @@
+order,movie,year,actor,character
+0,Iron Man,2008,Robert Downey Jr.,Tony Stark / Iron Man
+0,Iron Man,2008,Terrence Howard,Rhodey
+0,Iron Man,2008,Jeff Bridges,Obadiah Stane
+0,Iron Man,2008,Gwyneth Paltrow,Pepper Potts
+0,Iron Man,2008,Leslie Bibb,Christine Everhart
+0,Iron Man,2008,Shaun Toub,Yinsen
+0,Iron Man,2008,Faran Tahir,Raza
+0,Iron Man,2008,Clark Gregg,Agent Coulson
+0,Iron Man,2008,Bill Smitrovich,General Gabriel
+0,Iron Man,2008,Sayed Badreya,Abu Bakaar
+0,Iron Man,2008,Paul Bettany,Jarvis
+0,Iron Man,2008,Jon Favreau,Hogan
+0,Iron Man,2008,Peter Billingsley,William Ginter Riva
+0,Iron Man,2008,Tim Guinee,Major Allen
+0,Iron Man,2008,Will Lyman,Award Ceremony Narrator (voice)
+1,The Incredible Hulk,2008,Edward Norton,Bruce Banner
+1,The Incredible Hulk,2008,Liv Tyler,Betty Ross
+1,The Incredible Hulk,2008,Tim Roth,Emil Blonsky
+1,The Incredible Hulk,2008,William Hurt,General 'Thunderbolt' Ross
+1,The Incredible Hulk,2008,Tim Blake Nelson,Samuel Sterns
+1,The Incredible Hulk,2008,Ty Burrell,Leonard
+1,The Incredible Hulk,2008,Christina Cabot,Major Kathleen Sparr
+1,The Incredible Hulk,2008,Peter Mensah,General Joe Greller
+1,The Incredible Hulk,2008,Lou Ferrigno,The Incredible Hulk
+1,The Incredible Hulk,2008,Paul Soles,Stanley
+1,The Incredible Hulk,2008,Débora Nascimento,Martina
+1,The Incredible Hulk,2008,Greg Bryk,Commando
+1,The Incredible Hulk,2008,Chris Owens,Commando
+1,The Incredible Hulk,2008,Al Vrkljan,Commando (as Alan Vrkljan)
+1,The Incredible Hulk,2008,Adrian Hein,Commando
+2,Iron Man 2,2010,Robert Downey Jr.,Tony Stark
+2,Iron Man 2,2010,Gwyneth Paltrow,Pepper Potts
+2,Iron Man 2,2010,Don Cheadle,Lt. Col. James 'Rhodey' Rhodes
+2,Iron Man 2,2010,Scarlett Johansson,Natalie Rushman / Natasha Romanoff
+2,Iron Man 2,2010,Sam Rockwell,Justin Hammer
+2,Iron Man 2,2010,Mickey Rourke,Ivan Vanko
+2,Iron Man 2,2010,Samuel L. Jackson,Nick Fury
+2,Iron Man 2,2010,Clark Gregg,Agent Coulson
+2,Iron Man 2,2010,John Slattery,Howard Stark
+2,Iron Man 2,2010,Garry Shandling,Senator Stern
+2,Iron Man 2,2010,Paul Bettany,Jarvis
+2,Iron Man 2,2010,Kate Mara,U.S. Marshal
+2,Iron Man 2,2010,Leslie Bibb,Christine Everhart
+2,Iron Man 2,2010,Jon Favreau,Happy Hogan
+2,Iron Man 2,2010,Christiane Amanpour,Christiane Amanpour
+3,Thor,2011,Chris Hemsworth,Thor
+3,Thor,2011,Natalie Portman,Jane Foster
+3,Thor,2011,Tom Hiddleston,Loki
+3,Thor,2011,Anthony Hopkins,Odin
+3,Thor,2011,Stellan Skarsgård,Erik Selvig
+3,Thor,2011,Kat Dennings,Darcy Lewis
+3,Thor,2011,Clark Gregg,Agent Coulson
+3,Thor,2011,Colm Feore,King Laufey
+3,Thor,2011,Idris Elba,Heimdall
+3,Thor,2011,Ray Stevenson,Volstagg
+3,Thor,2011,Tadanobu Asano,Hogun
+3,Thor,2011,Josh Dallas,Fandral
+3,Thor,2011,Jaimie Alexander,Sif
+3,Thor,2011,Rene Russo,Frigga
+3,Thor,2011,Adriana Barraza,Isabela Alvarez
+4,Captain America: The First Avenger,2011,Chris Evans,Captain America / Steve Rogers
+4,Captain America: The First Avenger,2011,Hayley Atwell,Peggy Carter
+4,Captain America: The First Avenger,2011,Sebastian Stan,James Buchanan 'Bucky' Barnes
+4,Captain America: The First Avenger,2011,Tommy Lee Jones,Colonel Chester Phillips
+4,Captain America: The First Avenger,2011,Hugo Weaving,Johann Schmidt / Red Skull
+4,Captain America: The First Avenger,2011,Dominic Cooper,Howard Stark
+4,Captain America: The First Avenger,2011,Richard Armitage,Heinz Kruger
+4,Captain America: The First Avenger,2011,Stanley Tucci,Dr. Abraham Erskine
+4,Captain America: The First Avenger,2011,Samuel L. Jackson,Nick Fury
+4,Captain America: The First Avenger,2011,Toby Jones,Dr. Arnim Zola
+4,Captain America: The First Avenger,2011,Neal McDonough,Timothy 'Dum Dum' Dugan
+4,Captain America: The First Avenger,2011,Derek Luke,Gabe Jones
+4,Captain America: The First Avenger,2011,Kenneth Choi,Jim Morita
+4,Captain America: The First Avenger,2011,JJ Feild,James Montgomery Falsworth
+4,Captain America: The First Avenger,2011,Bruno Ricci,Jacques Dernier
+5,The Avengers,2012,Robert Downey Jr.,Tony Stark / Iron Man
+5,The Avengers,2012,Chris Evans,Steve Rogers / Captain America
+5,The Avengers,2012,Mark Ruffalo,Bruce Banner / The Hulk
+5,The Avengers,2012,Chris Hemsworth,Thor
+5,The Avengers,2012,Scarlett Johansson,Natasha Romanoff / Black Widow
+5,The Avengers,2012,Jeremy Renner,Clint Barton / Hawkeye
+5,The Avengers,2012,Tom Hiddleston,Loki
+5,The Avengers,2012,Clark Gregg,Agent Phil Coulson
+5,The Avengers,2012,Cobie Smulders,Agent Maria Hill
+5,The Avengers,2012,Stellan Skarsgård,Selvig
+5,The Avengers,2012,Samuel L. Jackson,Nick Fury
+5,The Avengers,2012,Gwyneth Paltrow,Pepper Potts
+5,The Avengers,2012,Paul Bettany,Jarvis
+5,The Avengers,2012,Alexis Denisof,The Other
+5,The Avengers,2012,Tina Benko,NASA Scientist
+6,Iron Man Three,2013,Robert Downey Jr.,Tony Stark
+6,Iron Man Three,2013,Gwyneth Paltrow,Pepper Potts
+6,Iron Man Three,2013,Don Cheadle,Colonel James Rhodes
+6,Iron Man Three,2013,Guy Pearce,Aldrich Killian
+6,Iron Man Three,2013,Rebecca Hall,Maya Hansen
+6,Iron Man Three,2013,Jon Favreau,Happy Hogan
+6,Iron Man Three,2013,Ben Kingsley,Trevor Slattery
+6,Iron Man Three,2013,James Badge Dale,Savin
+6,Iron Man Three,2013,Stephanie Szostak,Brandt
+6,Iron Man Three,2013,Paul Bettany,Jarvis
+6,Iron Man Three,2013,William Sadler,President Ellis
+6,Iron Man Three,2013,Dale Dickey,Mrs. Davis
+6,Iron Man Three,2013,Ty Simpkins,Harley Keener
+6,Iron Man Three,2013,Miguel Ferrer,Vice President Rodriguez
+6,Iron Man Three,2013,Xueqi Wang,Doctor Wu (as Wang Xueqi)
+7,Agents of S.H.I.E.L.D.,2013,Clark Gregg,Phil Coulson
+7,Agents of S.H.I.E.L.D.,2013,Ming-Na Wen,Melinda May
+7,Agents of S.H.I.E.L.D.,2013,Chloe Bennet,Daisy 'Skye' Johnson
+7,Agents of S.H.I.E.L.D.,2013,Iain De Caestecker,Leo Fitz
+7,Agents of S.H.I.E.L.D.,2013,Elizabeth Henstridge,Jemma Simmons
+7,Agents of S.H.I.E.L.D.,2013,Brett Dalton,Grant Ward
+7,Agents of S.H.I.E.L.D.,2013,Henry Simmons,Alphonso 'Mack' Mackenzie
+7,Agents of S.H.I.E.L.D.,2013,Nick Blood,Lance Hunter
+7,Agents of S.H.I.E.L.D.,2013,Adrianne Palicki,Bobbi Morse
+7,Agents of S.H.I.E.L.D.,2013,Luke Mitchell,Lincoln Campbell
+8,Thor: The Dark World,2013,Chris Hemsworth,Thor
+8,Thor: The Dark World,2013,Natalie Portman,Jane Foster
+8,Thor: The Dark World,2013,Tom Hiddleston,Loki
+8,Thor: The Dark World,2013,Anthony Hopkins,Odin
+8,Thor: The Dark World,2013,Christopher Eccleston,Malekith
+8,Thor: The Dark World,2013,Jaimie Alexander,Sif
+8,Thor: The Dark World,2013,Zachary Levi,Fandral
+8,Thor: The Dark World,2013,Ray Stevenson,Volstagg
+8,Thor: The Dark World,2013,Tadanobu Asano,Hogun
+8,Thor: The Dark World,2013,Idris Elba,Heimdall
+8,Thor: The Dark World,2013,Rene Russo,Frigga
+8,Thor: The Dark World,2013,Adewale Akinnuoye-Agbaje,Algrim / Kurse
+8,Thor: The Dark World,2013,Kat Dennings,Darcy Lewis
+8,Thor: The Dark World,2013,Stellan Skarsgård,Erik Selvig
+8,Thor: The Dark World,2013,Alice Krige,Eir
+9,Captain America: The Winter Soldier,2014,Chris Evans,Steve Rogers / Captain America
+9,Captain America: The Winter Soldier,2014,Samuel L. Jackson,Nick Fury
+9,Captain America: The Winter Soldier,2014,Scarlett Johansson,Natasha Romanoff / Black Widow
+9,Captain America: The Winter Soldier,2014,Robert Redford,Alexander Pierce
+9,Captain America: The Winter Soldier,2014,Sebastian Stan,Bucky Barnes / Winter Soldier
+9,Captain America: The Winter Soldier,2014,Anthony Mackie,Sam Wilson / Falcon
+9,Captain America: The Winter Soldier,2014,Cobie Smulders,Maria Hill
+9,Captain America: The Winter Soldier,2014,Frank Grillo,Brock Rumlow
+9,Captain America: The Winter Soldier,2014,Maximiliano Hernández,Jasper Sitwell
+9,Captain America: The Winter Soldier,2014,Emily VanCamp,Agent 13
+9,Captain America: The Winter Soldier,2014,Hayley Atwell,Peggy Carter
+9,Captain America: The Winter Soldier,2014,Toby Jones,Dr. Arnim Zola
+9,Captain America: The Winter Soldier,2014,Stan Lee,Smithsonian Guard
+9,Captain America: The Winter Soldier,2014,Callan Mulvey,Jack Rollins
+9,Captain America: The Winter Soldier,2014,Jenny Agutter,Councilwoman Hawley
+10,Guardians of the Galaxy,2014,Chris Pratt,Peter Quill
+10,Guardians of the Galaxy,2014,Zoe Saldana,Gamora
+10,Guardians of the Galaxy,2014,Dave Bautista,Drax
+10,Guardians of the Galaxy,2014,Vin Diesel,Groot
+10,Guardians of the Galaxy,2014,Bradley Cooper,Rocket
+10,Guardians of the Galaxy,2014,Lee Pace,Ronan
+10,Guardians of the Galaxy,2014,Michael Rooker,Yondu Udonta
+10,Guardians of the Galaxy,2014,Karen Gillan,Nebula
+10,Guardians of the Galaxy,2014,Djimon Hounsou,Korath
+10,Guardians of the Galaxy,2014,John C. Reilly,Corpsman Dey
+10,Guardians of the Galaxy,2014,Glenn Close,Nova Prime
+10,Guardians of the Galaxy,2014,Benicio Del Toro,The Collector
+10,Guardians of the Galaxy,2014,Laura Haddock,Meredith Quill
+10,Guardians of the Galaxy,2014,Sean Gunn,Kraglin / On Set Rocket
+10,Guardians of the Galaxy,2014,Peter Serafinowicz,Denarian Saal
+11,Agent Carter,2015,Hayley Atwell,Peggy Carter
+11,Agent Carter,2015,James D'Arcy,Edwin Jarvis
+11,Agent Carter,2015,Enver Gjokaj,Daniel Sousa
+11,Agent Carter,2015,Chad Michael Murray,Jack Thompson
+11,Agent Carter,2015,Wynn Everett,Whitney Frost
+11,Agent Carter,2015,Reggie Austin,Jason Wilkes
+11,Agent Carter,2015,Bridget Regan,Dottie Underwood
+11,Agent Carter,2015,Lesley Boone,Rose
+12,Daredevil,2015,Charlie Cox,Matt Murdock
+12,Daredevil,2015,Deborah Ann Woll,Karen Page
+12,Daredevil,2015,Elden Henson,Foggy Nelson
+12,Daredevil,2015,Vincent D'Onofrio,Wilson Fisk
+12,Daredevil,2015,Royce Johnson,Sgt. Brett Mahoney
+12,Daredevil,2015,Jon Bernthal,Frank Castle
+13,Avengers: Age of Ultron,2015,Robert Downey Jr.,Tony Stark / Iron Man
+13,Avengers: Age of Ultron,2015,Chris Hemsworth,Thor
+13,Avengers: Age of Ultron,2015,Mark Ruffalo,Bruce Banner / Hulk
+13,Avengers: Age of Ultron,2015,Chris Evans,Steve Rogers / Captain America
+13,Avengers: Age of Ultron,2015,Scarlett Johansson,Natasha Romanoff / Black Widow
+13,Avengers: Age of Ultron,2015,Jeremy Renner,Clint Barton / Hawkeye
+13,Avengers: Age of Ultron,2015,James Spader,Ultron
+13,Avengers: Age of Ultron,2015,Samuel L. Jackson,Nick Fury
+13,Avengers: Age of Ultron,2015,Don Cheadle,James Rhodes / War Machine
+13,Avengers: Age of Ultron,2015,Aaron Taylor-Johnson,Pietro Maximoff / Quicksilver
+13,Avengers: Age of Ultron,2015,Elizabeth Olsen,Wanda Maximoff / Scarlet Witch
+13,Avengers: Age of Ultron,2015,Paul Bettany,Jarvis / Vision
+13,Avengers: Age of Ultron,2015,Cobie Smulders,Maria Hill
+13,Avengers: Age of Ultron,2015,Anthony Mackie,Sam Wilson / Falcon
+13,Avengers: Age of Ultron,2015,Hayley Atwell,Peggy Carter
+14,Ant-Man,2015,Paul Rudd,Scott Lang / Ant-Man
+14,Ant-Man,2015,Michael Douglas,Dr. Hank Pym
+14,Ant-Man,2015,Evangeline Lilly,Hope van Dyne
+14,Ant-Man,2015,Corey Stoll,Darren Cross / Yellowjacket
+14,Ant-Man,2015,Bobby Cannavale,Paxton
+14,Ant-Man,2015,Anthony Mackie,Sam Wilson / Falcon
+14,Ant-Man,2015,Judy Greer,Maggie Lang
+14,Ant-Man,2015,Abby Ryder Fortson,Cassie Lang
+14,Ant-Man,2015,Michael Peña,Luis
+14,Ant-Man,2015,David Dastmalchian,Kurt
+14,Ant-Man,2015,T.I.,Dave
+14,Ant-Man,2015,Hayley Atwell,Peggy Carter
+14,Ant-Man,2015,Wood Harris,Gale
+14,Ant-Man,2015,John Slattery,Howard Stark
+14,Ant-Man,2015,Kevin Glen Kavanaugh,Cop #2
+15,Jessica Jones,2015,Krysten Ritter,Jessica Jones
+15,Jessica Jones,2015,Rachael Taylor,Trish Walker
+15,Jessica Jones,2015,Eka Darville,Malcolm Ducasse
+15,Jessica Jones,2015,David Tennant,Kilgrave
+16,Captain America: Civil War,2016,Chris Evans,Steve Rogers / Captain America
+16,Captain America: Civil War,2016,Robert Downey Jr.,Tony Stark / Iron Man
+16,Captain America: Civil War,2016,Scarlett Johansson,Natasha Romanoff / Black Widow
+16,Captain America: Civil War,2016,Sebastian Stan,Bucky Barnes / Winter Soldier
+16,Captain America: Civil War,2016,Anthony Mackie,Sam Wilson / Falcon
+16,Captain America: Civil War,2016,Don Cheadle,Lieutenant James Rhodes / War Machine
+16,Captain America: Civil War,2016,Jeremy Renner,Clint Barton / Hawkeye
+16,Captain America: Civil War,2016,Chadwick Boseman,T'Challa / Black Panther
+16,Captain America: Civil War,2016,Paul Bettany,Vision
+16,Captain America: Civil War,2016,Elizabeth Olsen,Wanda Maximoff / Scarlet Witch
+16,Captain America: Civil War,2016,Paul Rudd,Scott Lang / Ant-Man
+16,Captain America: Civil War,2016,Emily VanCamp,Sharon Carter
+16,Captain America: Civil War,2016,Tom Holland,Peter Parker / Spider-Man
+16,Captain America: Civil War,2016,Daniel Brühl,Zemo
+16,Captain America: Civil War,2016,Frank Grillo,Brock Rumlow / Crossbones
+17,Doctor Strange,2016,Rachel McAdams,
+17,Doctor Strange,2016,Benedict Cumberbatch,Dr. Stephen Strange
+17,Doctor Strange,2016,Tilda Swinton,The Ancient One
+17,Doctor Strange,2016,Mads Mikkelsen,
+17,Doctor Strange,2016,Scott Adkins,
+17,Doctor Strange,2016,Chiwetel Ejiofor,Baron Mordo
+17,Doctor Strange,2016,Michael Stuhlbarg,Nicodemus West
+17,Doctor Strange,2016,Benedict Wong,Wong
+17,Doctor Strange,2016,Amy Landecker,
+17,Doctor Strange,2016,Juani Feliz,Girl on the Bus
+17,Doctor Strange,2016,Shina Shihoko Nagai,Martial Artist / Waitress
+17,Doctor Strange,2016,Dante Briggins,Orderly
+17,Doctor Strange,2016,Emeson Nwolie,Passer-by
+17,Doctor Strange,2016,Daniel Eghan,Hospital Visitor
+17,Doctor Strange,2016,Bern Collaco,Orderly

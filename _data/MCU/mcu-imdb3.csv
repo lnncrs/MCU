@@ -1,0 +1,669 @@
+order,movie,year,actor,character,rank
+0,Homem de Ferro,2008,Robert Downey Jr.,Tony Stark,10
+0,Homem de Ferro,2008,Terrence Howard,Rhodey,10
+0,Homem de Ferro,2008,Jeff Bridges,Obadiah Stane,10
+0,Homem de Ferro,2008,Gwyneth Paltrow,Pepper Potts,10
+0,Homem de Ferro,2008,Leslie Bibb,Christine Everhart,10
+0,Homem de Ferro,2008,Shaun Toub,Yinsen,10
+0,Homem de Ferro,2008,Faran Tahir,Raza,10
+0,Homem de Ferro,2008,Clark Gregg,Agent Coulson,10
+0,Homem de Ferro,2008,Bill Smitrovich,General Gabriel,10
+0,Homem de Ferro,2008,Sayed Badreya,Abu Bakaar,10
+0,Homem de Ferro,2008,Paul Bettany,Jarvis,10
+0,Homem de Ferro,2008,Jon Favreau,Hogan,10
+0,Homem de Ferro,2008,Peter Billingsley,William Ginter Riva,10
+0,Homem de Ferro,2008,Tim Guinee,Major Allen,10
+0,Homem de Ferro,2008,Kevin Foster,Jimmy,10
+0,Homem de Ferro,2008,Garret Noël,Pratt,10
+0,Homem de Ferro,2008,Eileen Weisinger,Ramirez,10
+0,Homem de Ferro,2008,Ahmed Ahmed,Ahmed,10
+0,Homem de Ferro,2008,Gerard Sanders,Howard Stark,10
+0,Homem de Ferro,2008,Stan Lee,Stan Lee,10
+0,Homem de Ferro,2008,Samuel L. Jackson,Nick Fury,10
+1,O Incrível Hulk,2008,Edward Norton,Bruce Banner,10
+1,O Incrível Hulk,2008,Liv Tyler,Betty Ross,10
+1,O Incrível Hulk,2008,Tim Roth,Emil Blonsky,10
+1,O Incrível Hulk,2008,William Hurt,General 'Thunderbolt' Ross,10
+1,O Incrível Hulk,2008,Tim Blake Nelson,Samuel Sterns,10
+1,O Incrível Hulk,2008,Ty Burrell,Leonard,10
+1,O Incrível Hulk,2008,Christina Cabot,Major Kathleen Sparr,10
+1,O Incrível Hulk,2008,Lou Ferrigno,The Incredible Hulk,10
+1,O Incrível Hulk,2008,Paul Soles,Stanley,10
+1,O Incrível Hulk,2008,Martin Starr,Computer Nerd,10
+1,O Incrível Hulk,2008,Nicholas Rose,McGee,10
+1,O Incrível Hulk,2008,Bill Bixby,Tom Corbett,10
+1,O Incrível Hulk,2008,Brandon Cruz,Eddie Corbett,10
+1,O Incrível Hulk,2008,Robert Downey Jr.,Tony Stark,10
+1,O Incrível Hulk,2008,Stan Lee,Milwaukee Man Drinking From Bottle,10
+2,Homem de Ferro 2,2010,Robert Downey Jr.,Tony Stark,10
+2,Homem de Ferro 2,2010,Gwyneth Paltrow,Pepper Potts,10
+2,Homem de Ferro 2,2010,Don Cheadle,Lt. Col. James 'Rhodey' Rhodes,10
+2,Homem de Ferro 2,2010,Scarlett Johansson,Natalie Rushman,10
+2,Homem de Ferro 2,2010,Sam Rockwell,Justin Hammer,10
+2,Homem de Ferro 2,2010,Mickey Rourke,Ivan Vanko,10
+2,Homem de Ferro 2,2010,Samuel L. Jackson,Nick Fury,10
+2,Homem de Ferro 2,2010,Clark Gregg,Agent Coulson,10
+2,Homem de Ferro 2,2010,John Slattery,Howard Stark,10
+2,Homem de Ferro 2,2010,Garry Shandling,Senator Stern,10
+2,Homem de Ferro 2,2010,Paul Bettany,Jarvis,10
+2,Homem de Ferro 2,2010,Kate Mara,U.S. Marshal,10
+2,Homem de Ferro 2,2010,Leslie Bibb,Christine Everhart,10
+2,Homem de Ferro 2,2010,Jon Favreau,Happy Hogan,10
+2,Homem de Ferro 2,2010,Christiane Amanpour,Christiane Amanpour,10
+2,Homem de Ferro 2,2010,DJ AM,Adam Goldstein,10
+2,Homem de Ferro 2,2010,Tim Guinee,Major Allen,10
+2,Homem de Ferro 2,2010,Evgeniy Lazarev,Anton Vanko,10
+2,Homem de Ferro 2,2010,Stan Lee,Stan Lee,10
+2,Homem de Ferro 2,2010,Margy Stein,Bambi Arbogast,10
+2,Homem de Ferro 2,2010,Elon Musk,Elon Musk,10
+2,Homem de Ferro 2,2010,Bill O'Reilly,Bill O'Reilly,10
+2,Homem de Ferro 2,2010,Davin Ransom,Young Tony Stark,10
+2,Homem de Ferro 2,2010,Jack White,Jack,10
+3,Thor,2011,Chris Hemsworth,Thor,10
+3,Thor,2011,Natalie Portman,Jane Foster,10
+3,Thor,2011,Tom Hiddleston,Loki,10
+3,Thor,2011,Anthony Hopkins,Odin,10
+3,Thor,2011,Stellan Skarsgård,Erik Selvig,10
+3,Thor,2011,Kat Dennings,Darcy Lewis,10
+3,Thor,2011,Clark Gregg,Agent Coulson,10
+3,Thor,2011,Colm Feore,King Laufey,10
+3,Thor,2011,Idris Elba,Heimdall,10
+3,Thor,2011,Ray Stevenson,Volstagg,10
+3,Thor,2011,Tadanobu Asano,Hogun,10
+3,Thor,2011,Josh Dallas,Fandral,10
+3,Thor,2011,Jaimie Alexander,Sif,10
+3,Thor,2011,Rene Russo,Frigga,10
+3,Thor,2011,Adriana Barraza,Isabela Alvarez,10
+3,Thor,2011,Maximiliano Hernández,Agent Sitwell,10
+3,Thor,2011,Jamie McShane,Agent Jackson,10
+3,Thor,2011,Stan Lee,Stan the Man,10
+3,Thor,2011,Dakota Goyo,Young Thor,10
+3,Thor,2011,Ted Allpress,Young Loki,10
+3,Thor,2011,David Bantly,SHIELD Scientist,10
+3,Thor,2011,Troy Brenna,Frost Giant,10
+3,Thor,2011,Samuel L. Jackson,Nick Fury,10
+3,Thor,2011,Jonaral Martin,Asgardian,10
+3,Thor,2011,Keith Middlebrook,Agent McGuire,10
+3,Thor,2011,Jeremy Renner,Clint Barton,10
+3,Thor,2011,Walter Simonson,Asgardian,10
+3,Thor,2011,Douglas Tait,Frost Giant,10
+4,Capitão América: O Primeiro Vingador,2011,Chris Evans,Captain America,10
+4,Capitão América: O Primeiro Vingador,2011,Hayley Atwell,Peggy Carter,10
+4,Capitão América: O Primeiro Vingador,2011,Sebastian Stan,James Buchanan 'Bucky' Barnes,10
+4,Capitão América: O Primeiro Vingador,2011,Tommy Lee Jones,Colonel Chester Phillips,10
+4,Capitão América: O Primeiro Vingador,2011,Hugo Weaving,Johann Schmidt,10
+4,Capitão América: O Primeiro Vingador,2011,Dominic Cooper,Howard Stark,10
+4,Capitão América: O Primeiro Vingador,2011,Richard Armitage,Heinz Kruger,10
+4,Capitão América: O Primeiro Vingador,2011,Stanley Tucci,Dr. Abraham Erskine,10
+4,Capitão América: O Primeiro Vingador,2011,Samuel L. Jackson,Nick Fury,10
+4,Capitão América: O Primeiro Vingador,2011,Toby Jones,Dr. Arnim Zola,10
+4,Capitão América: O Primeiro Vingador,2011,Neal McDonough,Timothy 'Dum Dum' Dugan,10
+4,Capitão América: O Primeiro Vingador,2011,Derek Luke,Gabe Jones,10
+4,Capitão América: O Primeiro Vingador,2011,Kenneth Choi,Jim Morita,10
+4,Capitão América: O Primeiro Vingador,2011,JJ Feild,James Montgomery Falsworth,10
+4,Capitão América: O Primeiro Vingador,2011,Bruno Ricci,Jacques Dernier,10
+4,Capitão América: O Primeiro Vingador,2011,Michael Brandon,Senator Brandt,10
+4,Capitão América: O Primeiro Vingador,2011,Natalie Dormer,Pvt. Lorraine,10
+4,Capitão América: O Primeiro Vingador,2011,James Payton,'Adolph Hitler',10
+4,Capitão América: O Primeiro Vingador,2011,Amanda Righetti,SHIELD Agent,10
+4,Capitão América: O Primeiro Vingador,2011,Jack Conway,SHIELD Agent,10
+4,Capitão América: O Primeiro Vingador,2011,Eddie Davenport,HYDRA Soldier,10
+4,Capitão América: O Primeiro Vingador,2011,Paul Davies,Hydra Soldier,10
+4,Capitão América: O Primeiro Vingador,2011,Drew Gregory,SHIELD Agent,10
+4,Capitão América: O Primeiro Vingador,2011,Todd Von Joel,Hydra Soldier,10
+4,Capitão América: O Primeiro Vingador,2011,Jacob Johnston,HYDRA Soldier,10
+4,Capitão América: O Primeiro Vingador,2011,Matt Kohler,HYDRA Soldier,10
+4,Capitão América: O Primeiro Vingador,2011,Stan Lee,General,10
+4,Capitão América: O Primeiro Vingador,2011,Drew Sherman,HYDRA Soldier,10
+4,Capitão América: O Primeiro Vingador,2011,Sy Turner,Hydra Soldier,10
+5,The Avengers: Os Vingadores,2012,Robert Downey Jr.,Tony Stark,10
+5,The Avengers: Os Vingadores,2012,Chris Evans,Steve Rogers,10
+5,The Avengers: Os Vingadores,2012,Mark Ruffalo,Bruce Banner,10
+5,The Avengers: Os Vingadores,2012,Chris Hemsworth,Thor,10
+5,The Avengers: Os Vingadores,2012,Scarlett Johansson,Natasha Romanoff,10
+5,The Avengers: Os Vingadores,2012,Jeremy Renner,Clint Barton,10
+5,The Avengers: Os Vingadores,2012,Tom Hiddleston,Loki,10
+5,The Avengers: Os Vingadores,2012,Clark Gregg,Agent Phil Coulson,10
+5,The Avengers: Os Vingadores,2012,Cobie Smulders,Agent Maria Hill,10
+5,The Avengers: Os Vingadores,2012,Stellan Skarsgård,Selvig,10
+5,The Avengers: Os Vingadores,2012,Samuel L. Jackson,Nick Fury,10
+5,The Avengers: Os Vingadores,2012,Gwyneth Paltrow,Pepper Potts,10
+5,The Avengers: Os Vingadores,2012,Paul Bettany,Jarvis,10
+5,The Avengers: Os Vingadores,2012,Alexis Denisof,The Other,10
+5,The Avengers: Os Vingadores,2012,Jerzy Skolimowski,Georgi Luchkov,10
+5,The Avengers: Os Vingadores,2012,Powers Boothe,World Security Council,10
+5,The Avengers: Os Vingadores,2012,Jenny Agutter,World Security Council,10
+5,The Avengers: Os Vingadores,2012,Arthur Darbinyan,World Security Council,10
+5,The Avengers: Os Vingadores,2012,Donald Li,World Security Council,10
+5,The Avengers: Os Vingadores,2012,Maximiliano Hernández,Agent Jasper Sitwell,10
+5,The Avengers: Os Vingadores,2012,Harry Dean Stanton,Security Guard,10
+5,The Avengers: Os Vingadores,2012,Stan Lee,Stan Lee,10
+5,The Avengers: Os Vingadores,2012,Pat Kiernan,Pat Kiernan,10
+5,The Avengers: Os Vingadores,2012,Thomas Roberts,Thomas Roberts,10
+5,The Avengers: Os Vingadores,2012,Logan Bennett,S.H.I.E.L.D. Agent,10
+5,The Avengers: Os Vingadores,2012,Mark Falvo,S.H.I.E.L.D Agent,10
+5,The Avengers: Os Vingadores,2012,Lou Ferrigno,The Hulk,10
+5,The Avengers: Os Vingadores,2012,Israel Hall,S.H.I.E.L.D. Agent,10
+5,The Avengers: Os Vingadores,2012,Demoine Kinney,S.H.I.E.L.D. Agent,10
+5,The Avengers: Os Vingadores,2012,Andrea-Nichole Olivas,S.H.I.E.L.D agent,10
+5,The Avengers: Os Vingadores,2012,Jeremy Orr,S.H.I.E.L.D. Agent,10
+5,The Avengers: Os Vingadores,2012,Frank Powers,S.H.I.E.L.D. Agent - Loki Escort,10
+5,The Avengers: Os Vingadores,2012,Jaime Powers,S.H.I.E.L.D. Agent,10
+5,The Avengers: Os Vingadores,2012,Colin Strause,S.H.I.E.L.D. Agent #4,10
+5,The Avengers: Os Vingadores,2012,George Thomas,S.H.I.E.L.D. Agent,10
+6,Homem de Ferro 3,2013,Robert Downey Jr.,Tony Stark,10
+6,Homem de Ferro 3,2013,Gwyneth Paltrow,Pepper Potts,10
+6,Homem de Ferro 3,2013,Don Cheadle,Colonel James Rhodes,10
+6,Homem de Ferro 3,2013,Guy Pearce,Aldrich Killian,10
+6,Homem de Ferro 3,2013,Rebecca Hall,Maya Hansen,10
+6,Homem de Ferro 3,2013,Jon Favreau,Happy Hogan,10
+6,Homem de Ferro 3,2013,Ben Kingsley,Trevor Slattery,10
+6,Homem de Ferro 3,2013,James Badge Dale,Savin,10
+6,Homem de Ferro 3,2013,Stephanie Szostak,Brandt,10
+6,Homem de Ferro 3,2013,Paul Bettany,Jarvis,10
+6,Homem de Ferro 3,2013,William Sadler,President Ellis,10
+6,Homem de Ferro 3,2013,Ty Simpkins,Harley Keener,10
+6,Homem de Ferro 3,2013,Shaun Toub,Ho Yinsen,10
+6,Homem de Ferro 3,2013,Pat Kiernan,Pat Kiernan,10
+6,Homem de Ferro 3,2013,Thomas Roberts,Thomas Roberts,10
+6,Homem de Ferro 3,2013,Bill Maher,Bill Maher,10
+6,Homem de Ferro 3,2013,Joan Rivers,Joan Rivers,10
+6,Homem de Ferro 3,2013,George Kotsiopoulos,George Kotsiopoulos,10
+6,Homem de Ferro 3,2013,Ashley Hamilton,Taggart,10
+6,Homem de Ferro 3,2013,Stan Lee,Pageant Judge,10
+6,Homem de Ferro 3,2013,Adam Pally,Gary the Cameraman,10
+6,Homem de Ferro 3,2013,Susie Pratt,Bambi Arbogast,10
+6,Homem de Ferro 3,2013,Mark Ruffalo,Bruce Banner,10
+7,Agentes da S.H.I.E.L.D.,2013,Clark Gregg,Phil Coulson,66
+7,Agentes da S.H.I.E.L.D.,2013,Ming-Na Wen,Melinda May,66
+7,Agentes da S.H.I.E.L.D.,2013,Chloe Bennet,Daisy 'Skye' Johnson,66
+7,Agentes da S.H.I.E.L.D.,2013,Iain De Caestecker,Leo Fitz,66
+7,Agentes da S.H.I.E.L.D.,2013,Elizabeth Henstridge,Jemma Simmons,66
+7,Agentes da S.H.I.E.L.D.,2013,Brett Dalton,Grant Ward,58
+7,Agentes da S.H.I.E.L.D.,2013,Henry Simmons,Alphonso 'Mack' Mackenzie,44
+7,Agentes da S.H.I.E.L.D.,2013,Nick Blood,Lance Hunter,35
+7,Agentes da S.H.I.E.L.D.,2013,Adrianne Palicki,Bobbi Morse,31
+7,Agentes da S.H.I.E.L.D.,2013,Luke Mitchell,Lincoln Campbell,29
+7,Agentes da S.H.I.E.L.D.,2013,B.J. Britt,Antoine Triplett,18
+7,Agentes da S.H.I.E.L.D.,2013,Ruth Negga,Raina,17
+7,Agentes da S.H.I.E.L.D.,2013,Kyle MacLachlan,Calvin Zabo,13
+7,Agentes da S.H.I.E.L.D.,2013,J. August Richards,Mike Peterson,11
+7,Agentes da S.H.I.E.L.D.,2013,Powers Boothe,Gideon Malick,11
+7,Agentes da S.H.I.E.L.D.,2013,Jamie Harris,Gordon,11
+7,Agentes da S.H.I.E.L.D.,2013,Simon Kassianides,Sunil Bakshi,11
+7,Agentes da S.H.I.E.L.D.,2013,Adrian Pasdar,Glenn Talbot,11
+7,Agentes da S.H.I.E.L.D.,2013,Blair Underwood,Andrew Garner,10
+7,Agentes da S.H.I.E.L.D.,2013,Dichen Lachman,Jiaying,9
+7,Agentes da S.H.I.E.L.D.,2013,Mark Dacascos,Mr. Giyera,9
+7,Agentes da S.H.I.E.L.D.,2013,Christine Adams,Agent Weaver,9
+7,Agentes da S.H.I.E.L.D.,2013,Reed Diamond,Daniel Whitehall,8
+7,Agentes da S.H.I.E.L.D.,2013,Constance Zimmer,Rosalind Price,8
+7,Agentes da S.H.I.E.L.D.,2013,Maya Stojan,Kara Lynn Palamas,8
+7,Agentes da S.H.I.E.L.D.,2013,David Conrad,Ian Quinn,7
+7,Agentes da S.H.I.E.L.D.,2013,Patton Oswalt,Billy Koenig,7
+7,Agentes da S.H.I.E.L.D.,2013,Bill Paxton,John Garrett,6
+7,Agentes da S.H.I.E.L.D.,2013,Juan Pablo Raba,Joey Gutierrez,6
+7,Agentes da S.H.I.E.L.D.,2013,Andrew Howard,Luther Banks,6
+7,Agentes da S.H.I.E.L.D.,2013,Alicia Vela-Bailey,Alisha,6
+7,Agentes da S.H.I.E.L.D.,2013,Matthew Willig,Lash,5
+7,Agentes da S.H.I.E.L.D.,2013,Edward James Olmos,Robert Gonzales,5
+7,Agentes da S.H.I.E.L.D.,2013,Daz Crawford,Kebo,5
+7,Agentes da S.H.I.E.L.D.,2013,Mark Allan Stewart,Agent Oliver,5
+7,Agentes da S.H.I.E.L.D.,2013,Saffron Burrows,Victoria Hand,4
+7,Agentes da S.H.I.E.L.D.,2013,Spencer Treat Clark,Alexander Braun,4
+7,Agentes da S.H.I.E.L.D.,2013,Axle Whitehead,James,4
+7,Agentes da S.H.I.E.L.D.,2013,Titus Welliver,Felix Blake,3
+7,Agentes da S.H.I.E.L.D.,2013,Maximiliano Hernández,Jasper Sitwell,3
+7,Agentes da S.H.I.E.L.D.,2013,Cullen Douglas,Edison Po,3
+7,Agentes da S.H.I.E.L.D.,2013,William Sadler,President Ellis,3
+7,Agentes da S.H.I.E.L.D.,2013,Cobie Smulders,Maria Hill,3
+7,Agentes da S.H.I.E.L.D.,2013,Brian Patrick Wade,Carl Creel,3
+7,Agentes da S.H.I.E.L.D.,2013,Jeffrey Muller,Agent Kaminsky,3
+7,Agentes da S.H.I.E.L.D.,2013,Henry Goodman,Dr. List,3
+7,Agentes da S.H.I.E.L.D.,2013,Raquel Gardner,Carla Talbot,3
+7,Agentes da S.H.I.E.L.D.,2013,Natalia Cordova-Buckley,Elena 'Yo-Yo' Rodriguez,3
+7,Agentes da S.H.I.E.L.D.,2013,John Hannah,Holden Radcliffe,3
+7,Agentes da S.H.I.E.L.D.,2013,Jaimie Alexander,Lady Sif,2
+7,Agentes da S.H.I.E.L.D.,2013,Elena Satine,Lorelei,2
+7,Agentes da S.H.I.E.L.D.,2013,Shannon Lucio,Debbie,2
+7,Agentes da S.H.I.E.L.D.,2013,Peter MacNicol,Professor Elliot Randolph,2
+7,Agentes da S.H.I.E.L.D.,2013,Patrick Brennan,Marcus Daniels,2
+7,Agentes da S.H.I.E.L.D.,2013,Dylan Minnette,Donnie Gill,2
+7,Agentes da S.H.I.E.L.D.,2013,Ron Glass,Dr. Streiten,2
+7,Agentes da S.H.I.E.L.D.,2013,Hayley Atwell,Peggy Carter,2
+7,Agentes da S.H.I.E.L.D.,2013,Samuel L. Jackson,Nick Fury,2
+7,Agentes da S.H.I.E.L.D.,2013,Lucy Lawless,Isabelle 'Izzy' Hartley,2
+7,Agentes da S.H.I.E.L.D.,2013,Kirk Acevedo,Agent Calderon,2
+7,Agentes da S.H.I.E.L.D.,2013,Glenn Morshower,General Jacobs,2
+7,Agentes da S.H.I.E.L.D.,2013,Bethany Joy Lenz,Stephanie Malick,2
+7,Agentes da S.H.I.E.L.D.,2013,Dillon Casey,Will Daniels,2
+7,Agentes da S.H.I.E.L.D.,2013,Tim DeKay,Christian Ward,2
+7,Agentes da S.H.I.E.L.D.,2013,Brian Van Holt,Sebastian Derik,2
+7,Agentes da S.H.I.E.L.D.,2013,Adam Kulbersh,Kenneth Turgeon,2
+7,Agentes da S.H.I.E.L.D.,2013,Wilmer Calderon,Idaho,2
+7,Agentes da S.H.I.E.L.D.,2013,Pascale Armand,Akela Amador,1
+7,Agentes da S.H.I.E.L.D.,2013,Leonor Varela,Camilla Reyes,1
+7,Agentes da S.H.I.E.L.D.,2013,Louis Ozawa Changchien,Chan Ho Yin,1
+7,Agentes da S.H.I.E.L.D.,2013,Ian Hart,Dr. Franklin Hall,1
+7,Agentes da S.H.I.E.L.D.,2013,Laura Seay,Hannah,1
+7,Agentes da S.H.I.E.L.D.,2013,Amy Acker,Audrey Nathan,1
+7,Agentes da S.H.I.E.L.D.,2013,Trenton Rogers,Young Grant Ward,1
+7,Agentes da S.H.I.E.L.D.,2013,Alison White,Marta,1
+7,Agentes da S.H.I.E.L.D.,2013,Emily Baldoni,Sofia,1
+7,Agentes da S.H.I.E.L.D.,2013,Neal McDonough,Dum Dum Dugan,1
+7,Agentes da S.H.I.E.L.D.,2013,Tzi Ma,Agent Kwan,1
+7,Agentes da S.H.I.E.L.D.,2013,Tsai Chin,Lian May,1
+7,Agentes da S.H.I.E.L.D.,2013,Gaius Charles,Ruben Mackenzie,1
+7,Agentes da S.H.I.E.L.D.,2013,Stan Lee,Debonair Gentleman,1
+7,Agentes da S.H.I.E.L.D.,2013,Austin Lyon,Teenage Grant Ward,1
+7,Agentes da S.H.I.E.L.D.,2013,Justin Morck,Watchdog Alpha,1
+7,Agentes da S.H.I.E.L.D.,2013,Brad Dourif,Thomas Nash,1
+7,Agentes da S.H.I.E.L.D.,2013,Falk Hentschel,Marcus Scarlotti,1
+7,Agentes da S.H.I.E.L.D.,2013,Michael J. Silver,Alpha,1
+7,Agentes da S.H.I.E.L.D.,2013,Felisha Terrell,Emily Deville,1
+7,Agentes da S.H.I.E.L.D.,2013,Carolina Espiro,Waitress,1
+7,Agentes da S.H.I.E.L.D.,2013,Brittnee Garza,Cashier,1
+7,Agentes da S.H.I.E.L.D.,2013,Roberto Medina,Bishop,1
+7,Agentes da S.H.I.E.L.D.,2013,Cameron Palatas,Young Gideon Malick,1
+7,Agentes da S.H.I.E.L.D.,2013,Dan Sachoff,Reporter #1,1
+7,Agentes da S.H.I.E.L.D.,2013,Melanie Cruz,Agent Noelle Walters,1
+7,Agentes da S.H.I.E.L.D.,2013,Hunter Seagroves,Hydra Agent,1
+7,Agentes da S.H.I.E.L.D.,2013,Jack Guzman,S.H.I.E.L.D. Agent #1,1
+7,Agentes da S.H.I.E.L.D.,2013,Arlene Santana,Reporter #2,1
+7,Agentes da S.H.I.E.L.D.,2013,Craig Baxley Jr.,Hydra Soldier #3,1
+7,Agentes da S.H.I.E.L.D.,2013,Kenneth Choi,Jim Morita,1
+7,Agentes da S.H.I.E.L.D.,2013,Kyle Clements,S.H.I.E.L.D. Agent #2,1
+7,Agentes da S.H.I.E.L.D.,2013,Garrett Hines,Hydra Soldier,1
+7,Agentes da S.H.I.E.L.D.,2013,Kathryn Leigh Scott,The Baroness,1
+7,Agentes da S.H.I.E.L.D.,2013,Jay Montalvo,Reporter,1
+7,Agentes da S.H.I.E.L.D.,2013,Matt Ferrucci,S.H.I.E.L.D. Agent,1
+7,Agentes da S.H.I.E.L.D.,2013,Staci Roberts Steele,Paula,1
+7,Agentes da S.H.I.E.L.D.,2013,Julia Aks,Waitress,1
+7,Agentes da S.H.I.E.L.D.,2013,Melissa Bickerton,Ellen King,1
+7,Agentes da S.H.I.E.L.D.,2013,Anthony Corrales,S.H.I.E.L.D. Agent,1
+7,Agentes da S.H.I.E.L.D.,2013,Katie Hilliard,Tina Adams,1
+7,Agentes da S.H.I.E.L.D.,2013,Philip Labes,Young Gordon,1
+7,Agentes da S.H.I.E.L.D.,2013,Crystal Coney,Scientist,1
+7,Agentes da S.H.I.E.L.D.,2013,Kacey Montoya,Reporter,1
+7,Agentes da S.H.I.E.L.D.,2013,Alexander Leeb,Hydra Scientist,1
+7,Agentes da S.H.I.E.L.D.,2013,McKay Stewart,Scientist #1,1
+7,Agentes da S.H.I.E.L.D.,2013,David A. Jansen,S.H.I.E.L.D. Agent,1
+7,Agentes da S.H.I.E.L.D.,2013,Viking Almquist,Masked Man,1
+7,Agentes da S.H.I.E.L.D.,2013,Luis Castilleja,Shield Agent,1
+7,Agentes da S.H.I.E.L.D.,2013,Elmer Törnquist,Masked Man,1
+7,Agentes da S.H.I.E.L.D.,2013,Alice Chen,S.H.I.E.L.D. Agent,1
+7,Agentes da S.H.I.E.L.D.,2013,Mandell Frazier,Hydra Agent,1
+7,Agentes da S.H.I.E.L.D.,2013,Sun Jae Kim,Scientist,1
+7,Agentes da S.H.I.E.L.D.,2013,Kai Valerius,S.H.I.E.L.D. Agent,1
+8,Thor: O Mundo Sombrio,2013,Chris Hemsworth,Thor,10
+8,Thor: O Mundo Sombrio,2013,Natalie Portman,Jane Foster,10
+8,Thor: O Mundo Sombrio,2013,Tom Hiddleston,Loki,10
+8,Thor: O Mundo Sombrio,2013,Anthony Hopkins,Odin,10
+8,Thor: O Mundo Sombrio,2013,Christopher Eccleston,Malekith,10
+8,Thor: O Mundo Sombrio,2013,Jaimie Alexander,Sif,10
+8,Thor: O Mundo Sombrio,2013,Zachary Levi,Fandral,10
+8,Thor: O Mundo Sombrio,2013,Ray Stevenson,Volstagg,10
+8,Thor: O Mundo Sombrio,2013,Tadanobu Asano,Hogun,10
+8,Thor: O Mundo Sombrio,2013,Idris Elba,Heimdall,10
+8,Thor: O Mundo Sombrio,2013,Rene Russo,Frigga,10
+8,Thor: O Mundo Sombrio,2013,Adewale Akinnuoye-Agbaje,Algrim,10
+8,Thor: O Mundo Sombrio,2013,Kat Dennings,Darcy Lewis,10
+8,Thor: O Mundo Sombrio,2013,Stellan Skarsgård,Erik Selvig,10
+8,Thor: O Mundo Sombrio,2013,Alice Krige,Eir,10
+8,Thor: O Mundo Sombrio,2013,Clive Russell,Tyr,10
+8,Thor: O Mundo Sombrio,2013,Jonathan Howard,Ian Boothby,10
+8,Thor: O Mundo Sombrio,2013,Chris O'Dowd,Richard,10
+8,Thor: O Mundo Sombrio,2013,Stan Lee,Stan Lee,10
+8,Thor: O Mundo Sombrio,2013,Tony Curran,Bor,10
+8,Thor: O Mundo Sombrio,2013,Benicio Del Toro,The Collector,10
+8,Thor: O Mundo Sombrio,2013,Chris Evans,Loki as Captain America,10
+8,Thor: O Mundo Sombrio,2013,Ophelia Lovibond,Carina,10
+9,Capitão América 2: O Soldado Invernal,2014,Chris Evans,Steve Rogers,10
+9,Capitão América 2: O Soldado Invernal,2014,Samuel L. Jackson,Nick Fury,10
+9,Capitão América 2: O Soldado Invernal,2014,Scarlett Johansson,Natasha Romanoff,10
+9,Capitão América 2: O Soldado Invernal,2014,Robert Redford,Alexander Pierce,10
+9,Capitão América 2: O Soldado Invernal,2014,Sebastian Stan,Bucky Barnes,10
+9,Capitão América 2: O Soldado Invernal,2014,Anthony Mackie,Sam Wilson,10
+9,Capitão América 2: O Soldado Invernal,2014,Cobie Smulders,Maria Hill,10
+9,Capitão América 2: O Soldado Invernal,2014,Frank Grillo,Brock Rumlow,10
+9,Capitão América 2: O Soldado Invernal,2014,Maximiliano Hernández,Jasper Sitwell,10
+9,Capitão América 2: O Soldado Invernal,2014,Emily VanCamp,Agent 13,10
+9,Capitão América 2: O Soldado Invernal,2014,Hayley Atwell,Peggy Carter,10
+9,Capitão América 2: O Soldado Invernal,2014,Toby Jones,Dr. Arnim Zola,10
+9,Capitão América 2: O Soldado Invernal,2014,Stan Lee,Smithsonian Guard,10
+9,Capitão América 2: O Soldado Invernal,2014,Callan Mulvey,Jack Rollins,10
+9,Capitão América 2: O Soldado Invernal,2014,Jenny Agutter,Councilwoman Hawley,10
+9,Capitão América 2: O Soldado Invernal,2014,Garry Shandling,Senator Stern,10
+9,Capitão América 2: O Soldado Invernal,2014,Georges St-Pierre,Georges Batroc,10
+9,Capitão América 2: O Soldado Invernal,2014,Christopher George Sarris,Skinny Steve,10
+9,Capitão América 2: O Soldado Invernal,2014,Evan Parke,SHIELD Agent,10
+9,Capitão América 2: O Soldado Invernal,2014,Davis Aguila,SHIELD Strike Agent,10
+9,Capitão América 2: O Soldado Invernal,2014,Dean Barlage,SHIELD Agent,10
+9,Capitão América 2: O Soldado Invernal,2014,Dyrell Barnett,SHIELD Strike Agent,10
+9,Capitão América 2: O Soldado Invernal,2014,J. Blakemore,Shield Agent,10
+9,Capitão América 2: O Soldado Invernal,2014,Colin Botts,DC Pedestrian,10
+9,Capitão América 2: O Soldado Invernal,2014,Ken Bray,Smithsonian Guard,10
+9,Capitão América 2: O Soldado Invernal,2014,Brittany Buck,Mall Patron,10
+9,Capitão América 2: O Soldado Invernal,2014,Jeremy Michael Burns,SHIELD Strike Agent,10
+9,Capitão América 2: O Soldado Invernal,2014,Travis Allen Bush,SHIELD Agent,10
+9,Capitão América 2: O Soldado Invernal,2014,Jose W. Byers,SHIELD Strike Agent,10
+9,Capitão América 2: O Soldado Invernal,2014,Ulysses E. Campbell,DC Businessman,10
+9,Capitão América 2: O Soldado Invernal,2014,Sandhya Chandel,SHIELD Agent,10
+9,Capitão América 2: O Soldado Invernal,2014,Giles Clarke,Shield Strike Agent,10
+9,Capitão América 2: O Soldado Invernal,2014,Daniel Clifford,Shield Strike Agent,10
+9,Capitão América 2: O Soldado Invernal,2014,David Cohen,DC Businessman,10
+9,Capitão América 2: O Soldado Invernal,2014,Martin Cremer,Shield Agent,10
+9,Capitão América 2: O Soldado Invernal,2014,Layla Cushman,SHIELD Agent,10
+9,Capitão América 2: O Soldado Invernal,2014,Rydell Danzie,SHIELD Strike Agent,10
+9,Capitão América 2: O Soldado Invernal,2014,Adrian Denzel,DC Pedestrian,10
+9,Capitão América 2: O Soldado Invernal,2014,Rick Dremann,DC Pedestrian,10
+9,Capitão América 2: O Soldado Invernal,2014,Carmen Gangale,Mall Patron,10
+9,Capitão América 2: O Soldado Invernal,2014,JoAnna Leigh Gerondale,SHIELD Agent,10
+9,Capitão América 2: O Soldado Invernal,2014,Henry Goodman,Dr. List,10
+9,Capitão América 2: O Soldado Invernal,2014,Carmen Dee Harris,Mall Patron,10
+9,Capitão América 2: O Soldado Invernal,2014,Brian Hartong,S.H.I.E.L.D. Agent,10
+9,Capitão América 2: O Soldado Invernal,2014,Nate Hatton,DC Businessman,10
+9,Capitão América 2: O Soldado Invernal,2014,Ray Hodge,SHIELD Agent,10
+9,Capitão América 2: O Soldado Invernal,2014,James Howard,Smithsonian Guard,10
+9,Capitão América 2: O Soldado Invernal,2014,Chris Jameson,DC Businessman,10
+9,Capitão América 2: O Soldado Invernal,2014,Robert E. Kerr,Shield Agent,10
+9,Capitão América 2: O Soldado Invernal,2014,Kevin Kissig,Shield Strike Agent,10
+9,Capitão América 2: O Soldado Invernal,2014,Jason Klingensmith,SHIELD Agent,10
+9,Capitão América 2: O Soldado Invernal,2014,Sharyn Kmieciak,Mall Patron,10
+9,Capitão América 2: O Soldado Invernal,2014,Thomas Kretschmann,Baron Wolfgang von Strucker,10
+9,Capitão América 2: O Soldado Invernal,2014,Annette Lawless,SHIELD Agent,10
+9,Capitão América 2: O Soldado Invernal,2014,James Lewis,Smithsonian Museum Visitor,10
+9,Capitão América 2: O Soldado Invernal,2014,Phil Mallon,DC Pedestrian,10
+9,Capitão América 2: O Soldado Invernal,2014,Katana Martinez,DC Pedestrian,10
+9,Capitão América 2: O Soldado Invernal,2014,Johanna McGinley,DC Pedestrian,10
+9,Capitão América 2: O Soldado Invernal,2014,Neal McNeil,SHIELD Agent,10
+9,Capitão América 2: O Soldado Invernal,2014,Brett R. Miller,SHIELD Strike Agent,10
+9,Capitão América 2: O Soldado Invernal,2014,Sue Danna Myer,Mall Patron,10
+9,Capitão América 2: O Soldado Invernal,2014,Paul Nandzik,Mall Patron,10
+9,Capitão América 2: O Soldado Invernal,2014,Elizabeth Olsen,Wanda Maximoff,10
+9,Capitão América 2: O Soldado Invernal,2014,Edward Pfeifer,Mall Patron,10
+9,Capitão América 2: O Soldado Invernal,2014,Paul J. Porter,SHIELD Strike Agent,10
+9,Capitão América 2: O Soldado Invernal,2014,LaTrallo Presley,DC Construction Worker,10
+9,Capitão América 2: O Soldado Invernal,2014,Kristina Randjelovic,SHIELD Agent,10
+9,Capitão América 2: O Soldado Invernal,2014,Martin Reese,Shield Agent,10
+9,Capitão América 2: O Soldado Invernal,2014,Brent Reichert,SHIELD Agent,10
+9,Capitão América 2: O Soldado Invernal,2014,Vincent Riviezzo,DC Businessman,10
+9,Capitão América 2: O Soldado Invernal,2014,Lynda Santa,DC Pedestrian,10
+9,Capitão América 2: O Soldado Invernal,2014,Melissa Santiago,Mall Patron,10
+9,Capitão América 2: O Soldado Invernal,2014,Jason G. Sarris,SHIELD Agent,10
+9,Capitão América 2: O Soldado Invernal,2014,Robert B. Schneider IV,SHIELD Agent,10
+9,Capitão América 2: O Soldado Invernal,2014,Tom Shafer,Mall Patron,10
+9,Capitão América 2: O Soldado Invernal,2014,Michael Simpson Jr.,SHIELD Agent,10
+9,Capitão América 2: O Soldado Invernal,2014,Matthew Skomo,SHIELD Strike Agent,10
+9,Capitão América 2: O Soldado Invernal,2014,Kevin Slone,DC Pedestrian,10
+9,Capitão América 2: O Soldado Invernal,2014,Patrick Michael Strange,DC Businessman,10
+9,Capitão América 2: O Soldado Invernal,2014,Derek Talib,Shield Agent,10
+9,Capitão América 2: O Soldado Invernal,2014,Aaron Taylor-Johnson,Pietro Maximoff,10
+9,Capitão América 2: O Soldado Invernal,2014,Robert P. Thitoff,SHIELD Agent,10
+9,Capitão América 2: O Soldado Invernal,2014,Nicole Tubbs,DC Pedestrian,10
+9,Capitão América 2: O Soldado Invernal,2014,Jason L. Wang,DC Pedestrian,10
+9,Capitão América 2: O Soldado Invernal,2014,Travis Wong,SHIELD Strike Agent,10
+9,Capitão América 2: O Soldado Invernal,2014,Mitchell Yee,Hydra Soldier,10
+10,Guardiões da Galáxia,2014,Chris Pratt,Peter Quill,10
+10,Guardiões da Galáxia,2014,Zoe Saldana,Gamora,10
+10,Guardiões da Galáxia,2014,Dave Bautista,Drax,10
+10,Guardiões da Galáxia,2014,Vin Diesel,Groot,10
+10,Guardiões da Galáxia,2014,Bradley Cooper,Rocket,10
+10,Guardiões da Galáxia,2014,Lee Pace,Ronan,10
+10,Guardiões da Galáxia,2014,Michael Rooker,Yondu Udonta,10
+10,Guardiões da Galáxia,2014,Karen Gillan,Nebula,10
+10,Guardiões da Galáxia,2014,Djimon Hounsou,Korath,10
+10,Guardiões da Galáxia,2014,John C. Reilly,Corpsman Dey,10
+10,Guardiões da Galáxia,2014,Glenn Close,Nova Prime,10
+10,Guardiões da Galáxia,2014,Benicio Del Toro,The Collector,10
+10,Guardiões da Galáxia,2014,Laura Haddock,Meredith Quill,10
+10,Guardiões da Galáxia,2014,Sean Gunn,Kraglin,10
+10,Guardiões da Galáxia,2014,Peter Serafinowicz,Denarian Saal,10
+10,Guardiões da Galáxia,2014,Christopher Fairbank,The Broker,10
+10,Guardiões da Galáxia,2014,Krystian Godlewski,On Set Groot,10
+10,Guardiões da Galáxia,2014,Wyatt Oleff,Young Quill,10
+10,Guardiões da Galáxia,2014,Gregg Henry,Grandpa,10
+10,Guardiões da Galáxia,2014,Stan Lee,Xandarian Ladies' Man,10
+10,Guardiões da Galáxia,2014,Alexis Denisof,The Other,10
+10,Guardiões da Galáxia,2014,Ophelia Lovibond,Carina,10
+10,Guardiões da Galáxia,2014,Fred,Cosmo the Space Dog,10
+10,Guardiões da Galáxia,2014,James Gunn,Maskless Sakaaran,10
+10,Guardiões da Galáxia,2014,Douglas Robson,Maskless Sakaaran,10
+10,Guardiões da Galáxia,2014,Raed Abbas,Ravager,10
+10,Guardiões da Galáxia,2014,Josh Brolin,Thanos,10
+10,Guardiões da Galáxia,2014,Seth Green,Howard the Duck,10
+10,Guardiões da Galáxia,2014,Jonathan Lipow,Sakaarans,10
+10,Guardiões da Galáxia,2014,Serhat Metin,Nova Corps Officer,10
+11,Agente Carter,2015,Hayley Atwell,Peggy Carter,18
+11,Agente Carter,2015,James D'Arcy,Edwin Jarvis,18
+11,Agente Carter,2015,Enver Gjokaj,Daniel Sousa,18
+11,Agente Carter,2015,Chad Michael Murray,Jack Thompson,14
+11,Agente Carter,2015,Wynn Everett,Whitney Frost,10
+11,Agente Carter,2015,Reggie Austin,Jason Wilkes,10
+11,Agente Carter,2015,Bridget Regan,Dottie Underwood,10
+11,Agente Carter,2015,Lesley Boone,Rose,9
+11,Agente Carter,2015,Shea Whigham,Roger Dooley,7
+11,Agente Carter,2015,Lyndsy Fonseca,Angie Martinelli,7
+11,Agente Carter,2015,Currie Graham,Calvin Chadwick,7
+11,Agente Carter,2015,Lotte Verbeek,Ana Jarvis,7
+11,Agente Carter,2015,Kurtwood Smith,Vernon Masters,7
+11,Agente Carter,2015,Dominic Cooper,Howard Stark,5
+11,Agente Carter,2015,Matt Braunger,Dr. Samberly,5
+11,Agente Carter,2015,Ken Marino,Joseph Manfredi,5
+11,Agente Carter,2015,Rey Valentin,Agent Vega,5
+11,Agente Carter,2015,Alexander Carroll,Agent Yauch,5
+11,Agente Carter,2015,Ralph Brown,Dr. Ivchenko,4
+11,Agente Carter,2015,Ray Wise,Hugh Jones,4
+11,Agente Carter,2015,Meagen Fay,Miriam Fry,4
+11,Agente Carter,2015,Kyle Bornheimer,Ray Krzeminski,3
+11,Agente Carter,2015,Chris Browning,Rufus,3
+11,Agente Carter,2015,Sarah Bolger,Violet,3
+11,Agente Carter,2015,Walker Roach,Captain America (Radio Actor),3
+11,Agente Carter,2015,Tom Choi,Dr. Chung,2
+11,Agente Carter,2015,James Frain,Leet Brannis,2
+11,Agente Carter,2015,Max Brown,Michael Carter,2
+11,Agente Carter,2015,James Landry Hébert,Sasha Demidov,2
+11,Agente Carter,2015,Casey Sander,Thomas Gloucester,2
+11,Agente Carter,2015,Devin Ratray,Sheldon McFee,2
+11,Agente Carter,2015,James Urbaniak,Miles Van Ert,2
+11,Agente Carter,2015,Randy Sklar,Director Kenneth,2
+11,Agente Carter,2015,Kevin Cotteleer,Alex Doobin,2
+11,Agente Carter,2015,Patrick Robert Smith,Agent Butch Wallace,2
+11,Agente Carter,2015,Erin Torpey,Betty Carver (Radio Actor),2
+11,Agente Carter,2015,Chris Coppola,Hank,2
+11,Agente Carter,2015,Benita Robledo,Carol,2
+11,Agente Carter,2015,Kevin Ashworth,Agent Fisher,2
+11,Agente Carter,2015,Russell Edge,Agent Blackwell,2
+11,Agente Carter,2015,Neal McDonough,Dum-Dum Dugan,1
+11,Agente Carter,2015,Sarah Bloom,Loretta Dooley,1
+11,Agente Carter,2015,Leonard Roberts,Happy Sam Sawyer,1
+11,Agente Carter,2015,Toby Jones,Dr. Arnim Zola,1
+11,Agente Carter,2015,Stan Lee,Man on Bench,1
+11,Agente Carter,2015,Richard Short,Pinky Pinkerton,1
+11,Agente Carter,2015,Laura Coover,Molly Bowden,1
+11,Agente Carter,2015,Costa Ronin,Anton Vanko,1
+11,Agente Carter,2015,Olivia Welch,Teen Agnes Cully,1
+11,Agente Carter,2015,Gabriella Graves,Young Peggy Carter,1
+11,Agente Carter,2015,Webb Hayes,Young Michael Carter,1
+11,Agente Carter,2015,Ivy George,Young Agnes Cully,1
+11,Agente Carter,2015,Chris Evans,Captain America,1
+12,Demolidor,2015,Charlie Cox,Matt Murdock,26
+12,Demolidor,2015,Deborah Ann Woll,Karen Page,26
+12,Demolidor,2015,Elden Henson,Foggy Nelson,26
+12,Demolidor,2015,Vincent D'Onofrio,Wilson Fisk,14
+12,Demolidor,2015,Royce Johnson,Sgt. Brett Mahoney,14
+12,Demolidor,2015,Jon Bernthal,Frank Castle,12
+12,Demolidor,2015,Elodie Yung,Elektra Natchios,10
+12,Demolidor,2015,Geoffrey Cantor,Mitchell Ellison,10
+12,Demolidor,2015,Toby Leonard Moore,James Wesley,10
+12,Demolidor,2015,Vondie Curtis-Hall,Ben Urich,9
+12,Demolidor,2015,Bob Gunton,Leland Owlsley,9
+12,Demolidor,2015,Ayelet Zurer,Vanessa Marianna,9
+12,Demolidor,2015,Peter Shinkoda,Nobu,9
+12,Demolidor,2015,Rosario Dawson,Claire Temple,8
+12,Demolidor,2015,Stephen Rider,Blake Tower,7
+12,Demolidor,2015,Rob Morgan,Turk Barrett,7
+12,Demolidor,2015,Michelle Hurd,Samantha Reyes,6
+12,Demolidor,2015,Peter McRobbie,Father Lantom,6
+12,Demolidor,2015,Matt Gerald,Melvin Potter,6
+12,Demolidor,2015,Wai Ching Ho,Madame Gao,6
+12,Demolidor,2015,Amy Rutberg,Marci Stahl,6
+12,Demolidor,2015,Scott Glenn,Stick,5
+12,Demolidor,2015,Ron Nakahara,Hirochi,5
+12,Demolidor,2015,Daryl Edwards,Detective Hoffman,5
+12,Demolidor,2015,Nikolai Nikolaeff,Vladimir Ranskahov,4
+12,Demolidor,2015,Judith Delgado,Elena Cardenas,4
+12,Demolidor,2015,Adriane Lenox,Doris Urich,4
+12,Demolidor,2015,Skylar Gaertner,Young Matt,3
+12,Demolidor,2015,McCaleb Burnett,Grotto,3
+12,Demolidor,2015,John Patrick Hayden,Jack Murdock,2
+12,Demolidor,2015,Clancy Brown,Colonel Ray Schoonover,2
+12,Demolidor,2015,Phyllis Somerville,Mrs. Vistain,2
+12,Demolidor,2015,Danny Johnson,Benjamin Donovan,2
+12,Demolidor,2015,Kevin Nagle,Roscoe Sweeney,2
+12,Demolidor,2015,Gideon Emery,Anatoly Ranskahov,2
+12,Demolidor,2015,Carrie-Anne Moss,Jeri Hogarth,1
+12,Demolidor,2015,Angela Reed,Marlene Fisk,1
+12,Demolidor,2015,Clyde Baldo,Clint,1
+12,Demolidor,2015,Lily Chee,Young Elektra,1
+12,Demolidor,2015,Jasson Finney,Stone,1
+12,Demolidor,2015,Cole Jensen,Young Wilson Fisk,1
+12,Demolidor,2015,Gilles Marini,Jacques Duchamps,1
+12,Demolidor,2015,Alexander Blaise,Marcel,1
+12,Demolidor,2015,David Sobolov,Stone,1
+13,Vingadores: Era de Ultron,2015,Robert Downey Jr.,Tony Stark,10
+13,Vingadores: Era de Ultron,2015,Chris Hemsworth,Thor,10
+13,Vingadores: Era de Ultron,2015,Mark Ruffalo,Bruce Banner,10
+13,Vingadores: Era de Ultron,2015,Chris Evans,Steve Rogers,10
+13,Vingadores: Era de Ultron,2015,Scarlett Johansson,Natasha Romanoff,10
+13,Vingadores: Era de Ultron,2015,Jeremy Renner,Clint Barton,10
+13,Vingadores: Era de Ultron,2015,James Spader,Ultron,10
+13,Vingadores: Era de Ultron,2015,Samuel L. Jackson,Nick Fury,10
+13,Vingadores: Era de Ultron,2015,Don Cheadle,James Rhodes,10
+13,Vingadores: Era de Ultron,2015,Aaron Taylor-Johnson,Pietro Maximoff,10
+13,Vingadores: Era de Ultron,2015,Elizabeth Olsen,Wanda Maximoff,10
+13,Vingadores: Era de Ultron,2015,Paul Bettany,Jarvis,10
+13,Vingadores: Era de Ultron,2015,Cobie Smulders,Maria Hill,10
+13,Vingadores: Era de Ultron,2015,Anthony Mackie,Sam Wilson,10
+13,Vingadores: Era de Ultron,2015,Hayley Atwell,Peggy Carter,10
+13,Vingadores: Era de Ultron,2015,Idris Elba,Heimdall,10
+13,Vingadores: Era de Ultron,2015,Linda Cardellini,Laura Barton,10
+13,Vingadores: Era de Ultron,2015,Stellan Skarsgård,Erik Selvig,10
+13,Vingadores: Era de Ultron,2015,Claudia Kim,Dr. Helen Cho,10
+13,Vingadores: Era de Ultron,2015,Thomas Kretschmann,Strucker,10
+13,Vingadores: Era de Ultron,2015,Andy Serkis,Ulysses Klaue,10
+13,Vingadores: Era de Ultron,2015,Stan Lee,Stan Lee,10
+13,Vingadores: Era de Ultron,2015,Henry Goodman,Dr. List,10
+13,Vingadores: Era de Ultron,2015,Chris Luca,Fortress Soldier,10
+13,Vingadores: Era de Ultron,2015,Dominique Provost-Chalkley,Zrinka,10
+13,Vingadores: Era de Ultron,2015,Constanza Ruff,Sokovian Woman,10
+13,Vingadores: Era de Ultron,2015,Kerry Condon,F.R.I.D.A.Y.,10
+13,Vingadores: Era de Ultron,2015,Pavlina Andreevska,Sokovian,10
+13,Vingadores: Era de Ultron,2015,Laura Bernardeschi,Sokovian Citizen,10
+13,Vingadores: Era de Ultron,2015,Dilyana Bouklieva,Sokovian Citizen,10
+13,Vingadores: Era de Ultron,2015,Josh Brolin,Thanos,10
+13,Vingadores: Era de Ultron,2015,Lukas DiSparrow,Sok,10
+13,Vingadores: Era de Ultron,2015,Lou Ferrigno,Hulk,10
+13,Vingadores: Era de Ultron,2015,Mark Haldor,Asgardian,10
+13,Vingadores: Era de Ultron,2015,Sam Hanover,Sokovian Citizen,10
+13,Vingadores: Era de Ultron,2015,Kornelia Horvath,Sokovian,10
+13,Vingadores: Era de Ultron,2015,Mariola Jaworska,Sokovian,10
+13,Vingadores: Era de Ultron,2015,Marcus G. Johnson,Shield Agent,10
+13,Vingadores: Era de Ultron,2015,Attila G. Kerekes,Sokovian Citizen,10
+13,Vingadores: Era de Ultron,2015,Adrian Klein,Sokovian Policeman,10
+13,Vingadores: Era de Ultron,2015,Edina Loskay,Sokovian,10
+13,Vingadores: Era de Ultron,2015,Eric Morcos,The Agent,10
+13,Vingadores: Era de Ultron,2015,Judit Novotnik,Sokovian,10
+13,Vingadores: Era de Ultron,2015,Andrea-Nichole Olivas,S.H.I.E.L.D agent,10
+13,Vingadores: Era de Ultron,2015,Bari Suzuki,Shield Agent,10
+13,Vingadores: Era de Ultron,2015,Tatiana Zarubova,Sokovian,10
+14,Homem-Formiga,2015,Paul Rudd,Scott Lang,10
+14,Homem-Formiga,2015,Michael Douglas,Dr. Hank Pym,10
+14,Homem-Formiga,2015,Evangeline Lilly,Hope van Dyne,10
+14,Homem-Formiga,2015,Corey Stoll,Darren Cross,10
+14,Homem-Formiga,2015,Bobby Cannavale,Paxton,10
+14,Homem-Formiga,2015,Anthony Mackie,Sam Wilson,10
+14,Homem-Formiga,2015,Judy Greer,Maggie Lang,10
+14,Homem-Formiga,2015,Abby Ryder Fortson,Cassie Lang,10
+14,Homem-Formiga,2015,Michael Peña,Luis,10
+14,Homem-Formiga,2015,David Dastmalchian,Kurt,10
+14,Homem-Formiga,2015,T.I.,Dave,10
+14,Homem-Formiga,2015,Hayley Atwell,Peggy Carter,10
+14,Homem-Formiga,2015,John Slattery,Howard Stark,10
+14,Homem-Formiga,2015,Martin Donovan,Mitchell Carson,10
+14,Homem-Formiga,2015,Dax Griffin,Young Pym,10
+14,Homem-Formiga,2015,Hayley Lovitt,Janet Van Dyne,10
+14,Homem-Formiga,2015,Lyndsi LaRose,Emily,10
+14,Homem-Formiga,2015,John Crosby,Detective,10
+14,Homem-Formiga,2015,Vincent Cucuzza,Detective,10
+14,Homem-Formiga,2015,Chris Evans,Steve Rogers,10
+14,Homem-Formiga,2015,Gregory Fears,Detective,10
+14,Homem-Formiga,2015,Marie Joelyn,Scientist,10
+14,Homem-Formiga,2015,Chris Pak,Scientist,10
+14,Homem-Formiga,2015,Sebastian Stan,Bucky Barnes,10
+15,Jessica Jones,2015,Krysten Ritter,Jessica Jones,26
+15,Jessica Jones,2015,Rachael Taylor,Trish Walker,12
+15,Jessica Jones,2015,Eka Darville,Malcolm Ducasse,12
+15,Jessica Jones,2015,David Tennant,Kilgrave,11
+15,Jessica Jones,2015,Carrie-Anne Moss,Jeri Hogarth,10
+15,Jessica Jones,2015,Wil Traval,Will Simpson,8
+15,Jessica Jones,2015,Susie Abromeit,Pam,8
+15,Jessica Jones,2015,Mike Colter,Luke Cage,7
+15,Jessica Jones,2015,Erin Moriarty,Hope Shlottman,7
+15,Jessica Jones,2015,Robin Weigert,Wendy Ross-Hogarth,7
+15,Jessica Jones,2015,Michael Siberry,Albert Thompson,5
+15,Jessica Jones,2015,Colby Minifie,Robyn,5
+15,Jessica Jones,2015,Kieran Mulcare,Ruben,4
+15,Jessica Jones,2015,Clarke Peters,Det. Oscar Clemons,4
+15,Jessica Jones,2015,Nichole Yannetty,Nicole,4
+15,Jessica Jones,2015,Lisa Emery,Louise Thompson,4
+15,Jessica Jones,2015,Rebecca De Mornay,Dorothy Walker,3
+15,Jessica Jones,2015,Elizabeth Cappuccino,Young Jessica,3
+15,Jessica Jones,2015,James Freedson-Jackson,Young Kilgrave,2
+15,Jessica Jones,2015,Catherine Blades,Young Trish,2
+15,Jessica Jones,2015,Rosario Dawson,Claire Temple,1
+15,Jessica Jones,2015,Michelle Hurd,D.A. Samantha Reyes,1
+15,Jessica Jones,2015,Ian Blackman,Bob Shlottman,1
+15,Jessica Jones,2015,Deborah Hedwall,Barbara Shlottman,1
+15,Jessica Jones,2015,Royce Johnson,Sgt. Brett Mahoney,1
+16,Capitão América: Guerra Civil,2016,Chris Evans,Steve Rogers,10
+16,Capitão América: Guerra Civil,2016,Robert Downey Jr.,Tony Stark,10
+16,Capitão América: Guerra Civil,2016,Scarlett Johansson,Natasha Romanoff,10
+16,Capitão América: Guerra Civil,2016,Sebastian Stan,Bucky Barnes,10
+16,Capitão América: Guerra Civil,2016,Anthony Mackie,Sam Wilson,10
+16,Capitão América: Guerra Civil,2016,Don Cheadle,Lieutenant James Rhodes,10
+16,Capitão América: Guerra Civil,2016,Jeremy Renner,Clint Barton,10
+16,Capitão América: Guerra Civil,2016,Chadwick Boseman,T'Challa,10
+16,Capitão América: Guerra Civil,2016,Paul Bettany,Vision,10
+16,Capitão América: Guerra Civil,2016,Elizabeth Olsen,Wanda Maximoff,10
+16,Capitão América: Guerra Civil,2016,Paul Rudd,Scott Lang,10
+16,Capitão América: Guerra Civil,2016,Emily VanCamp,Sharon Carter,10
+16,Capitão América: Guerra Civil,2016,Tom Holland,Peter Parker,10
+16,Capitão América: Guerra Civil,2016,Daniel Brühl,Zemo,10
+16,Capitão América: Guerra Civil,2016,Frank Grillo,Brock Rumlow,10
+16,Capitão América: Guerra Civil,2016,William Hurt,Secretary of State Thaddeus Ross,10
+16,Capitão América: Guerra Civil,2016,Martin Freeman,Everett K. Ross,10
+16,Capitão América: Guerra Civil,2016,Marisa Tomei,May Parker,10
+16,Capitão América: Guerra Civil,2016,John Kani,King T'Chaka,10
+16,Capitão América: Guerra Civil,2016,John Slattery,Howard Stark,10
+16,Capitão América: Guerra Civil,2016,Alfre Woodard,Miriam,10
+16,Capitão América: Guerra Civil,2016,Stan Lee,FedEx Driver,10
+16,Capitão América: Guerra Civil,2016,Kerry Condon,Friday,10
+16,Capitão América: Guerra Civil,2016,Jonathan Buckhouse,MIT Grad Student,10
+16,Capitão América: Guerra Civil,2016,Tyler Carden,MIT Grad Student,10
+16,Capitão América: Guerra Civil,2016,Candiss Nicole Gandy,MIT Grad Student,10
+16,Capitão América: Guerra Civil,2016,Martavious Gayles,MIT Grad Student,10
+16,Capitão América: Guerra Civil,2016,Devan Gerlach,MIT Graduate Student,10
+16,Capitão América: Guerra Civil,2016,Kimberly Hester Huffstetler,MIT Graduate Student,10
+16,Capitão América: Guerra Civil,2016,Inder Kumar,Businessman,10
+16,Capitão América: Guerra Civil,2016,Heidi Moneymaker,Super Soldier 3,10
+16,Capitão América: Guerra Civil,2016,Duane Moseley,Tech,10
+16,Capitão América: Guerra Civil,2016,Stacee Myers,MIT Graduate Student,10
+16,Capitão América: Guerra Civil,2016,Jamie Soricelli,MIT Grad Student,10
+16,Capitão América: Guerra Civil,2016,Sarai Tinck,MIT Graduate Student,10
+16,Capitão América: Guerra Civil,2016,Kim Yannayon,MIT Graduate Student,10
+17,Doutor Estranho,2016,Benedict Cumberbatch,Dr. Stephen Strange,10
+17,Doutor Estranho,2016,Tilda Swinton,The Ancient One,10
+17,Doutor Estranho,2016,Chiwetel Ejiofor,Baron Mordo,10
+17,Doutor Estranho,2016,Michael Stuhlbarg,Nicodemus West,10
+17,Doutor Estranho,2016,Benedict Wong,Wong,10

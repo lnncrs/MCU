@@ -1,0 +1,376 @@
+id,label,timeset,morder,myear,mcost,mgross,mprofit,mtomatometer,maudience,aname,atwitter,afacebook,type,role,rank
+1,Iron Man,,0,2008,140000000,585174222,445174222,94,91,Homem de Ferro,0,0,movie,movie,200
+2,The Incredible Hulk,,1,2008,150000000,263427551,113427551,67,71,O Incrível Hulk,0,0,movie,movie,200
+3,Iron Man 2,,2,2010,200000000,623933331,423933331,72,72,Homem de Ferro 2,0,0,movie,movie,200
+4,Thor,,3,2011,150000000,449326618,299326618,77,76,Thor,0,0,movie,movie,200
+5,Captain America: The First Avenger,,4,2011,140000000,370569774,230569774,79,74,Capitão América: O Primeiro Vingador,0,0,movie,movie,200
+6,The Avengers,,5,2012,220000000,1519557910,1299557910,92,91,The Avengers: Os Vingadores,0,0,movie,movie,200
+7,Iron Man Three,,6,2013,200000000,1215439994,1015439994,79,79,Homem de Ferro 3,0,0,movie,movie,200
+8,Agents of S.H.I.E.L.D.,,7,2013,0,0,0,93,0,Agentes da S.H.I.E.L.D.,0,0,tvshow,tvshow,100
+9,Thor: The Dark World,,8,2013,170000000,644602516,474602516,66,78,Thor: O Mundo Sombrio,0,0,movie,movie,200
+10,Captain America: The Winter Soldier,,9,2014,170000000,714421503,544421503,89,92,Capitão América: O Soldado Invernal,0,0,movie,movie,200
+11,Guardians of the Galaxy,,10,2014,170000000,773312399,603312399,91,92,Guardiões da Galáxia,0,0,movie,movie,200
+12,Agent Carter,,11,2015,0,0,0,87,0,Agente Carter,0,0,tvshow,tvshow,100
+13,Daredevil,,12,2015,0,0,0,86,0,Demolidor,0,0,tvshow,tvshow,100
+14,Avengers: Age of Ultron,,13,2015,250000000,1405413868,1155413868,75,84,Vingadores: Era de Ultron,0,0,movie,movie,200
+15,Ant-Man,,14,2015,130000000,519445163,389445163,80,87,Homem-Formiga,0,0,movie,movie,200
+16,Jessica Jones,,15,2015,0,0,0,93,0,Jessica Jones,0,0,tvshow,tvshow,100
+17,Captain America: Civil War,,16,2016,0,0,0,95,99,Capitão América: Guerra Civil,0,0,movie,movie,200
+18,Doctor Strange,,17,2016,0,0,0,99,99,Doutor Estranho,0,0,movie,movie,200
+19,Abu Bakaar,,0,2008,0,0,0,0,0,Sayed Badreya,0,0,actor,support,10
+20,Adam Goldstein,,2,2010,0,0,0,0,0,DJ AM,0,0,actor,support,10
+21,Adolph Hitler,,4,2011,0,0,0,0,0,James Payton,0,0,actor,support,10
+22,Agent Blackwell,,11,2015,0,0,0,0,0,Russell Edge,0,0,actor,support,2
+23,Agent Butch Wallace,,11,2015,0,0,0,0,0,Patrick Robert Smith,0,0,actor,support,2
+24,Agent Calderon,,7,2013,0,0,0,0,0,Kirk Acevedo,0,0,actor,support,2
+25,Agent Carter,,4,2011,0,0,0,0,0,Hayley Atwell,0,0,actor,shield,60
+26,Agent Coulson,,0,2008,0,0,0,0,0,Clark Gregg,0,0,actor,shield,106
+27,Agent Fisher,,11,2015,0,0,0,0,0,Kevin Ashworth,0,0,actor,support,2
+28,Agent Jackson,,3,2011,0,0,0,0,0,Jamie McShane,0,0,actor,support,10
+29,Agent Kaminsky,,7,2013,0,0,0,0,0,Jeffrey Muller,0,0,actor,support,3
+30,Agent Kwan,,7,2013,0,0,0,0,0,Tzi Ma,0,0,actor,support,1
+31,Agent Maria Hill,,5,2012,0,0,0,0,0,Cobie Smulders,0,0,actor,shield,33
+32,Agent McGuire,,3,2011,0,0,0,0,0,Keith Middlebrook,0,0,actor,support,10
+33,Agent Melinda May,,7,2013,0,0,0,0,0,Ming-Na Wen,0,0,actor,shield,66
+34,Agent Noelle Walters,,7,2013,0,0,0,0,0,Melanie Cruz,0,0,actor,support,1
+35,Agent Oliver,,7,2013,0,0,0,0,0,Mark Allan Stewart,0,0,actor,support,5
+36,Agent Sharon Carter,,9,2014,0,0,0,0,0,Emily VanCamp,0,0,actor,shield,20
+37,Agent Vega,,11,2015,0,0,0,0,0,Rey Valentin,0,0,actor,support,5
+38,Agent Weaver,,7,2013,0,0,0,0,0,Christine Adams,0,0,actor,support,9
+39,Agent Yauch,,11,2015,0,0,0,0,0,Alexander Carroll,0,0,actor,support,5
+40,Ahmed,,0,2008,0,0,0,0,0,Ahmed Ahmed,0,0,actor,support,10
+41,Akela Amador,,7,2013,0,0,0,0,0,Pascale Armand,0,0,actor,support,1
+42,Albert Thompson,,15,2015,0,0,0,0,0,Michael Siberry,0,0,actor,support,5
+43,Aldrich Killian,,6,2013,0,0,0,0,0,Guy Pearce,0,0,actor,support,10
+44,Alex Doobin,,11,2015,0,0,0,0,0,Kevin Cotteleer,0,0,actor,support,2
+45,Alexander Braun,,7,2013,0,0,0,0,0,Spencer Treat Clark,0,0,actor,support,4
+46,Alexander Pierce,,9,2014,0,0,0,0,0,Robert Redford,0,0,actor,villain,10
+47,Algrim,,8,2013,0,0,0,0,0,Adewale Akinnuoye-Agbaje,0,0,actor,support,10
+48,Alisha,,7,2013,0,0,0,0,0,Alicia Vela-Bailey,0,0,actor,support,6
+49,Alpha,,7,2013,0,0,0,0,0,Michael J. Silver,0,0,actor,support,1
+50,Alphonso 'Mack' Mackenzie,,7,2013,0,0,0,0,0,Henry Simmons,0,0,actor,support,44
+51,Ana Jarvis,,11,2015,0,0,0,0,0,Lotte Verbeek,0,0,actor,support,7
+52,Anatoly Ranskahov,,12,2015,0,0,0,0,0,Gideon Emery,0,0,actor,support,2
+53,Andrew Garner,,7,2013,0,0,0,0,0,Blair Underwood,0,0,actor,support,10
+54,Angie Martinelli,,11,2015,0,0,0,0,0,Lyndsy Fonseca,0,0,actor,support,7
+55,Antoine Triplett,,7,2013,0,0,0,0,0,B.J. Britt,0,0,actor,support,18
+56,Anton Vanko,,11,2015,0,0,0,0,0,Costa Ronin,0,0,actor,support,11
+57,Anton Vanko,,2,2010,0,0,0,0,0,Evgeniy Lazarev,0,0,actor,support,11
+58,Audrey Nathan,,7,2013,0,0,0,0,0,Amy Acker,0,0,actor,support,1
+59,Bambi Arbogast,,2,2010,0,0,0,0,0,Margy Stein,0,0,actor,support,20
+60,Bambi Arbogast,,6,2013,0,0,0,0,0,Susie Pratt,0,0,actor,support,20
+61,Barbara Shlottman,,15,2015,0,0,0,0,0,Deborah Hedwall,0,0,actor,support,1
+62,Baron Mordo,,17,2016,0,0,0,0,0,Chiwetel Ejiofor,0,0,actor,villain,10
+63,Baron Wolfgang von Strucker,,9,2014,0,0,0,0,0,Thomas Kretschmann,0,0,actor,villain,20
+64,Ben Urich,,12,2015,0,0,0,0,0,Vondie Curtis-Hall,0,0,actor,undefined,9
+65,Benjamin Donovan,,12,2015,0,0,0,0,0,Danny Johnson,0,0,actor,support,2
+66,Betty Carver (Radio Actor),,11,2015,0,0,0,0,0,Erin Torpey,0,0,actor,support,2
+67,Betty Ross,,1,2008,0,0,0,0,0,Liv Tyler,0,0,actor,support,10
+68,Bill Maher,,6,2013,0,0,0,0,0,Bill Maher,0,0,actor,support,10
+69,Bill O'Reilly,,2,2010,0,0,0,0,0,Bill O'Reilly,0,0,actor,support,10
+70,Billy Koenig,,7,2013,0,0,0,0,0,Patton Oswalt,0,0,actor,support,7
+71,Bishop,,7,2013,0,0,0,0,0,Roberto Medina,0,0,actor,support,1
+72,Blake Tower,,12,2015,0,0,0,0,0,Stephen Rider,0,0,actor,support,7
+73,Bob Shlottman,,15,2015,0,0,0,0,0,Ian Blackman,0,0,actor,support,1
+74,Bobbi Morse,,7,2013,0,0,0,0,0,Adrianne Palicki,0,0,actor,support,31
+75,Bor,,8,2013,0,0,0,0,0,Tony Curran,0,0,actor,support,10
+76,Brandt,,6,2013,0,0,0,0,0,Stephanie Szostak,0,0,actor,support,10
+77,Brock Rumlow,,9,2014,0,0,0,0,0,Frank Grillo,0,0,actor,support,20
+78,Bruce Banner / Hulk,,1,2008,0,0,0,0,0,Edward Norton,0,0,actor,avenger,70
+79,Bruce Banner / Hulk,,1,2008,0,0,0,0,0,Lou Ferrigno,0,0,actor,avenger,70
+80,Bruce Banner / Hulk,,5,2012,0,0,0,0,0,Mark Ruffalo,0,0,actor,avenger,70
+81,Bucky Barnes / Winter Soldier,,4,2011,0,0,0,0,0,Sebastian Stan,0,0,actor,avenger,40
+82,Calvin Chadwick,,11,2015,0,0,0,0,0,Currie Graham,0,0,actor,support,7
+83,Calvin Zabo,,7,2013,0,0,0,0,0,Kyle MacLachlan,0,0,actor,support,13
+84,Camilla Reyes,,7,2013,0,0,0,0,0,Leonor Varela,0,0,actor,support,1
+85,Captain America (Radio Actor),,11,2015,0,0,0,0,0,Walker Roach,0,0,actor,support,3
+86,Carina,,8,2013,0,0,0,0,0,Ophelia Lovibond,0,0,actor,undefined,20
+87,Carl Creel,,7,2013,0,0,0,0,0,Brian Patrick Wade,0,0,actor,support,3
+88,Carla Talbot,,7,2013,0,0,0,0,0,Raquel Gardner,0,0,actor,support,3
+89,Carol,,11,2015,0,0,0,0,0,Benita Robledo,0,0,actor,support,2
+90,Cashier,,7,2013,0,0,0,0,0,Brittnee Garza,0,0,actor,support,1
+91,Cassie Lang,,14,2015,0,0,0,0,0,Abby Ryder Fortson,0,0,actor,support,10
+92,Chan Ho Yin,,7,2013,0,0,0,0,0,Louis Ozawa Changchien,0,0,actor,support,1
+93,Christian Ward,,7,2013,0,0,0,0,0,Tim DeKay,0,0,actor,support,2
+94,Christiane Amanpour,,2,2010,0,0,0,0,0,Christiane Amanpour,0,0,actor,support,10
+95,Christine Everhart,,0,2008,0,0,0,0,0,Leslie Bibb,0,0,actor,support,20
+96,Claire Temple,,12,2015,0,0,0,0,0,Rosario Dawson,0,0,actor,undefined,9
+97,Clea?,,17,2016,0,0,0,0,0,Rachel McAdams,0,0,actor,undefined,0
+98,Clint,,12,2015,0,0,0,0,0,Clyde Baldo,0,0,actor,support,1
+99,Clint Barton / Hawkeye,,3,2011,0,0,0,0,0,Jeremy Renner,0,0,actor,avenger,40
+100,Colonel Chester Phillips,,4,2011,0,0,0,0,0,Tommy Lee Jones,0,0,actor,support,10
+101,Colonel Ray Schoonover,,12,2015,0,0,0,0,0,Clancy Brown,0,0,actor,support,2
+102,Corpsman Dey,,10,2014,0,0,0,0,0,John C. Reilly,0,0,actor,support,10
+103,Cosmo the Space Dog,,10,2014,0,0,0,0,0,Fred,0,0,actor,support,10
+104,D.A. Samantha Reyes,,12,2015,0,0,0,0,0,Michelle Hurd,0,0,actor,support,7
+105,Daisy 'Skye' Johnson,,7,2013,0,0,0,0,0,Chloe Bennet,0,0,actor,shield,66
+106,Daniel Sousa,,11,2015,0,0,0,0,0,Enver Gjokaj,0,0,actor,support,18
+107,Daniel Whitehall,,7,2013,0,0,0,0,0,Reed Diamond,0,0,actor,support,8
+108,Darcy Lewis,,3,2011,0,0,0,0,0,Kat Dennings,0,0,actor,undefined,20
+109,Darren Cross,,14,2015,0,0,0,0,0,Corey Stoll,0,0,actor,support,10
+110,Dave,,14,2015,0,0,0,0,0,T.I.,0,0,actor,support,10
+111,Debbie,,7,2013,0,0,0,0,0,Shannon Lucio,0,0,actor,support,2
+112,Denarian Saal,,10,2014,0,0,0,0,0,Peter Serafinowicz,0,0,actor,support,10
+113,Det. Oscar Clemons,,15,2015,0,0,0,0,0,Clarke Peters,0,0,actor,support,4
+114,Detective Hoffman,,12,2015,0,0,0,0,0,Daryl Edwards,0,0,actor,support,5
+115,Director Kenneth,,11,2015,0,0,0,0,0,Randy Sklar,0,0,actor,support,2
+116,Donnie Gill,,7,2013,0,0,0,0,0,Dylan Minnette,0,0,actor,support,2
+117,Doris Urich,,12,2015,0,0,0,0,0,Adriane Lenox,0,0,actor,support,4
+118,Dormammu?,,17,2016,0,0,0,0,0,Mads Mikkelsen,0,0,actor,villain,0
+119,Dorothy Walker,,15,2015,0,0,0,0,0,Rebecca De Mornay,0,0,actor,support,3
+120,Dottie Underwood,,11,2015,0,0,0,0,0,Bridget Regan,0,0,actor,support,10
+121,Dr. Abraham Erskine,,4,2011,0,0,0,0,0,Stanley Tucci,0,0,actor,support,10
+122,Dr. Arnim Zola,,4,2011,0,0,0,0,0,Toby Jones,0,0,actor,villain,21
+123,Dr. Chung,,11,2015,0,0,0,0,0,Tom Choi,0,0,actor,support,2
+124,Dr. Franklin Hall,,7,2013,0,0,0,0,0,Ian Hart,0,0,actor,support,1
+125,Dr. Hank Pym / Ant-Man,,14,2015,0,0,0,0,0,Michael Douglas,0,0,actor,support,10
+126,Dr. Helen Cho,,13,2015,0,0,0,0,0,Claudia Kim,0,0,actor,undefined,10
+127,Dr. Ivchenko,,11,2015,0,0,0,0,0,Ralph Brown,0,0,actor,support,4
+128,Dr. List,,7,2013,0,0,0,0,0,Henry Goodman,0,0,actor,support,23
+129,Dr. Samberly,,11,2015,0,0,0,0,0,Matt Braunger,0,0,actor,support,5
+130,Dr. Stephen Strange,,17,2016,0,0,0,0,0,Benedict Cumberbatch,0,0,actor,avenger,10
+131,Dr. Streiten,,7,2013,0,0,0,0,0,Ron Glass,0,0,actor,support,2
+132,Drax,,10,2014,0,0,0,0,0,Dave Bautista,0,0,actor,guardian,10
+133,Eddie Corbett,,1,2008,0,0,0,0,0,Brandon Cruz,0,0,actor,support,10
+134,Edison Po,,7,2013,0,0,0,0,0,Cullen Douglas,0,0,actor,support,3
+135,Edwin Jarvis,,11,2015,0,0,0,0,0,James D'Arcy,0,0,actor,undefined,18
+136,Eir,,8,2013,0,0,0,0,0,Alice Krige,0,0,actor,support,10
+137,Elektra Natchios,,12,2015,0,0,0,0,0,Elodie Yung,0,0,actor,undefined,10
+138,Elena Cardenas,,12,2015,0,0,0,0,0,Judith Delgado,0,0,actor,support,4
+139,Elena 'Yo-Yo' Rodriguez,,7,2013,0,0,0,0,0,Natalia Cordova-Buckley,0,0,actor,support,3
+140,Ellen King,,7,2013,0,0,0,0,0,Melissa Bickerton,0,0,actor,support,1
+141,Elon Musk,,2,2010,0,0,0,0,0,Elon Musk,0,0,actor,support,10
+142,Emil Blonsky,,1,2008,0,0,0,0,0,Tim Roth,0,0,actor,support,10
+143,Emily,,14,2015,0,0,0,0,0,Lyndsi LaRose,0,0,actor,support,10
+144,Emily Deville,,7,2013,0,0,0,0,0,Felisha Terrell,0,0,actor,support,1
+145,Erik Selvig,,3,2011,0,0,0,0,0,Stellan Skarsgård,0,0,actor,undefined,40
+146,Everett K. Ross,,16,2016,0,0,0,0,0,Martin Freeman,0,0,actor,support,10
+147,F.R.I.D.A.Y.,,13,2015,0,0,0,0,0,Kerry Condon,0,0,actor,support,20
+148,Fandral,,3,2011,0,0,0,0,0,Josh Dallas,0,0,actor,support,20
+149,Fandral,,8,2013,0,0,0,0,0,Zachary Levi,0,0,actor,support,20
+150,Father Lantom,,12,2015,0,0,0,0,0,Peter McRobbie,0,0,actor,support,6
+151,Felix Blake,,7,2013,0,0,0,0,0,Titus Welliver,0,0,actor,support,3
+152,Foggy Nelson,,12,2015,0,0,0,0,0,Elden Henson,0,0,actor,undefined,26
+153,Frank Castle,,12,2015,0,0,0,0,0,Jon Bernthal,0,0,actor,undefined,12
+154,Frigga,,3,2011,0,0,0,0,0,Rene Russo,0,0,actor,undefined,20
+155,Gabe Jones,,4,2011,0,0,0,0,0,Derek Luke,0,0,actor,support,10
+156,Gamora,,10,2014,0,0,0,0,0,Zoe Saldana,0,0,actor,guardian,10
+157,General Gabriel,,0,2008,0,0,0,0,0,Bill Smitrovich,0,0,actor,support,10
+158,General Jacobs,,7,2013,0,0,0,0,0,Glenn Morshower,0,0,actor,support,2
+159,General 'Thunderbolt' Ross,,1,2008,0,0,0,0,0,William Hurt,0,0,actor,undefined,20
+160,George Kotsiopoulos,,6,2013,0,0,0,0,0,George Kotsiopoulos,0,0,actor,support,10
+161,Georges Batroc,,9,2014,0,0,0,0,0,Georges St-Pierre,0,0,actor,support,10
+162,Georgi Luchkov,,5,2012,0,0,0,0,0,Jerzy Skolimowski,0,0,actor,support,10
+163,Gideon Malick,,5,2012,0,0,0,0,0,Powers Boothe,0,0,actor,support,11
+164,Glenn Talbot,,7,2013,0,0,0,0,0,Adrian Pasdar,0,0,actor,support,11
+165,Gordon,,7,2013,0,0,0,0,0,Jamie Harris,0,0,actor,support,11
+166,Grandpa,,10,2014,0,0,0,0,0,Gregg Henry,0,0,actor,support,10
+167,Grant Ward,,7,2013,0,0,0,0,0,Brett Dalton,0,0,actor,villain,58
+168,Groot,,10,2014,0,0,0,0,0,Vin Diesel,0,0,actor,guardian,10
+169,Grotto,,12,2015,0,0,0,0,0,McCaleb Burnett,0,0,actor,support,3
+170,Hank,,11,2015,0,0,0,0,0,Chris Coppola,0,0,actor,support,2
+171,Hannah,,7,2013,0,0,0,0,0,Laura Seay,0,0,actor,support,1
+172,Happy Hogan,,0,2008,0,0,0,0,0,Jon Favreau,0,0,actor,undefined,30
+173,Happy Sam Sawyer,,11,2015,0,0,0,0,0,Leonard Roberts,0,0,actor,support,1
+174,Harley Keener,,6,2013,0,0,0,0,0,Ty Simpkins,0,0,actor,support,10
+175,Heimdall,,3,2011,0,0,0,0,0,Idris Elba,0,0,actor,undefined,30
+176,Heinz Kruger,,4,2011,0,0,0,0,0,Richard Armitage,0,0,actor,support,10
+177,Hirochi,,12,2015,0,0,0,0,0,Ron Nakahara,0,0,actor,support,5
+178,Ho Yinsen,,0,2008,0,0,0,0,0,Shaun Toub,0,0,actor,undefined,20
+179,Hogun,,3,2011,0,0,0,0,0,Tadanobu Asano,0,0,actor,support,20
+180,Holden Radcliffe,,7,2013,0,0,0,0,0,John Hannah,0,0,actor,support,3
+181,Hope Shlottman,,15,2015,0,0,0,0,0,Erin Moriarty,0,0,actor,support,7
+182,Hope van Dyne / Vasp?,,14,2015,0,0,0,0,0,Evangeline Lilly,0,0,actor,avenger,10
+183,Howard Stark,,4,2011,0,0,0,0,0,Dominic Cooper,0,0,actor,shield,55
+184,Howard Stark,,0,2008,0,0,0,0,0,Gerard Sanders,0,0,actor,shield,55
+185,Howard Stark,,2,2010,0,0,0,0,0,John Slattery,0,0,actor,shield,55
+186,Howard the Duck,,10,2014,0,0,0,0,0,Seth Green,0,0,actor,support,10
+187,Hugh Jones,,11,2015,0,0,0,0,0,Ray Wise,0,0,actor,support,4
+188,Ian Boothby,,8,2013,0,0,0,0,0,Jonathan Howard,0,0,actor,support,10
+189,Ian Quinn,,7,2013,0,0,0,0,0,David Conrad,0,0,actor,support,7
+190,Idaho,,7,2013,0,0,0,0,0,Wilmer Calderon,0,0,actor,support,2
+191,Isabela Alvarez,,3,2011,0,0,0,0,0,Adriana Barraza,0,0,actor,support,10
+192,Isabelle 'Izzy' Hartley,,7,2013,0,0,0,0,0,Lucy Lawless,0,0,actor,support,2
+193,Ivan Vanko / Whiplash,,2,2010,0,0,0,0,0,Mickey Rourke,0,0,actor,villain,10
+194,Jack,,2,2010,0,0,0,0,0,Jack White,0,0,actor,support,10
+195,Jack Murdock,,12,2015,0,0,0,0,0,John Patrick Hayden,0,0,actor,support,2
+196,Jack Rollins,,9,2014,0,0,0,0,0,Callan Mulvey,0,0,actor,support,10
+197,Jack Thompson,,11,2015,0,0,0,0,0,Chad Michael Murray,0,0,actor,support,14
+198,Jacques Dernier,,4,2011,0,0,0,0,0,Bruno Ricci,0,0,actor,support,10
+199,Jacques Duchamps,,12,2015,0,0,0,0,0,Gilles Marini,0,0,actor,support,1
+200,James,,7,2013,0,0,0,0,0,Axle Whitehead,0,0,actor,support,4
+201,James Montgomery Falsworth,,4,2011,0,0,0,0,0,JJ Feild,0,0,actor,support,10
+202,James Rhodes / War Machine,,2,2010,0,0,0,0,0,Don Cheadle,0,0,actor,avenger,50
+203,James Rhodes / War Machine,,0,2008,0,0,0,0,0,Terrence Howard,0,0,actor,avenger,50
+204,James Wesley,,12,2015,0,0,0,0,0,Toby Leonard Moore,0,0,actor,villain,10
+205,Jane Foster,,3,2011,0,0,0,0,0,Natalie Portman,0,0,actor,undefined,20
+206,Janet Van Dyne / Vasp,,14,2015,0,0,0,0,0,Hayley Lovitt,0,0,actor,support,10
+207,Jarvis / Vision,,0,2008,0,0,0,0,0,Paul Bettany,0,0,actor,avenger,60
+208,Jason Wilkes,,11,2015,0,0,0,0,0,Reggie Austin,0,0,actor,support,10
+209,Jemma Simmons,,7,2013,0,0,0,0,0,Elizabeth Henstridge,0,0,actor,shield,66
+210,Jeri Hogarth,,12,2015,0,0,0,0,0,Carrie-Anne Moss,0,0,actor,undefined,11
+211,Jessica Jones,,15,2015,0,0,0,0,0,Krysten Ritter,0,0,actor,defender,26
+212,Jiaying,,7,2013,0,0,0,0,0,Dichen Lachman,0,0,actor,support,9
+213,Jim Morita,,4,2011,0,0,0,0,0,Kenneth Choi,0,0,actor,support,11
+214,Jimmy,,0,2008,0,0,0,0,0,Kevin Foster,0,0,actor,support,10
+215,Joan Rivers,,6,2013,0,0,0,0,0,Joan Rivers,0,0,actor,support,10
+216,Joey Gutierrez,,7,2013,0,0,0,0,0,Juan Pablo Raba,0,0,actor,support,6
+217,Johann Schmidt / Red Skull,,4,2011,0,0,0,0,0,Hugo Weaving,0,0,actor,villain,10
+218,John Garrett,,7,2013,0,0,0,0,0,Bill Paxton,0,0,actor,support,6
+219,Joseph Manfredi,,11,2015,0,0,0,0,0,Ken Marino,0,0,actor,support,5
+220,Justin Hammer,,2,2010,0,0,0,0,0,Sam Rockwell,0,0,actor,support,10
+221,Kara Lynn Palamas,,7,2013,0,0,0,0,0,Maya Stojan,0,0,actor,support,8
+222,Karen Page,,12,2015,0,0,0,0,0,Deborah Ann Woll,0,0,actor,undefined,26
+223,Kebo,,7,2013,0,0,0,0,0,Daz Crawford,0,0,actor,support,5
+224,Kenneth Turgeon,,7,2013,0,0,0,0,0,Adam Kulbersh,0,0,actor,support,2
+225,Kilgrave,,15,2015,0,0,0,0,0,David Tennant,0,0,actor,villain,11
+226,King Laufey,,3,2011,0,0,0,0,0,Colm Feore,0,0,actor,villain,10
+227,King T'Chaka,,16,2016,0,0,0,0,0,John Kani,0,0,actor,undefined,10
+228,Korath,,10,2014,0,0,0,0,0,Djimon Hounsou,0,0,actor,support,10
+229,Kraglin,,10,2014,0,0,0,0,0,Sean Gunn,0,0,actor,support,10
+230,Kurt,,14,2015,0,0,0,0,0,David Dastmalchian,0,0,actor,support,10
+231,Lady Sif,,3,2011,0,0,0,0,0,Jaimie Alexander,0,0,actor,undefined,22
+232,Lance Hunter,,7,2013,0,0,0,0,0,Nick Blood,0,0,actor,support,35
+233,Lash,,7,2013,0,0,0,0,0,Matthew Willig,0,0,actor,support,5
+234,Laura Barton,,13,2015,0,0,0,0,0,Linda Cardellini,0,0,actor,support,10
+235,Leet Brannis,,11,2015,0,0,0,0,0,James Frain,0,0,actor,support,2
+236,Leland Owlsley,,12,2015,0,0,0,0,0,Bob Gunton,0,0,actor,villain,9
+237,Leo Fitz,,7,2013,0,0,0,0,0,Iain De Caestecker,0,0,actor,shield,66
+238,Leonard,,1,2008,0,0,0,0,0,Ty Burrell,0,0,actor,support,10
+239,Lian May,,7,2013,0,0,0,0,0,Tsai Chin,0,0,actor,support,1
+240,Lincoln Campbell,,7,2013,0,0,0,0,0,Luke Mitchell,0,0,actor,support,29
+241,Loki,,3,2011,0,0,0,0,0,Tom Hiddleston,0,0,actor,villain,30
+242,Lorelei,,7,2013,0,0,0,0,0,Elena Satine,0,0,actor,support,2
+243,Loretta Dooley,,11,2015,0,0,0,0,0,Sarah Bloom,0,0,actor,support,1
+244,Louise Thompson,,15,2015,0,0,0,0,0,Lisa Emery,0,0,actor,support,4
+245,Luis,,14,2015,0,0,0,0,0,Michael Peña,0,0,actor,support,10
+246,Luke Cage,,15,2015,0,0,0,0,0,Mike Colter,0,0,actor,defender,7
+247,Luther Banks,,7,2013,0,0,0,0,0,Andrew Howard,0,0,actor,support,6
+248,Madame Gao,,12,2015,0,0,0,0,0,Wai Ching Ho,0,0,actor,villain,6
+249,Maggie Lang,,14,2015,0,0,0,0,0,Judy Greer,0,0,actor,support,10
+250,Major Allen,,0,2008,0,0,0,0,0,Tim Guinee,0,0,actor,support,20
+251,Major Kathleen Sparr,,1,2008,0,0,0,0,0,Christina Cabot,0,0,actor,support,10
+252,Malcolm Ducasse,,15,2015,0,0,0,0,0,Eka Darville,0,0,actor,support,12
+253,Malekith,,8,2013,0,0,0,0,0,Christopher Eccleston,0,0,actor,villain,10
+254,Marcel,,12,2015,0,0,0,0,0,Alexander Blaise,0,0,actor,support,1
+255,Marci Stahl,,12,2015,0,0,0,0,0,Amy Rutberg,0,0,actor,support,6
+256,Marcus Daniels,,7,2013,0,0,0,0,0,Patrick Brennan,0,0,actor,support,2
+257,Marcus Scarlotti,,7,2013,0,0,0,0,0,Falk Hentschel,0,0,actor,support,1
+258,Marlene Fisk,,12,2015,0,0,0,0,0,Angela Reed,0,0,actor,support,1
+259,Marta,,7,2013,0,0,0,0,0,Alison White,0,0,actor,support,1
+260,Matt Murdock / Daredevil,,12,2015,0,0,0,0,0,Charlie Cox,0,0,actor,defender,26
+261,May Parker,,16,2016,0,0,0,0,0,Marisa Tomei,0,0,actor,undefined,10
+262,Maya Hansen,,6,2013,0,0,0,0,0,Rebecca Hall,0,0,actor,support,10
+263,McGee,,1,2008,0,0,0,0,0,Nicholas Rose,0,0,actor,support,10
+264,Melvin Potter,,12,2015,0,0,0,0,0,Matt Gerald,0,0,actor,support,6
+265,Meredith Quill,,10,2014,0,0,0,0,0,Laura Haddock,0,0,actor,support,10
+266,Michael Carter,,11,2015,0,0,0,0,0,Max Brown,0,0,actor,support,2
+267,Mike Peterson,,7,2013,0,0,0,0,0,J. August Richards,0,0,actor,support,11
+268,Miles Van Ert,,11,2015,0,0,0,0,0,James Urbaniak,0,0,actor,support,2
+269,Miriam,,16,2016,0,0,0,0,0,Alfre Woodard,0,0,actor,support,10
+270,Miriam Fry,,11,2015,0,0,0,0,0,Meagen Fay,0,0,actor,support,4
+271,Mitchell Carson,,14,2015,0,0,0,0,0,Martin Donovan,0,0,actor,support,10
+272,Mitchell Ellison,,12,2015,0,0,0,0,0,Geoffrey Cantor,0,0,actor,support,10
+273,Molly Bowden,,11,2015,0,0,0,0,0,Laura Coover,0,0,actor,support,1
+274,Mr. Giyera,,7,2013,0,0,0,0,0,Mark Dacascos,0,0,actor,support,9
+275,Mrs. Vistain,,12,2015,0,0,0,0,0,Phyllis Somerville,0,0,actor,support,2
+276,Natasha Romanoff / Black Widow,,2,2010,0,0,0,0,0,Scarlett Johansson,0,0,actor,avenger,50
+277,Nebula,,10,2014,0,0,0,0,0,Karen Gillan,0,0,actor,villain,10
+278,Nick Fury,,0,2008,0,0,0,0,0,Samuel L. Jackson,0,0,actor,shield,72
+279,Nicodemus West,,17,2016,0,0,0,0,0,Michael Stuhlbarg,0,0,actor,support,10
+280,Nicole,,15,2015,0,0,0,0,0,Nichole Yannetty,0,0,actor,support,4
+281,Nobu,,12,2015,0,0,0,0,0,Peter Shinkoda,0,0,actor,villain,9
+282,Nova Prime,,10,2014,0,0,0,0,0,Glenn Close,0,0,actor,undefined,10
+283,Obadiah Stane / Iron Monk,,0,2008,0,0,0,0,0,Jeff Bridges,0,0,actor,support,10
+284,Odin,,3,2011,0,0,0,0,0,Anthony Hopkins,0,0,actor,undefined,20
+285,Pam,,15,2015,0,0,0,0,0,Susie Abromeit,0,0,actor,support,8
+286,Pat Kiernan,,5,2012,0,0,0,0,0,Pat Kiernan,0,0,actor,support,20
+287,Paula,,7,2013,0,0,0,0,0,Staci Roberts Steele,0,0,actor,support,1
+288,Paxton,,14,2015,0,0,0,0,0,Bobby Cannavale,0,0,actor,support,10
+289,Pepper Potts,,0,2008,0,0,0,0,0,Gwyneth Paltrow,0,0,actor,undefined,40
+290,Peter Parker / Spider-Man,,16,2016,0,0,0,0,0,Tom Holland,0,0,actor,avenger,10
+291,Peter Quill,,10,2014,0,0,0,0,0,Chris Pratt,0,0,actor,guardian,10
+292,Pietro Maximoff / Quicksilver,,9,2014,0,0,0,0,0,Aaron Taylor-Johnson,0,0,actor,avenger,20
+293,Pinky Pinkerton,,11,2015,0,0,0,0,0,Richard Short,0,0,actor,support,1
+294,Pratt,,0,2008,0,0,0,0,0,Garret Noël,0,0,actor,support,10
+295,President Ellis,,6,2013,0,0,0,0,0,William Sadler,0,0,actor,support,13
+296,Professor Elliot Randolph,,7,2013,0,0,0,0,0,Peter MacNicol,0,0,actor,support,2
+297,Pvt. Lorraine,,4,2011,0,0,0,0,0,Natalie Dormer,0,0,actor,support,10
+298,Raina,,7,2013,0,0,0,0,0,Ruth Negga,0,0,actor,villain,17
+299,Ramirez,,0,2008,0,0,0,0,0,Eileen Weisinger,0,0,actor,support,10
+300,Ravager,,10,2014,0,0,0,0,0,Raed Abbas,0,0,actor,support,10
+301,Ray Krzeminski,,11,2015,0,0,0,0,0,Kyle Bornheimer,0,0,actor,support,3
+302,Raza,,0,2008,0,0,0,0,0,Faran Tahir,0,0,actor,support,10
+303,Richard,,8,2013,0,0,0,0,0,Chris O'Dowd,0,0,actor,support,10
+304,Robert Gonzales,,7,2013,0,0,0,0,0,Edward James Olmos,0,0,actor,support,5
+305,Robyn,,15,2015,0,0,0,0,0,Colby Minifie,0,0,actor,support,5
+306,Rocket,,10,2014,0,0,0,0,0,Bradley Cooper,0,0,actor,guardian,10
+307,Roger Dooley,,11,2015,0,0,0,0,0,Shea Whigham,0,0,actor,support,7
+308,Ronan,,10,2014,0,0,0,0,0,Lee Pace,0,0,actor,villain,10
+309,Rosalind Price,,7,2013,0,0,0,0,0,Constance Zimmer,0,0,actor,support,8
+310,Roscoe Sweeney,,12,2015,0,0,0,0,0,Kevin Nagle,0,0,actor,support,2
+311,Rose,,11,2015,0,0,0,0,0,Lesley Boone,0,0,actor,support,9
+312,Ruben,,15,2015,0,0,0,0,0,Kieran Mulcare,0,0,actor,support,4
+313,Ruben Mackenzie,,7,2013,0,0,0,0,0,Gaius Charles,0,0,actor,support,1
+314,Rufus,,11,2015,0,0,0,0,0,Chris Browning,0,0,actor,support,3
+315,Sam Wilson / Falcon,,9,2014,0,0,0,0,0,Anthony Mackie,0,0,actor,avenger,40
+316,Samuel Sterns,,1,2008,0,0,0,0,0,Tim Blake Nelson,0,0,actor,support,10
+317,Sasha Demidov,,11,2015,0,0,0,0,0,James Landry Hébert,0,0,actor,support,2
+318,Savin,,6,2013,0,0,0,0,0,James Badge Dale,0,0,actor,support,10
+319,Scott Lang / Ant-Man,,14,2015,0,0,0,0,0,Paul Rudd,0,0,actor,avenger,20
+320,Sebastian Derik,,7,2013,0,0,0,0,0,Brian Van Holt,0,0,actor,support,2
+321,Senator Brandt,,4,2011,0,0,0,0,0,Michael Brandon,0,0,actor,support,10
+322,Senator Stern,,2,2010,0,0,0,0,0,Garry Shandling,0,0,actor,support,20
+323,Sgt. Brett Mahoney,,12,2015,0,0,0,0,0,Royce Johnson,0,0,actor,undefined,15
+324,Sheldon McFee,,11,2015,0,0,0,0,0,Devin Ratray,0,0,actor,support,2
+325,Sitwell,,3,2011,0,0,0,0,0,Maximiliano Hernández,0,0,actor,support,33
+326,Smithsonian Museum Visitor,,9,2014,0,0,0,0,0,James Lewis,0,0,actor,support,10
+327,Sofia,,7,2013,0,0,0,0,0,Emily Baldoni,0,0,actor,support,1
+328,Sok,,13,2015,0,0,0,0,0,Lukas DiSparrow,0,0,actor,support,10
+329,Stan Lee,,0,2008,0,0,0,0,0,Stan Lee,0,0,actor,undefined,122
+330,Stanley,,1,2008,0,0,0,0,0,Paul Soles,0,0,actor,support,10
+331,Stephanie Malick,,7,2013,0,0,0,0,0,Bethany Joy Lenz,0,0,actor,support,2
+332,Steve Rogers / Captain America,,4,2011,0,0,0,0,0,Chris Evans,0,0,actor,avenger,71
+333,Stick,,12,2015,0,0,0,0,0,Scott Glenn,0,0,actor,undefined,5
+334,Stone,,12,2015,0,0,0,0,0,David Sobolov,0,0,actor,support,2
+335,Stone,,12,2015,0,0,0,0,0,Jasson Finney,0,0,actor,support,2
+336,Sunil Bakshi,,7,2013,0,0,0,0,0,Simon Kassianides,0,0,actor,support,11
+337,Taggart,,6,2013,0,0,0,0,0,Ashley Hamilton,0,0,actor,support,10
+338,T'Challa,,16,2016,0,0,0,0,0,Chadwick Boseman,0,0,actor,avenger,10
+339,Thanos,,5,2012,0,0,0,0,0,Josh Brolin,0,0,actor,villain,20
+340,The Agent,,13,2015,0,0,0,0,0,Eric Morcos,0,0,actor,support,10
+341,The Ancient One,,17,2016,0,0,0,0,0,Tilda Swinton,0,0,actor,undefined,10
+342,The Baroness,,7,2013,0,0,0,0,0,Kathryn Leigh Scott,0,0,actor,support,1
+343,The Broker,,10,2014,0,0,0,0,0,Christopher Fairbank,0,0,actor,support,10
+344,The Collector,,8,2013,0,0,0,0,0,Benicio Del Toro,0,0,actor,undefined,20
+345,The Other,,5,2012,0,0,0,0,0,Alexis Denisof,0,0,actor,support,20
+346,Thomas Gloucester,,11,2015,0,0,0,0,0,Casey Sander,0,0,actor,support,2
+347,Thomas Nash,,7,2013,0,0,0,0,0,Brad Dourif,0,0,actor,support,1
+348,Thomas Roberts,,5,2012,0,0,0,0,0,Thomas Roberts,0,0,actor,support,20
+349,Thor,,3,2011,0,0,0,0,0,Chris Hemsworth,0,0,actor,avenger,40
+350,Timothy 'Dum Dum' Dugan,,4,2011,0,0,0,0,0,Neal McDonough,0,0,actor,shield,12
+351,Tina Adams,,7,2013,0,0,0,0,0,Katie Hilliard,0,0,actor,support,1
+352,Tom Corbett,,1,2008,0,0,0,0,0,Bill Bixby,0,0,actor,support,10
+353,Tony Stark / Iron Man,,0,2008,0,0,0,0,0,Robert Downey Jr.,0,0,actor,avenger,70
+354,Trevor Slattery,,6,2013,0,0,0,0,0,Ben Kingsley,0,0,actor,support,10
+355,Trish Walker,,15,2015,0,0,0,0,0,Rachael Taylor,0,0,actor,undefined,12
+356,Turk Barrett,,12,2015,0,0,0,0,0,Rob Morgan,0,0,actor,support,7
+357,Tyr,,8,2013,0,0,0,0,0,Clive Russell,0,0,actor,support,10
+358,Ultron,,13,2015,0,0,0,0,0,James Spader,0,0,actor,villain,10
+359,Ulysses Klaue,,13,2015,0,0,0,0,0,Andy Serkis,0,0,actor,support,10
+360,Vanessa Marianna,,12,2015,0,0,0,0,0,Ayelet Zurer,0,0,actor,undefined,9
+361,Vernon Masters,,11,2015,0,0,0,0,0,Kurtwood Smith,0,0,actor,support,7
+362,Victoria Hand,,7,2013,0,0,0,0,0,Saffron Burrows,0,0,actor,support,4
+363,Violet,,11,2015,0,0,0,0,0,Sarah Bolger,0,0,actor,support,3
+364,Vladimir Ranskahov,,12,2015,0,0,0,0,0,Nikolai Nikolaeff,0,0,actor,support,4
+365,Volstagg,,3,2011,0,0,0,0,0,Ray Stevenson,0,0,actor,support,20
+366,Wanda Maximoff / Scarlet Witch,,9,2014,0,0,0,0,0,Elizabeth Olsen,0,0,actor,avenger,30
+367,Wendy Ross-Hogarth,,15,2015,0,0,0,0,0,Robin Weigert,0,0,actor,support,7
+368,Whitney Frost,,11,2015,0,0,0,0,0,Wynn Everett,0,0,actor,support,10
+369,Will Daniels,,7,2013,0,0,0,0,0,Dillon Casey,0,0,actor,support,2
+370,Will Simpson,,15,2015,0,0,0,0,0,Wil Traval,0,0,actor,support,8
+371,William Ginter Riva,,0,2008,0,0,0,0,0,Peter Billingsley,0,0,actor,support,10
+372,Wilson Fisk,,12,2015,0,0,0,0,0,Vincent D'Onofrio,0,0,actor,villain,14
+373,Wong,,17,2016,0,0,0,0,0,Benedict Wong,0,0,actor,undefined,10
+374,Zemo,,16,2016,0,0,0,0,0,Daniel Brühl,0,0,actor,villain,10
+375,Zrinka,,13,2015,0,0,0,0,0,Dominique Provost-Chalkley,0,0,actor,support,10

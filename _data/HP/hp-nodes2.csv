@@ -1,0 +1,374 @@
+id,label,timeset,morder,myear,mcost,mgross,mprofit,mtomatometer,maudience,aname,atwitter,afacebook,type,role,rank
+1,Harry Potter e a Pedra Filosofal,,0,2001,0,0,0,0,0,Harry Potter e a Pedra Filosofal,0,0,movie,movie,200
+2,Harry Potter e a Câmara Secreta,,1,2002,0,0,0,0,0,Harry Potter e a Câmara Secreta,0,0,movie,movie,200
+3,Harry Potter e o Prisioneiro de Azkaban,,2,2004,0,0,0,0,0,Harry Potter e o Prisioneiro de Azkaban,0,0,movie,movie,200
+4,Harry Potter e o Cálice de Fogo,,3,2005,0,0,0,0,0,Harry Potter e o Cálice de Fogo,0,0,movie,movie,200
+5,Harry Potter e a Ordem da Fênix,,4,2007,0,0,0,0,0,Harry Potter e a Ordem da Fênix,0,0,movie,movie,200
+6,Harry Potter e o Enigma do Príncipe,,5,2009,0,0,0,0,0,Harry Potter e o Enigma do Príncipe,0,0,movie,movie,200
+7,Harry Potter e as Relíquias da Morte: Parte 1,,6,2010,0,0,0,0,0,Harry Potter e as Relíquias da Morte: Parte 1,0,0,movie,movie,200
+8,Harry Potter e as Relíquias da Morte: Parte 2,,7,2011,0,0,0,0,0,Harry Potter e as Relíquias da Morte: Parte 2,0,0,movie,movie,200
+9,Aberforth Dumbledore,,7,2011,0,0,0,0,0,Ciarán Hinds,0,0,actor,,20
+10,Aberforth Dumbledore,,4,2007,0,0,0,0,0,Jim McManus,0,0,actor,,20
+11,Adrian Pucey,,0,2001,0,0,0,0,0,David Holmes,0,0,actor,,20
+12,Adrian Pucey,,0,2001,0,0,0,0,0,Scot Fearn,0,0,actor,,20
+13,Aged Gringotts' Goblin,,0,2001,0,0,0,0,0,Rusty Goffe,0,0,actor,,10
+14,Alastor 'Mad-­Eye' Moody,,3,2005,0,0,0,0,0,Brendan Gleeson,0,0,actor,,10
+15,Alastor 'Mad-Eye' Moody,,3,2005,0,0,0,0,0,Brendan Gleeson,0,0,actor,,10
+16,Albert Runcorn,,6,2010,0,0,0,0,0,David O'Hara,0,0,actor,,10
+17,Albus Dumbledore,,2,2004,0,0,0,0,0,Michael Gambon,0,0,actor,,20
+18,Albus Percival Wulfric Brian Dumbledore,,2,2004,0,0,0,0,0,Michael Gambon,0,0,actor,,10
+19,Albus Severus Potter - 19 Years Later,,7,2011,0,0,0,0,0,Arthur Bowen,0,0,actor,,10
+20,Alecto,,5,2009,0,0,0,0,0,Suzanne Toase,0,0,actor,,10
+21,Alecto Carrow,,5,2009,0,0,0,0,0,Suzanne Toase,0,0,actor,,20
+22,Alicia Spinnet,,0,2001,0,0,0,0,0,Leilah Sutherland,0,0,actor,,20
+23,Alicia Spinnet,,1,2002,0,0,0,0,0,Rochelle Douglas,0,0,actor,,20
+24,Amelia Bones,,4,2007,0,0,0,0,0,Sian Thomas,0,0,actor,,10
+25,Amos Diggory,,3,2005,0,0,0,0,0,Jeff Rawle,0,0,actor,,10
+26,Amycus,,5,2009,0,0,0,0,0,Ralph Ineson,0,0,actor,,10
+27,Amycus Carrow,,5,2009,0,0,0,0,0,Ralph Ineson,0,0,actor,,20
+28,Angelina Johnson,,0,2001,0,0,0,0,0,Danielle Tabor,0,0,actor,,40
+29,Angelina Johnson,,3,2005,0,0,0,0,0,Tiana Benjamin,0,0,actor,,40
+30,Antonin Dolohov,,4,2007,0,0,0,0,0,Arben Bajraktaraj,0,0,actor,,10
+31,Aragog,,1,2002,0,0,0,0,0,Julian Glover,0,0,actor,,10
+32,Argus Filch,,0,2001,0,0,0,0,0,David Bradley,0,0,actor,,70
+33,Ariana Dumbledore,,7,2011,0,0,0,0,0,Hebe Beardsall,0,0,actor,,10
+34,Arthur Weasley,,1,2002,0,0,0,0,0,Mark Williams,0,0,actor,,60
+35,Aunt Marge,,2,2004,0,0,0,0,0,Pam Ferris,0,0,actor,,10
+36,Aunt Petunia,,0,2001,0,0,0,0,0,Fiona Shaw,0,0,actor,,10
+37,Aunt Petunia Dursley,,0,2001,0,0,0,0,0,Fiona Shaw,0,0,actor,,30
+38,Auntie Muriel Weasley,,6,2010,0,0,0,0,0,Matyelok Gibbs,0,0,actor,,10
+39,Azkaban Death Eater,,4,2007,0,0,0,0,0,Arben Bajraktaraj,0,0,actor,,10
+40,Baby Harry Potter,,0,2001,0,0,0,0,0,Saunders Triplets,0,0,actor,,20
+41,Baby Harry Potter,,7,2011,0,0,0,0,0,Toby Papworth,0,0,actor,,20
+42,Baby in Portrait,,2,2004,0,0,0,0,0,Tess Bu Cuarón,0,0,actor,,10
+43,Balding Wizard,,6,2010,0,0,0,0,0,George Potts,0,0,actor,,10
+44,Band Rhythm Guitar,,3,2005,0,0,0,0,0,Jason Buckle,0,0,actor,,10
+45,Bartemius 'Barty' Crouch,,3,2005,0,0,0,0,0,Roger Lloyd Pack,0,0,actor,,10
+46,Bartemius 'Barty' Crouch Junior,,3,2005,0,0,0,0,0,David Tennant,0,0,actor,,10
+47,Bathilda Bagshot,,6,2010,0,0,0,0,0,Hazel Douglas,0,0,actor,,10
+48,Bellatrix Lestrange,,4,2007,0,0,0,0,0,Helena Bonham Carter,0,0,actor,,40
+49,Bill Weasley,,6,2010,0,0,0,0,0,Domhnall Gleeson,0,0,actor,,20
+50,Blaise Zabini,,5,2009,0,0,0,0,0,Louis Cordice,0,0,actor,,30
+51,Bogrod,,7,2011,0,0,0,0,0,Jon Key,0,0,actor,,10
+52,Boy 1,,2,2004,0,0,0,0,0,Ekow Quartey,0,0,actor,,10
+53,Boy 2,,2,2004,0,0,0,0,0,Rick Sahota,0,0,actor,,10
+54,Bushy Haired Muttering Wizard,,6,2010,0,0,0,0,0,Daniel Hill,0,0,actor,,10
+55,Cedric Diggory,,3,2005,0,0,0,0,0,Robert Pattinson,0,0,actor,,20
+56,Charity Burbage,,6,2010,0,0,0,0,0,Carolyn Pickles,0,0,actor,,10
+57,Child at Zoo,,0,2001,0,0,0,0,0,Kieri Kennedy,0,0,actor,,10
+58,Cho Chang,,3,2005,0,0,0,0,0,Katie Leung,0,0,actor,,50
+59,Colin Creevey,,1,2002,0,0,0,0,0,Hugh Mitchell,0,0,actor,,10
+60,Cormac McLaggen,,5,2009,0,0,0,0,0,Freddie Stroma,0,0,actor,,30
+61,Cornelius Fudge,,1,2002,0,0,0,0,0,Robert Hardy,0,0,actor,,40
+62,Count - Moving Picture,,1,2002,0,0,0,0,0,David Tysall,0,0,actor,,10
+63,Dean Thomas,,0,2001,0,0,0,0,0,Alfred Enoch,0,0,actor,,70
+64,Death Eater,,6,2010,0,0,0,0,0,Adrian Annis,0,0,actor,,410
+65,Death Eater,,3,2005,0,0,0,0,0,Alex Palmer,0,0,actor,,410
+66,Death Eater,,6,2010,0,0,0,0,0,Anthony John Crocker,0,0,actor,,410
+67,Death Eater,,3,2005,0,0,0,0,0,Ashley Artus,0,0,actor,,410
+68,Death Eater,,6,2010,0,0,0,0,0,Ashley McGuire,0,0,actor,,410
+69,Death Eater,,6,2010,0,0,0,0,0,Bob Yves Van Hellenberg Hubar,0,0,actor,,410
+70,Death Eater,,7,2011,0,0,0,0,0,Elisabeth Roberts,0,0,actor,,410
+71,Death Eater,,6,2010,0,0,0,0,0,Emil Hostina,0,0,actor,,410
+72,Death Eater,,7,2011,0,0,0,0,0,Glen Stanway,0,0,actor,,410
+73,Death Eater,,6,2010,0,0,0,0,0,Graham Duff,0,0,actor,,410
+74,Death Eater,,6,2010,0,0,0,0,0,Granville Saxton,0,0,actor,,410
+75,Death Eater,,7,2011,0,0,0,0,0,Hrvoje Klecz,0,0,actor,,410
+76,Death Eater,,7,2011,0,0,0,0,0,Joe Kallis,0,0,actor,,410
+77,Death Eater,,6,2010,0,0,0,0,0,Jon Campling,0,0,actor,,410
+78,Death Eater,,6,2010,0,0,0,0,0,Judith Sharp,0,0,actor,,410
+79,Death Eater,,7,2011,0,0,0,0,0,Nick Turner,0,0,actor,,410
+80,Death Eater,,3,2005,0,0,0,0,0,Olivia Higginbottom,0,0,actor,,410
+81,Death Eater,,3,2005,0,0,0,0,0,Paschal Friel,0,0,actor,,410
+82,Death Eater,,6,2010,0,0,0,0,0,Paul Khanna,0,0,actor,,410
+83,Death Eater,,6,2010,0,0,0,0,0,Penelope McGhie,0,0,actor,,410
+84,Death Eater,,2,2004,0,0,0,0,0,Peter Best,0,0,actor,,410
+85,Death Eater,,6,2010,0,0,0,0,0,Peter G. Reed,0,0,actor,,410
+86,Death Eater,,3,2005,0,0,0,0,0,Philip Rham,0,0,actor,,410
+87,Death Eater,,6,2010,0,0,0,0,0,Rakesh Jhalli,0,0,actor,,410
+88,Death Eater,,4,2007,0,0,0,0,0,Richard Cubison,0,0,actor,,410
+89,Death Eater,,3,2005,0,0,0,0,0,Richard Rosson,0,0,actor,,410
+90,Death Eater,,6,2010,0,0,0,0,0,Richard Strange,0,0,actor,,410
+91,Death Eater,,4,2007,0,0,0,0,0,Richard Trinder,0,0,actor,,410
+92,Death Eater,,6,2010,0,0,0,0,0,Serena Catapano,0,0,actor,,410
+93,Death Eater,,6,2010,0,0,0,0,0,Simon Grover,0,0,actor,,410
+94,Death Eater,,4,2007,0,0,0,0,0,Tav MacDougall,0,0,actor,,410
+95,Death Eater,,6,2010,0,0,0,0,0,Tony Kirwood,0,0,actor,,410
+96,Death Eater in Gringotts,,6,2010,0,0,0,0,0,Jon Campling,0,0,actor,,10
+97,Death Eater Yaxley,,6,2010,0,0,0,0,0,Peter Mullan,0,0,actor,,10
+98,Deatheater,,7,2011,0,0,0,0,0,Johann Benét,0,0,actor,,50
+99,Deatheater,,3,2005,0,0,0,0,0,Paul Davies,0,0,actor,,50
+100,Dedalus Diggle,,0,2001,0,0,0,0,0,David Brett,0,0,actor,,10
+101,Diagon Alley Boy,,0,2001,0,0,0,0,0,Ben Borowiecki,0,0,actor,,10
+102,Diagon Alley Father,,5,2009,0,0,0,0,0,Ben Shephard,0,0,actor,,10
+103,Dimpled Woman on Train,,0,2001,0,0,0,0,0,Jean Southern,0,0,actor,,10
+104,Dobby,,1,2002,0,0,0,0,0,Toby Jones,0,0,actor,,10
+105,Dobby the House Elf,,1,2002,0,0,0,0,0,Toby Jones,0,0,actor,,10
+106,Dolores Umbridge,,4,2007,0,0,0,0,0,Imelda Staunton,0,0,actor,,30
+107,Draco Malfoy,,0,2001,0,0,0,0,0,Tom Felton,0,0,actor,,80
+108,Dudley Dursley,,0,2001,0,0,0,0,0,Harry Melling,0,0,actor,,50
+109,Dumbledore's Army Member,,4,2007,0,0,0,0,0,Siobhan Ellen Williams,0,0,actor,,10
+110,Eldred Worple,,5,2009,0,0,0,0,0,Paul Ritter,0,0,actor,,10
+111,Elphias Doge,,6,2010,0,0,0,0,0,David Ryall,0,0,actor,,20
+112,Elphias Doge,,4,2007,0,0,0,0,0,Peter Cartwright,0,0,actor,,20
+113,Emmeline Vance,,4,2007,0,0,0,0,0,Brigitte Millar,0,0,actor,,10
+114,Ernie MacMillan,,1,2002,0,0,0,0,0,Louis Doyle,0,0,actor,,20
+115,Ernie the Bus Driver,,2,2004,0,0,0,0,0,Jimmy Gardner,0,0,actor,,10
+116,Everard,,4,2007,0,0,0,0,0,Sam Beazley,0,0,actor,,10
+117,Fat Friar,,0,2001,0,0,0,0,0,Simon Fisher-Becker,0,0,actor,,10
+118,Fat Lady,,0,2001,0,0,0,0,0,Elizabeth Spriggs,0,0,actor,,10
+119,Fat Lady in Painting,,2,2004,0,0,0,0,0,Dawn French,0,0,actor,,10
+120,Feather Wizard,,5,2009,0,0,0,0,0,Stephen Modell,0,0,actor,,10
+121,Female Inferi,,5,2009,0,0,0,0,0,Caroline Wildi,0,0,actor,,10
+122,Fenrir Greyback,,5,2009,0,0,0,0,0,Dave Legeno,0,0,actor,,30
+123,Filius Flitwick,,0,2001,0,0,0,0,0,Warwick Davis,0,0,actor,,20
+124,Firenze,,0,2001,0,0,0,0,0,Ray Fearon,0,0,actor,,10
+125,Fleur Delacour,,3,2005,0,0,0,0,0,Clémence Poésy,0,0,actor,,30
+126,Food Trolley Lady,,3,2005,0,0,0,0,0,Margery Mason,0,0,actor,,10
+127,Frank Bryce,,3,2005,0,0,0,0,0,Eric Sykes,0,0,actor,,10
+128,Frank Longbottom,,4,2007,0,0,0,0,0,James Payton,0,0,actor,,10
+129,Fred Weasley,,0,2001,0,0,0,0,0,James Phelps,0,0,actor,,80
+130,Gabrielle Delacour,,3,2005,0,0,0,0,0,Angelica Mandy,0,0,actor,,20
+131,Gellert Grindelwald - old,,6,2010,0,0,0,0,0,Michael Byrne,0,0,actor,,10
+132,George Weasley,,0,2001,0,0,0,0,0,Oliver Phelps,0,0,actor,,80
+133,Ghost of the Cavalier,,0,2001,0,0,0,0,0,Paul Marc Davis,0,0,actor,,10
+134,Giant,,7,2011,0,0,0,0,0,Garry Sayer,0,0,actor,,30
+135,Giant,,7,2011,0,0,0,0,0,Phil Wright,0,0,actor,,30
+136,Giant,,7,2011,0,0,0,0,0,Tony Adkins,0,0,actor,,30
+137,Ginny Weasley,,0,2001,0,0,0,0,0,Bonnie Wright,0,0,actor,,80
+138,Girl 1,,2,2004,0,0,0,0,0,Kandice Morris,0,0,actor,,10
+139,Girl 2,,2,2004,0,0,0,0,0,Sharon Sandhu,0,0,actor,,10
+140,Girl With Flowers,,1,2002,0,0,0,0,0,Violet Columbus,0,0,actor,,20
+141,Goblin,,0,2001,0,0,0,0,0,Jimmy Vee,0,0,actor,,40
+142,Goblin,,0,2001,0,0,0,0,0,Kiran Shah,0,0,actor,,40
+143,Goblin,,0,2001,0,0,0,0,0,Nicholas Read,0,0,actor,,40
+144,Goblin,,0,2001,0,0,0,0,0,Paul Grant,0,0,actor,,40
+145,Goblin Bank Teller,,0,2001,0,0,0,0,0,Warwick Davis,0,0,actor,,10
+146,Grawp,,4,2007,0,0,0,0,0,Tony Maudsley,0,0,actor,,10
+147,Gregorovitch,,6,2010,0,0,0,0,0,Rade Serbedzija,0,0,actor,,10
+148,Gregory Goyle,,0,2001,0,0,0,0,0,Josh Herdman,0,0,actor,,80
+149,Griffindor Senior,,0,2001,0,0,0,0,0,David William James Elliott,0,0,actor,,10
+150,Gringotts Goblin,,7,2011,0,0,0,0,0,Arti Shah,0,0,actor,,110
+151,Gringotts Goblin,,7,2011,0,0,0,0,0,Josh Bennett,0,0,actor,,110
+152,Gringotts Goblin,,7,2011,0,0,0,0,0,Karen Anderson,0,0,actor,,110
+153,Gringotts Goblin,,7,2011,0,0,0,0,0,Keijo Salmela,0,0,actor,,110
+154,Gringotts Goblin,,7,2011,0,0,0,0,0,Lauren Barrand,0,0,actor,,110
+155,Gringotts Goblin,,0,2001,0,0,0,0,0,Lisa Osmond,0,0,actor,,110
+156,Gringotts Goblin,,0,2001,0,0,0,0,0,Mark Sealey,0,0,actor,,110
+157,Gringotts Goblin,,7,2011,0,0,0,0,0,Maxwell Laird,0,0,actor,,110
+158,Gringotts Goblin,,7,2011,0,0,0,0,0,Michael Henbury Ballan,0,0,actor,,110
+159,Gringott's Goblin,,0,2001,0,0,0,0,0,Rusty Goffe,0,0,actor,,20
+160,Griphook,,0,2001,0,0,0,0,0,Warwick Davis,0,0,actor,,20
+161,Griphook the Goblin,,0,2001,0,0,0,0,0,Verne Troyer,0,0,actor,,10
+162,Gryffindor Prefect,,0,2001,0,0,0,0,0,Richard Alan Reid,0,0,actor,,10
+163,Gryffindor School Girl,,5,2009,0,0,0,0,0,Ifeoma Oboko,0,0,actor,,10
+164,Hannah Abbott,,1,2002,0,0,0,0,0,Charlotte Skeoch,0,0,actor,,20
+165,Harry Potter,,0,2001,0,0,0,0,0,Daniel Radcliffe,0,0,actor,,80
+166,He Who Must Not Be Named,,0,2001,0,0,0,0,0,Richard Bremmer,0,0,actor,,10
+167,Helena Ravenclaw,,7,2011,0,0,0,0,0,Kelly Macdonald,0,0,actor,,10
+168,Hermione Granger,,0,2001,0,0,0,0,0,Emma Watson,0,0,actor,,80
+169,Hogsmeade Death Eater,,7,2011,0,0,0,0,0,Benn Northover,0,0,actor,,20
+170,Hogsmeade Death Eater,,7,2011,0,0,0,0,0,Ian Peck,0,0,actor,,20
+171,Hogwarts Schoolboy,,0,2001,0,0,0,0,0,Darren Tough,0,0,actor,,40
+172,Hogwarts Schoolboy,,0,2001,0,0,0,0,0,Derek Hough,0,0,actor,,40
+173,Hogwarts Schoolboy,,0,2001,0,0,0,0,0,Lukas Bennett,0,0,actor,,40
+174,Hogwarts Schoolboy,,0,2001,0,0,0,0,0,Mark Ballas,0,0,actor,,40
+175,Hogwarts Schoolgirl,,0,2001,0,0,0,0,0,Julianne Hough,0,0,actor,,10
+176,Hogwarts Student,,0,2001,0,0,0,0,0,Bernadette Jane Vanderkar,0,0,actor,,80
+177,Hogwarts Student,,0,2001,0,0,0,0,0,Cath Peakin,0,0,actor,,80
+178,Hogwarts Student,,0,2001,0,0,0,0,0,Dolly Thompson,0,0,actor,,80
+179,Hogwarts Student,,0,2001,0,0,0,0,0,Jason Porter,0,0,actor,,80
+180,Hogwarts Student,,0,2001,0,0,0,0,0,Maria Coyne,0,0,actor,,80
+181,Hogwarts Student,,7,2011,0,0,0,0,0,Matthew Hodgkin,0,0,actor,,80
+182,Hogwarts Student,,0,2001,0,0,0,0,0,Will Howes,0,0,actor,,80
+183,Hogwarts' Student,,0,2001,0,0,0,0,0,Bianca Sowerby,0,0,actor,,50
+184,Hogwarts' Student,,4,2007,0,0,0,0,0,Clive Elkington,0,0,actor,,50
+185,Hogwarts' Student,,0,2001,0,0,0,0,0,Oliver Lavery-Farag,0,0,actor,,50
+186,Hogwarts' Student,,4,2007,0,0,0,0,0,Paije Richardson,0,0,actor,,50
+187,Igor Karkaroff,,3,2005,0,0,0,0,0,Predrag Bjelac,0,0,actor,,10
+188,James Potter,,0,2001,0,0,0,0,0,Adrian Rawlins,0,0,actor,,70
+189,James Potter - 19 Years Later,,7,2011,0,0,0,0,0,Will Dunn,0,0,actor,,10
+190,John Dawlish,,4,2007,0,0,0,0,0,Richard Leaf,0,0,actor,,10
+191,Justin Finch-Fletchley,,1,2002,0,0,0,0,0,Edward Randell,0,0,actor,,10
+192,Katie Bell,,0,2001,0,0,0,0,0,Emily Dale,0,0,actor,,50
+193,Katie Bell,,5,2009,0,0,0,0,0,Georgina Leonidas,0,0,actor,,50
+194,Kingsley Shacklebolt,,4,2007,0,0,0,0,0,George Harris,0,0,actor,,30
+195,Kreacher,,6,2010,0,0,0,0,0,Simon McBurney,0,0,actor,,20
+196,Kreacher,,4,2007,0,0,0,0,0,Timothy Bateson,0,0,actor,,20
+197,Lavender Brown,,2,2004,0,0,0,0,0,Jennifer Smith,0,0,actor,,40
+198,Lavender Brown,,5,2009,0,0,0,0,0,Jessie Cave,0,0,actor,,40
+199,Leanne,,5,2009,0,0,0,0,0,Isabella Laughland,0,0,actor,,30
+200,Lee Jordan,,0,2001,0,0,0,0,0,Luke Youngblood,0,0,actor,,20
+201,Lily Potter,,0,2001,0,0,0,0,0,Geraldine Somerville,0,0,actor,,80
+202,Lily Potter - 19 Years Later,,7,2011,0,0,0,0,0,Daphne de Beistegui,0,0,actor,,10
+203,London Office Worker,,5,2009,0,0,0,0,0,David Hankinson,0,0,actor,,10
+204,Lord Voldemort,,3,2005,0,0,0,0,0,Ralph Fiennes,0,0,actor,,40
+205,Lucius Malfoy,,1,2002,0,0,0,0,0,Jason Isaacs,0,0,actor,,60
+206,Luna Lovegood,,4,2007,0,0,0,0,0,Evanna Lynch,0,0,actor,,40
+207,Madam Irma Pince,,1,2002,0,0,0,0,0,Sally Mortemore,0,0,actor,,10
+208,Madam Pomfrey,,1,2002,0,0,0,0,0,Gemma Jones,0,0,actor,,30
+209,Madame Hooch,,0,2001,0,0,0,0,0,Zoë Wanamaker,0,0,actor,,10
+210,Madame Maxime,,3,2005,0,0,0,0,0,Frances de la Tour,0,0,actor,,10
+211,Madame Olympe Maxime,,3,2005,0,0,0,0,0,Frances de la Tour,0,0,actor,,20
+212,Madame Olympe Maxime,,3,2005,0,0,0,0,0,Ian Whyte,0,0,actor,,20
+213,Madame Rosmerta,,2,2004,0,0,0,0,0,Julie Christie,0,0,actor,,10
+214,Mafalda Hopkirk,,4,2007,0,0,0,0,0,Jessica Hynes,0,0,actor,,20
+215,Mafalda Hopkirk,,6,2010,0,0,0,0,0,Sophie Thompson,0,0,actor,,20
+216,Malcolm,,4,2007,0,0,0,0,0,Richard Macklin,0,0,actor,,10
+217,Male Inferi,,5,2009,0,0,0,0,0,Joerg Stadler,0,0,actor,,10
+218,Man in Armour Portrait,,0,2001,0,0,0,0,0,Miles Richardson,0,0,actor,,10
+219,Man in the Leaky Cauldron Reading Book,,2,2004,0,0,0,0,0,Ian Brown,0,0,actor,,10
+220,Marcus Belby,,5,2009,0,0,0,0,0,Robert Knox,0,0,actor,,10
+221,Marcus Flint,,0,2001,0,0,0,0,0,Will Theakston,0,0,actor,,10
+222,Mary Cattermole,,6,2010,0,0,0,0,0,Kate Fleetwood,0,0,actor,,10
+223,Millicent Bulstrode,,1,2002,0,0,0,0,0,Helen Stuart,0,0,actor,,10
+224,Minerva McGonagall,,0,2001,0,0,0,0,0,Maggie Smith,0,0,actor,,20
+225,Minister Rufus Scrimgeour,,6,2010,0,0,0,0,0,Bill Nighy,0,0,actor,,10
+226,Ministry Lift,,6,2010,0,0,0,0,0,Daisy Haggard,0,0,actor,,10
+227,Ministry Wizard,,6,2010,0,0,0,0,0,Greg Bennett,0,0,actor,,40
+228,Ministry Wizard,,6,2010,0,0,0,0,0,Paul Redfern,0,0,actor,,40
+229,Ministry Wizard,,6,2010,0,0,0,0,0,Paul Warren,0,0,actor,,40
+230,Ministry Wizard,,6,2010,0,0,0,0,0,Sarah Jane O'Neill,0,0,actor,,40
+231,Moaning Myrtle,,1,2002,0,0,0,0,0,Shirley Henderson,0,0,actor,,20
+232,Molly Weasley,,0,2001,0,0,0,0,0,Julie Walters,0,0,actor,,50
+233,Mother in Portrait,,2,2004,0,0,0,0,0,Annalisa Bugliani,0,0,actor,,10
+234,Mr. Arthur Weasley,,1,2002,0,0,0,0,0,Mark Williams,0,0,actor,,10
+235,Mr. Borgin,,1,2002,0,0,0,0,0,Edward Tudor-Pole,0,0,actor,,10
+236,Mr. Granger,,6,2010,0,0,0,0,0,Ian Kelly,0,0,actor,,20
+237,Mr. Granger,,1,2002,0,0,0,0,0,Tom Knight,0,0,actor,,20
+238,Mr. Mason,,1,2002,0,0,0,0,0,Jim Norton,0,0,actor,,10
+239,Mr. Ollivander,,0,2001,0,0,0,0,0,John Hurt,0,0,actor,,10
+240,Mrs Weasley,,0,2001,0,0,0,0,0,Julie Walters,0,0,actor,,10
+241,Mrs. Arabella Figg,,4,2007,0,0,0,0,0,Kathryn Hunter,0,0,actor,,10
+242,Mrs. Cole,,5,2009,0,0,0,0,0,Amelda Brown,0,0,actor,,10
+243,Mrs. Granger,,1,2002,0,0,0,0,0,Heather Bleasdale,0,0,actor,,20
+244,Mrs. Granger,,6,2010,0,0,0,0,0,Michelle Fairley,0,0,actor,,20
+245,Mrs. Mason,,1,2002,0,0,0,0,0,Veronica Clifford,0,0,actor,,10
+246,Mrs. Molly Weasley,,0,2001,0,0,0,0,0,Julie Walters,0,0,actor,,10
+247,Muggle,,5,2009,0,0,0,0,0,Michael Thomson,0,0,actor,,30
+248,Muggle,,5,2009,0,0,0,0,0,Simon John Wilson,0,0,actor,,30
+249,Muggle,,5,2009,0,0,0,0,0,Yvonne Quenet,0,0,actor,,30
+250,Mundungus Fletcher,,6,2010,0,0,0,0,0,Andy Linden,0,0,actor,,10
+251,Narcissa Malfoy,,5,2009,0,0,0,0,0,Helen McCrory,0,0,actor,,30
+252,Nearly Headless Nick,,0,2001,0,0,0,0,0,John Cleese,0,0,actor,,20
+253,Neville Longbottom,,0,2001,0,0,0,0,0,Matthew Lewis,0,0,actor,,80
+254,Nigel,,3,2005,0,0,0,0,0,William Melling,0,0,actor,,40
+255,Nigel 2nd Year,,3,2005,0,0,0,0,0,William Melling,0,0,actor,,10
+256,Nymphadora Tonks,,4,2007,0,0,0,0,0,Natalia Tena,0,0,actor,,40
+257,Old Man in Portrait,,2,2004,0,0,0,0,0,Freddie Davies,0,0,actor,,10
+258,Oliver Wood,,0,2001,0,0,0,0,0,Sean Biggerstaff,0,0,actor,,20
+259,Ollivander,,0,2001,0,0,0,0,0,John Hurt,0,0,actor,,20
+260,Padma Patil,,3,2005,0,0,0,0,0,Afshan Azad,0,0,actor,,50
+261,Pansy Parkinson,,2,2004,0,0,0,0,0,Genevieve Gaunt,0,0,actor,,40
+262,Pansy Parkinson,,5,2009,0,0,0,0,0,Scarlett Byrne,0,0,actor,,40
+263,Parvati Patel,,2,2004,0,0,0,0,0,Sitara Shah,0,0,actor,,10
+264,Parvati Patil,,3,2005,0,0,0,0,0,Shefali Chowdhury,0,0,actor,,30
+265,Penelope Clearwater,,1,2002,0,0,0,0,0,Gemma Padley,0,0,actor,,10
+266,Percy Weasley,,0,2001,0,0,0,0,0,Chris Rankin,0,0,actor,,50
+267,Peter Pettigrew,,2,2004,0,0,0,0,0,Timothy Spall,0,0,actor,,20
+268,Petunia Dursley,,0,2001,0,0,0,0,0,Fiona Shaw,0,0,actor,,10
+269,Piers,,4,2007,0,0,0,0,0,Jason Boyd,0,0,actor,,10
+270,Pius Thicknesse,,6,2010,0,0,0,0,0,Guy Henry,0,0,actor,,20
+271,Professor Alastor 'Mad­Eye' Moody,,3,2005,0,0,0,0,0,Brendan Gleeson,0,0,actor,,10
+272,Professor Albus Dumbledore,,2,2004,0,0,0,0,0,Michael Gambon,0,0,actor,,50
+273,Professor Albus Dumbledore,,0,2001,0,0,0,0,0,Richard Harris,0,0,actor,,50
+274,Professor Filius Flitwick,,0,2001,0,0,0,0,0,Warwick Davis,0,0,actor,,10
+275,Professor Flitwick,,0,2001,0,0,0,0,0,Warwick Davis,0,0,actor,,10
+276,Professor Gilderoy Lockhart,,1,2002,0,0,0,0,0,Kenneth Branagh,0,0,actor,,10
+277,Professor Horace Slughorn,,5,2009,0,0,0,0,0,Jim Broadbent,0,0,actor,,20
+278,Professor Lupin,,2,2004,0,0,0,0,0,David Thewlis,0,0,actor,,10
+279,Professor Minerva McGonagall,,0,2001,0,0,0,0,0,Maggie Smith,0,0,actor,,50
+280,Professor Pomona Sprout,,1,2002,0,0,0,0,0,Miriam Margolyes,0,0,actor,,20
+281,Professor Quirinus Quirrell,,0,2001,0,0,0,0,0,Ian Hart,0,0,actor,,20
+282,Professor Severus Snape,,0,2001,0,0,0,0,0,Alan Rickman,0,0,actor,,40
+283,Professor Sybil Trelawney,,2,2004,0,0,0,0,0,Emma Thompson,0,0,actor,,20
+284,Quidditch Player,,0,2001,0,0,0,0,0,Amy Puglia,0,0,actor,,10
+285,Red Haired Witch,,6,2010,0,0,0,0,0,Rose Keegan,0,0,actor,,10
+286,Reg Cattermole,,6,2010,0,0,0,0,0,Steffan Rhodri,0,0,actor,,10
+287,Remus Lupin,,2,2004,0,0,0,0,0,David Thewlis,0,0,actor,,40
+288,Rita Skeeter,,3,2005,0,0,0,0,0,Miranda Richardson,0,0,actor,,20
+289,Ritchie Coote,,5,2009,0,0,0,0,0,Ashley Virgil,0,0,actor,,10
+290,Roger Davies,,3,2005,0,0,0,0,0,Henry Lloyd-Hughes,0,0,actor,,10
+291,Romilda Vane,,5,2009,0,0,0,0,0,Anna Shaffer,0,0,actor,,30
+292,Ron Weasley,,0,2001,0,0,0,0,0,Rupert Grint,0,0,actor,,80
+293,Rowle,,5,2009,0,0,0,0,0,Rod Hunt,0,0,actor,,10
+294,Rubeus Hagrid,,0,2001,0,0,0,0,0,Robbie Coltrane,0,0,actor,,80
+295,Scabior,,6,2010,0,0,0,0,0,Nick Moran,0,0,actor,,20
+296,Schoolgirl,,0,2001,0,0,0,0,0,Holly-Ann Filtness,0,0,actor,,20
+297,Schoolgirl,,3,2005,0,0,0,0,0,Sarah Harrison,0,0,actor,,20
+298,Scorpius Malfoy - 19 Years Later,,7,2011,0,0,0,0,0,Bertie Gilbert,0,0,actor,,10
+299,Seamus Finnegan,,0,2001,0,0,0,0,0,Devon Murray,0,0,actor,,10
+300,Seamus Finnigan,,0,2001,0,0,0,0,0,Devon Murray,0,0,actor,,70
+301,Severus Snape,,0,2001,0,0,0,0,0,Alan Rickman,0,0,actor,,40
+302,Shrunken Head,,2,2004,0,0,0,0,0,Lenny Henry,0,0,actor,,10
+303,Sir Cadogan,,2,2004,0,0,0,0,0,Paul Whitehouse,0,0,actor,,10
+304,Sirius Black,,2,2004,0,0,0,0,0,Gary Oldman,0,0,actor,,40
+305,Skinny Kid,,5,2009,0,0,0,0,0,Jack Pryor,0,0,actor,,10
+306,Skinny Ministry Wizard,,6,2010,0,0,0,0,0,Daniel Tuite,0,0,actor,,10
+307,SlugClub Member,,5,2009,0,0,0,0,0,Elliott Francis,0,0,actor,,20
+308,Slytherin Quidditch Captain Marcus Flint,,1,2002,0,0,0,0,0,Jamie Yeates,0,0,actor,,10
+309,Slytherin Student,,7,2011,0,0,0,0,0,Amy Wiles,0,0,actor,,30
+310,Slytherin Student,,1,2002,0,0,0,0,0,Macéo Bhardwaj,0,0,actor,,30
+311,Slytherin Student,,3,2005,0,0,0,0,0,Reece Mack,0,0,actor,,30
+312,Snatcher,,6,2010,0,0,0,0,0,Charlotte Atkinson,0,0,actor,,40
+313,Snatcher,,7,2011,0,0,0,0,0,Christoph Cordell,0,0,actor,,40
+314,Snatcher,,7,2011,0,0,0,0,0,Collet Collins,0,0,actor,,40
+315,Snatcher,,6,2010,0,0,0,0,0,Samuel Roukin,0,0,actor,,40
+316,Sophie,,5,2009,0,0,0,0,0,Teresa Mahoney,0,0,actor,,10
+317,Stan Shunpike,,2,2004,0,0,0,0,0,Lee Ingleby,0,0,actor,,10
+318,Station Guard,,0,2001,0,0,0,0,0,Harry Taylor,0,0,actor,,20
+319,Student,,0,2001,0,0,0,0,0,Stefan Pejic,0,0,actor,,10
+320,Susan Bones,,0,2001,0,0,0,0,0,Eleanor Columbus,0,0,actor,,20
+321,Sybil Trelawney,,2,2004,0,0,0,0,0,Emma Thompson,0,0,actor,,10
+322,Teddy Lupin,,7,2011,0,0,0,0,0,Luke Newberry,0,0,actor,,10
+323,Terrence Higgs,,0,2001,0,0,0,0,0,Scot Fearn,0,0,actor,,10
+324,The Bloody Baron,,0,2001,0,0,0,0,0,Terence Bayler,0,0,actor,,10
+325,The Executioner,,2,2004,0,0,0,0,0,Peter Best,0,0,actor,,10
+326,The Grey Lady,,0,2001,0,0,0,0,0,Nina Young,0,0,actor,,10
+327,The Sorting Hat,,0,2001,0,0,0,0,0,Leslie Phillips,0,0,actor,,30
+328,Thorfinn Rowle,,5,2009,0,0,0,0,0,Rod Hunt,0,0,actor,,10
+329,Tom - Bartender in Leaky Cauldron,,0,2001,0,0,0,0,0,Derek Deadman,0,0,actor,,10
+330,Tom Marvolo Riddle,,1,2002,0,0,0,0,0,Christian Coulson,0,0,actor,,20
+331,Tom Riddle (11 Years),,5,2009,0,0,0,0,0,Hero Fiennes-Tiffin,0,0,actor,,10
+332,Tom Riddle (16 Years),,5,2009,0,0,0,0,0,Frank Dillane,0,0,actor,,10
+333,Tom Riddle (double),,5,2009,0,0,0,0,0,Calum Sivyer,0,0,actor,,10
+334,Tom the Innkeeper,,2,2004,0,0,0,0,0,Jim Tavaré,0,0,actor,,10
+335,Twin Girl #1,,5,2009,0,0,0,0,0,Amber Evans,0,0,actor,,10
+336,Twin Girl #2,,5,2009,0,0,0,0,0,Ruby Evans,0,0,actor,,10
+337,Twin Girl 1,,5,2009,0,0,0,0,0,Amber Evans,0,0,actor,,20
+338,Twin Girl 2,,5,2009,0,0,0,0,0,Ruby Evans,0,0,actor,,20
+339,Uncle Vernon,,0,2001,0,0,0,0,0,Richard Griffiths,0,0,actor,,10
+340,Uncle Vernon Dursley,,0,2001,0,0,0,0,0,Richard Griffiths,0,0,actor,,30
+341,Veela,,6,2010,0,0,0,0,0,Alison Cain,0,0,actor,,10
+342,Vernon Dursley,,0,2001,0,0,0,0,0,Richard Griffiths,0,0,actor,,10
+343,Viktor Krum,,3,2005,0,0,0,0,0,Stanislav Ianevski,0,0,actor,,20
+344,Vincent Crabbe,,0,2001,0,0,0,0,0,Jamie Waylett,0,0,actor,,60
+345,Waiter,,5,2009,0,0,0,0,0,Mark Lockyer,0,0,actor,,10
+346,Waitress,,5,2009,0,0,0,0,0,Elarica Johnson,0,0,actor,,20
+347,Waitress,,6,2010,0,0,0,0,0,Eva Alexander,0,0,actor,,20
+348,Wendy Slinkhard,,5,2009,0,0,0,0,0,Nina Aimer Fox,0,0,actor,,10
+349,Wizard,,3,2005,0,0,0,0,0,Alex Argenti,0,0,actor,,50
+350,Wizard,,3,2005,0,0,0,0,0,Natasha Jenssen,0,0,actor,,50
+351,Wizard,,1,2002,0,0,0,0,0,Sean Cronin,0,0,actor,,50
+352,Wizard,,1,2002,0,0,0,0,0,Terence McAuley,0,0,actor,,50
+353,Wizard,,0,2001,0,0,0,0,0,Warwick Davis,0,0,actor,,50
+354,Wizard Teacher,,5,2009,0,0,0,0,0,Neil Findlater,0,0,actor,,10
+355,Wormtail,,2,2004,0,0,0,0,0,Timothy Spall,0,0,actor,,30
+356,Wormtail (Peter Pettigrew),,2,2004,0,0,0,0,0,Timothy Spall,0,0,actor,,10
+357,Xenophilius Lovegood,,6,2010,0,0,0,0,0,Rhys Ifans,0,0,actor,,10
+358,Year 7 Schoolboy,,5,2009,0,0,0,0,0,Freddie Rose,0,0,actor,,10
+359,Young Albus Dumbledore,,6,2010,0,0,0,0,0,Toby Regbo,0,0,actor,,10
+360,Young Gellert Grindelwald,,6,2010,0,0,0,0,0,Jamie Campbell Bower,0,0,actor,,10
+361,Young James Potter,,7,2011,0,0,0,0,0,Alfie McIlwain,0,0,actor,,20
+362,Young James Potter,,4,2007,0,0,0,0,0,Robbie Jarvis,0,0,actor,,20
+363,Young Lily Potter,,7,2011,0,0,0,0,0,Ellie Darcey-Alden,0,0,actor,,10
+364,Young Peter Pettigrew,,4,2007,0,0,0,0,0,Charles Hughes,0,0,actor,,10
+365,Young Petunia Dursley,,7,2011,0,0,0,0,0,Ariella Paradise,0,0,actor,,10
+366,Young Remus Lupin,,4,2007,0,0,0,0,0,James Utechin,0,0,actor,,10
+367,Young Rubeus Hagrid,,1,2002,0,0,0,0,0,Martin Bayfield,0,0,actor,,10
+368,Young Severus Snape,,4,2007,0,0,0,0,0,Alec Hopkins,0,0,actor,,20
+369,Young Severus Snape,,7,2011,0,0,0,0,0,Benedict Clarke,0,0,actor,,20
+370,Young Sirius Black,,4,2007,0,0,0,0,0,James Walters,0,0,actor,,20
+371,Young Sirius Black,,7,2011,0,0,0,0,0,Rohan Gotobed,0,0,actor,,20
+372,Young Witch Maid,,2,2004,0,0,0,0,0,Abby Ford,0,0,actor,,10
+373,Zacharias Smith,,4,2007,0,0,0,0,0,Nick Shirm,0,0,actor,,10
